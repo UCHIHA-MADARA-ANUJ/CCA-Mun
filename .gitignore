@@ -1,0 +1,6 @@
+# Local archives and temporary files
+upload_ready_zips/
+*.zip
+.DS_Store
+__pycache__/
+*.pyc
