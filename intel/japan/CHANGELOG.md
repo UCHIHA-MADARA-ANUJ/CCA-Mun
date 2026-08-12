@@ -56,3 +56,7 @@
 
 ## 2026-08-12 — Wave 4b: Kazakhstan priority recruitment script dispatched
 - Full-name ECO-NEXUS pitch DM written for KZ (mandate-anchored: A/RES/78/240 + 79/60, Semipalatinsk 456 tests/closed 1991, 4th-largest arsenal renounced, LEU Bank Ust-Kamenogorsk, CTBTO IMS stations) — offer: L3 REMEDIATE pillar co-custody w/ Mexico. Reserve sweeteners listed (pillar-first sponsor billing, caucus speech opener); pen red-lines held (umbrella clause + preamble stay JP).
+
+## 2026-08-12 — Wave 5: Branch cleanup + treasure recovery
+- Pushed session branch to GitHub for first time (user visible now). Deleted stray branch arena/019fdce9 per user order — BUT recovered 24 files first: full prev-session 8-lane dossier (dossiers/Japan_UNGA_Ecological_Nuclear/), MUN_FIELD_MANUAL.md, skills 41–47 (elite tier), templates/00–06. GitHub now = main + arena/019ff3dc-cca-mun only.
+- **INTEL JACKPOT:** conference dates Aug 21–22, 2026 + GSL 90s recovered from prev-session dossier [RECOVERED INTEL — pending user/brochure confirmation]. ALPS batch 22 ends ~Aug 17 → data-vindication timing; Sept meeting ~2 weeks after → W1 custody live.
