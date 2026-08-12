@@ -64,3 +64,12 @@
 ## 2026-08-12 — Wave 6: unknowns massacre (research closures)
 - E31: Sept victim-assistance meeting = 1 SEP 2026 ECOSOC Chamber [FACT]. E32: A/RES/80/56 plenary 170-4-5 [FACT] + India-abstains whip note. E33: Pu stockpile 45.1t w/ INFCIRC/549 citation — quarantine lifted [FACT 2023 data]. E34: US L.4 EOV nuance patch to W2. E35: L.31 radioactive-dumping floor intel. E36: ROK 2024 EOV flag.
 - Remaining open items: L.4 plenary number (minor), per-state whip-chart grind (queued), matrix PDF + date confirmation + ROP (user-blocked).
+
+## 2026-08-12 — Wave 7: FULL GRIND (user: "know EVERYTHING")
+- USER CONFIRMED conference dates 21–22 Aug 2026 → upgraded RECOVERED INTEL → FACT. GSL 90s treated as confirmed.
+- Building full weapon stack: bloc charter (17), draft resolution WP1 (drafts/), POI pack (18), rebuttal pack (19), red team WP1 (20), whip math (21).
+
+## 2026-08-12 — Wave 7 (cont.): THE FULL STACK BUILT
+- E37: L.4 plenary 147-5-26 [FACT] → evidence log complete on franchise file.
+- BUILT: `17_bloc_charter.md` (BLOC DOC + WhatsApp paste); `drafts/JAPAN_WP1_working_paper.md` (PP1-11, OP1-12, custody-coded, stealth payload embedded, concession bank + fight-to-death lines); `18_poi_pack.md` (13 POIs + counter-POIs); `19_rebuttal_pack.md` (A1-A10 scripted kills); `20_red_team_wp1.md` (full clause-by-clause self-attack + fallbacks); `21_committee_whip_math.md` (thresholds, clusters, whip territories, day-sequence).
+- REMAINING USER-BLOCKED ONLY: official matrix PDF (recalibrates §21 numbers), ROP confirmation.
