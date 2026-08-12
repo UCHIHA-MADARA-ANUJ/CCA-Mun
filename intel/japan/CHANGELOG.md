@@ -53,3 +53,6 @@
 - Bloc at 7 confirmed: JP, IR, IN, MX, PH, CA, +NEW Switzerland.
 - New: `16_nexus_working_program.md` — THE NEXUS FRAMEWORK (MONITOR/RESPOND/REMEDIATE 3-layer machine), group-chat announcement text, full custody map (current 7 + projected 5), and Section 4: Japan's stealth payload S1–S6 (ALPS shield via IAEA-standard entrenchment, ALPS exemption via scope line, Fukushima-flip teacher clause, industry lane, September-2026 custody, hub candidacy). Marked eyes-only.
 - Strike order confirmed: Germany → SK → Brazil = 10, then SA, UAE stretch; cap 12.
+
+## 2026-08-12 — Wave 4b: Kazakhstan priority recruitment script dispatched
+- Full-name ECO-NEXUS pitch DM written for KZ (mandate-anchored: A/RES/78/240 + 79/60, Semipalatinsk 456 tests/closed 1991, 4th-largest arsenal renounced, LEU Bank Ust-Kamenogorsk, CTBTO IMS stations) — offer: L3 REMEDIATE pillar co-custody w/ Mexico. Reserve sweeteners listed (pillar-first sponsor billing, caucus speech opener); pen red-lines held (umbrella clause + preamble stay JP).
