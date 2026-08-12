@@ -60,3 +60,7 @@
 ## 2026-08-12 — Wave 5: Branch cleanup + treasure recovery
 - Pushed session branch to GitHub for first time (user visible now). Deleted stray branch arena/019fdce9 per user order — BUT recovered 24 files first: full prev-session 8-lane dossier (dossiers/Japan_UNGA_Ecological_Nuclear/), MUN_FIELD_MANUAL.md, skills 41–47 (elite tier), templates/00–06. GitHub now = main + arena/019ff3dc-cca-mun only.
 - **INTEL JACKPOT:** conference dates Aug 21–22, 2026 + GSL 90s recovered from prev-session dossier [RECOVERED INTEL — pending user/brochure confirmation]. ALPS batch 22 ends ~Aug 17 → data-vindication timing; Sept meeting ~2 weeks after → W1 custody live.
+
+## 2026-08-12 — Wave 6: unknowns massacre (research closures)
+- E31: Sept victim-assistance meeting = 1 SEP 2026 ECOSOC Chamber [FACT]. E32: A/RES/80/56 plenary 170-4-5 [FACT] + India-abstains whip note. E33: Pu stockpile 45.1t w/ INFCIRC/549 citation — quarantine lifted [FACT 2023 data]. E34: US L.4 EOV nuance patch to W2. E35: L.31 radioactive-dumping floor intel. E36: ROK 2024 EOV flag.
+- Remaining open items: L.4 plenary number (minor), per-state whip-chart grind (queued), matrix PDF + date confirmation + ROP (user-blocked).
