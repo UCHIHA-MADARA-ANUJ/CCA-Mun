@@ -97,3 +97,6 @@
 
 ## 2026-08-13 — GSL v2 "The Salvo" (user specs: country voice, hook-then-greet, multi-target)
 - Rewritten per user feedback: no first person; chair greeting moved post-hook; 5-camp target map (US/RU New START, RU/ZNPP single line, CN opaque buildup, DPRK "irreversible", FR/UK/RU/DPRK NO-quartet) each w/ logged receipts.
+
+## 2026-08-13 — GSL v3 "Full Form" (all 7 GSL organs + salvo kept)
+- 220-word full-anatomy GSL: hook, post-hook greeting, stance, country record (franchise/cleanup/Nobel), named solution (3 instruments), committee directive, call-to-arms. Safety trims marked to 200. Stealth payload S3 activated verbally (cleanup-teacher pre-frame).
