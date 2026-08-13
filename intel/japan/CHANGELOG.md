@@ -108,3 +108,6 @@
 - 220-word final fused: full GSL anatomy + 5-camp salvo + Ishiba Nagasaki-wisdom hinge + 4 delivery drills + instant-defense kit. Printed version = SPEECHES/GSL_FINAL.md.
 
 ## 2026-08-13 — SPEECHES/ cleaned: drafts v1–v3 deleted per user; GSL_FINAL.md is the sole speech file.
+
+## 2026-08-13 — GSL FINAL v4: SOLO-DOCTRINE EDITION (user doctrine correction VERIFIED CORRECT)
+- Research verdict: GSL guides (Oxford Global, Delhi MUN, WiseMee CIA/echo method) confirm GSL = national position + solutions + invitation; named-bloc parade is not doctrine. v4 cuts bloc-name/member-count from podium; replaces with "open to every flag" instruments line + universal invite close ("Whoever you are — build with us"). Bloc reveal deferred to unmoderated caucus. All verified weapons retained.
