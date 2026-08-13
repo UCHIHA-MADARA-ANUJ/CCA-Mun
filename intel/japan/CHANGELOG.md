@@ -103,3 +103,6 @@
 
 ## 2026-08-13 — MOFA UNGA-80 PM speech harvested (user-supplied link)
 - E38: verbatim official-voice assets logged: TPNW answer, deterrence answer, "Nagasaki-last" signature line, P5 nuclear-threat line, DPRK paragraph. Rebuttal pack A3/A4 upgraded to prime-ministerial quotes. GSL v3.1 optional closer staged (Nagasaki-wisdom line) on command `GSL NAGASAKI`.
+
+## 2026-08-13 — GSL FINAL LOCKED: "The Builder's Indictment"
+- 220-word final fused: full GSL anatomy + 5-camp salvo + Ishiba Nagasaki-wisdom hinge + 4 delivery drills + instant-defense kit. Printed version = SPEECHES/GSL_FINAL.md.
