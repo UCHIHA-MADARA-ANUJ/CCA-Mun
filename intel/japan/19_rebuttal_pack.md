@@ -40,3 +40,10 @@
 
 ---
 **Delivery doctrine:** Pick your rebuttal by who's watching. Chair present → cite instruments (IAEA, INFCIRC, resolutions). Delegates present → cite numbers. Press present → cite one number and one quote. Never defend twice consecutively; after rebutting, POI a friendly to hand the floor's attention elsewhere (file 18 §B).
+
+---
+
+## 🛡️ A3/A4 OFFICIAL-VOICE UPGRADE (mofa.go.jp, PM UNGA-80 address, 23 Sep 2025)
+- If attacked on TPNW (A3), add the kill-tap: *"This is not this delegation's talking point — it is my Government's answer at this very podium: the NPT, uniting weapons states and non-weapons states, is the most effective and realistic framework. We pursue a world without nuclear weapons by gathering everyone, not by applauding ourselves."*
+- If attacked on the umbrella (A4): *"Extended deterrence remains necessary — that is the responsible protection of our citizens. Yet the nuclear catastrophe our nation experienced must never be repeated. Japan's position is not hypocrisy; it is a government's first duty, spoken aloud by our Prime Minister at UNGA 80."*
+- Power effect: quoting your own PM at the UN = the chair can't mark it as invented rhetoric. Date-stamp: "September 23rd, this General Assembly hall."

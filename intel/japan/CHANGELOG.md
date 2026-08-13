@@ -100,3 +100,6 @@
 
 ## 2026-08-13 — GSL v3 "Full Form" (all 7 GSL organs + salvo kept)
 - 220-word full-anatomy GSL: hook, post-hook greeting, stance, country record (franchise/cleanup/Nobel), named solution (3 instruments), committee directive, call-to-arms. Safety trims marked to 200. Stealth payload S3 activated verbally (cleanup-teacher pre-frame).
+
+## 2026-08-13 — MOFA UNGA-80 PM speech harvested (user-supplied link)
+- E38: verbatim official-voice assets logged: TPNW answer, deterrence answer, "Nagasaki-last" signature line, P5 nuclear-threat line, DPRK paragraph. Rebuttal pack A3/A4 upgraded to prime-ministerial quotes. GSL v3.1 optional closer staged (Nagasaki-wisdom line) on command `GSL NAGASAKI`.
