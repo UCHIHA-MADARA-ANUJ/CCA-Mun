@@ -1,55 +1,78 @@
-# 🎤⚡ GSL — FINAL: "THE BUILDER'S INDICTMENT" (v4 · SOLO-DOCTRINE EDITION)
-**Delegation: JAPAN 🇯🇵 · CCA MUN '26 · UNGA · ~90 seconds · ~225 words**
-**v4 doctrine change (user-corrected, research-verified):** GSL = the DELEGATION OF JAPAN'S solo national statement. **No bloc name, no member counts on the podium.** Coalition momentum is signaled by ONE open invitation line ("partners on every continent"), never by a billboard. Research base: Oxford Global GSL guide (position→solutions→CTA); Delhi MUN structure (invite allies, no bloc parade); WiseMee CIA method (echo/invitation, not announcement). The bloc does its talking in unmoderated caucuses.
-**Beats: [BEAT] full breath · ✊ hardest strike · 🐢 slow · ⚡ clipped pace.**
+# GSL FINAL — "THE BUILDER'S INDICTMENT" (v5)
+## Delegation of JAPAN · CCA MUN '26 · UNGA · General Speakers List · 90-second limit
+
+**Spoken text: 253 words ≈ 89s at brisk podium pace (170 wpm). Two marked cuts → ~245 ≈ 86s. Third optional cut → ~242 ≈ 84s.**
+**If the GSL runs on Day 2, change "Fifteen days ago" to "Sixteen days ago."**
+
+**v5 user orders executed:** (1) TOTAL BLOC SILENCE — no bloc name, no numbers, no hints, anywhere; (2) maximum aggression; (3) zero emojis in this file. Every claim below is receipt-locked in `intel/japan/09_evidence_log.md`.
 
 ---
 
-## THE FINAL SPEECH
+## THE SPEECH
 
-🐢 The sky over Hiroshima caught fire. Nine days later — Nagasaki.
-And **fifteen days ago**, on their anniversary, Japan stood silent again… counting how little has changed.
+[SLOW]
+The sky over Hiroshima caught fire. Nine days later, Nagasaki. Fifteen days ago, we mourned again. *(emergency cut 1)*
 
-[BEAT] Honourable Chair, distinguished delegates —
+[BEAT]
+Honourable Chair, distinguished delegates. **Japan did not come here to be polite.**
 
-⚡ Look at this record. The last arms-control treaty between the great powers **expired in February. No successor. No talks.** The largest nuclear plant in Europe survives tonight on **one power line.** The fastest warhead buildup since the Cold War proceeds **behind closed doors.**
-✊ And when this Assembly was asked to help the poisoned — **four flags voted no. Three years running.**
-[BEAT] 🐢 *They know who they are.*
+[FAST — climb the ladder, no gap between counts]
+The last treaty between Washington and Moscow **died in February.** No successor. No talks. No shame. *(emergency cut 2: "No shame") (optional cut 3: "Three years running")*
+Russian guns hold Europe's largest nuclear plant on **one power line.** One shell — and the wind carries the rest.
+The fastest buildup since the Cold War grows behind closed doors — and **Beijing publishes no count.**
+North Korea made its arsenal **irreversible by law** — and has flown missiles **over my country.**
+[HARD] When this Assembly was asked to fund care for the poisoned, **four flags said no. France. Russia. The United Kingdom. North Korea. Three years running.**
+[BEAT] [SLOW] *They know who they are. Now everyone does.*
 
-Japan knows this file longer than any delegation in this room. **Thirty years of our resolutions on this floor.** The world's only decade of post-accident cleanup. A Nobel Peace Prize earned by our survivors.
+No delegation knows this file like Japan. **Thirty years of our resolutions.** The only nation to bury two atomic cities. A Nobel Peace Prize carried by our survivors.
 
-So Japan did not come to mourn — Japan came with **machinery.** ⚡ Three instruments — *already drafted, open to every flag in this room:* **shared radiation monitoring. Cross-border early-warning. Real remediation of poisoned land.**
+Our doctrine is machinery, not mourning. **Shared radiation monitoring. Early warning across borders. Funded remediation of poisoned land.** Written. On the table.
 
-✊ 🐢 Hiroshima was the first city destroyed by the bomb. Whether Nagasaki remains the **last** — depends, as Japan's Prime Minister told this very Assembly, on *the wisdom of humankind.* [BEAT] **This room is where that wisdom answers.**
+[HARD] [SLOW] Hiroshima was the first city the bomb destroyed. Whether Nagasaki remains the **last** — as Japan's Prime Minister told this Assembly — depends on *the wisdom of humankind.* [BEAT] **This room is where that wisdom answers.**
 
-In ten days, the real United Nations convenes on exactly this file. **This committee can write its first chapter.**
+In ten days, the real United Nations takes up this file. Hand it a chapter — or an excuse.
 
-🐢 Radiation never needed a visa. ✊ Neither does responsibility.
+[SLOW] Radiation never needed a visa. [HARD] **Neither does responsibility.**
 
-Japan came to build.
+**Fund the survivors. Back the machinery. Or stand now — and explain why you won't.**
 
-**Whoever you are — build with us.**
+*(Hold one second of silence. Sit. No smile.)*
 
 ---
 
-## 🔍 WHAT CHANGED v3→v4 (the surgery, all three cuts)
+## TOTAL BLOC SILENCE — user order, absolute, applies everywhere
 
-| v3 (bloc-comercial) | v4 (solo doctrine) | Why |
+- The bloc does not exist in public until the draft resolution's sponsor list drops. That reveal is a weapon — nobody spends it early.
+- Never the name. Never a count. Never "our group", "our partners", "the coalition". Not on the podium, not in moderated caucuses, not in POIs, not in corridors.
+- Say instead: "Japan", "this committee", "delegations that vote for the machinery".
+- Purged from this file: the "open to every flag" hint, the "build with us" invitation, and the old defense-kit line about watching the unmoderated caucus. Gone.
+- Same standard holds for any moderated-caucus lines: Japan speaks for Japan only.
+
+## WHY v5 IS MORE AGGRESSIVE — what changed vs v4
+
+| Before (v4) | Now (v5) | Effect |
 |---|---|---|
-| "Ten nations — every continent — stand in the ECO-NEXUS" | "Three instruments — already drafted, **open to every flag in this room**" | Momentum stays; the billboard dies. Undecideds hear an open door, not a closed club. |
-| "Who builds with us?" | "**Whoever you are** — build with us." | Universal invitation = swing-vote harvester. Reads as leadership, not leverage. |
-| (bloc recruitment aura) | "Japan did not come to mourn — Japan came with machinery" | Japan alone on the podium. The room meets THE DELEGATION. Your bloc reveals its size later — in the unmoderated caucus, where numbers actually sting. |
+| "the great powers" (unnamed) | "Washington and Moscow" named on the dead treaty | No cover |
+| "behind closed doors" (unnamed) | "Beijing publishes no count" | Names the dragon, no insult |
+| "four flags voted no… they know who they are" | **Names read aloud:** France. Russia. UK. DPRK. + "Now everyone does" | Points the whole room at the four seats |
+| (not present) | "has flown missiles over my country" | New knife — DPRK sits in this committee |
+| (not present) | "Japan did not come here to be polite" | Declares the tone in line one |
+| "Whoever you are — build with us" | "Or stand now — and explain why you won't" | Close is a challenge, not an invitation |
 
-**Unchanged (all verified weapons stay):** anniversary hook · post-hook greeting · 5-count salvo with quartet line · franchise/cleanup/Nobel résumé · Ishiba Nagasaki-wisdom hinge · Sept-1 custody directive · visa/responsibility maxim.
+## DELIVERY
 
-## 🧪 DELIVERY + DRILLS (unchanged from final spec)
-- Pace: ~225 words at measured delivery ≈ 88–92s. If your timer runs hot, drop "A Nobel Peace Prize earned by our survivors" ✂️ → ~210 flat.
-- Eyes: "They know who they are" → dais. "Whoever you are — build with us" → sweep and HOLD on 3 undecideds.
-- After-speech: expect quiet for one second. That's the speech working. Sit like it happens to you every weekend.
+- Markers: [SLOW] drop pace ~30% · [FAST] clipped, push forward · [HARD] strike the stressed word · [BEAT] full silent breath.
+- "Japan did not come here to be polite" — say it flat and quiet. Calm reads as dangerous.
+- During the naming ("France. Russia. The United Kingdom. North Korea.") do NOT look at their seats. Contempt by withholding the look. On "Now everyone does" — slow sweep across the undecideds.
+- If the chair runs the clock hot: cut 1 ("Fifteen days ago, we mourned again."), then cut 2 ("No shame.").
 
-## 🗡️ IF ATTACKED RIGHT AFTER (instant kit)
-- "Too emotional?" → *"Two hundred thousand dead is not emotion; it is attendance."*
-- "Where are your partners?" → smile: *"Watch the unmoderated caucus."* (The bloc's reveal becomes a caucus-floor event — better theater than a podium claim.)
-- China/ALPS → A1 script (file 19). Then pivot to IAEA-data-center of your instruments.
+## IF ATTACKED RIGHT AFTER — instant kit (bloc-free answers only)
 
-**RECEIPTS: `intel/japan/09_evidence_log.md` (E-series) + mofa.go.jp UNGA-80 PM address. Print THIS file.**
+- **"Too emotional?"** → "Two hundred thousand dead is not emotion. It is attendance."
+- **"Where are your partners?"** → "Japan votes for the machinery. Everyone else will answer for themselves."
+- **China (ALPS/Fukushima)** → per rebuttal A1 (`intel/japan/19_rebuttal_pack.md`): IAEA-monitored, every batch within standards, observers welcome — "which is exactly why Japan's machinery lets every state check the data itself."
+- **Russia ("politicized!")** → "The occupation of Zaporizhzhia is not an accusation. It is a map."
+- **UK / France ("why name us?")** → "The record is three years old and public. Japan reads the record; we did not write it."
+
+---
+**RECEIPTS: `intel/japan/09_evidence_log.md` (E31–E38) + mofa.go.jp UNGA-80 PM address. Print this file. This is the only speech file — every future version edits this page.**
