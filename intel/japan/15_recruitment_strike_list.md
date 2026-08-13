@@ -149,3 +149,11 @@ FACTS: (a) Cairo is a habitual GA First Committee drafter + NAM anchor; (b) New 
 STRATEGIC VALUE: Arab-group pull (does UAE's optics job 3× better — an Arab heavyweight beside Iran kills "capture" narratives); African-group signal; drafting horsepower.
 ⚠️ RED LINE / CAGE: Egypt's standing obsession = Middle East WMD-Free Zone scope-creep (it broke 2015 RevCon over it — FACT). Off-scope for an ecology agenda + drags bloc into Iran-Israel shadowboxing + toxifies US-aligned fence-sitters. Pre-emption = charter's machinery-not-doctrine line read INTO the membership conversation BEFORE seating. Lane offered: L2 co-anchor w/ India (newcomer capacity, Article IV peaceful uses). If Cairo insists on ME-zone language → politely cap: "route it as a floor amendment through consultation channel."
 **Final slotting:** KZ→DE→SK→(SA)→(Brazil) then Egypt fills #12/#13 = HARD CAP. If Brazil or SA declines, Egypt auto-promotes.
+
+---
+
+## 10. INBOUND RULING (13 Aug 2026): Russia ❌ / DPRK ❌ / Singapore ✅
+**User proposed adding RU+DPRK+SG. Ruling: SG YES; RU & DPRK = consultation-channel clients ONLY, never members.**
+**Receipts:** E32 pattern — the NO column on 78/240, 79/60 AND 80/56 was France, UK, Russia, DPRK every single time. They opposed the exact pillar (OP8) our paper is built on. Membership price for RU = gutting remediation + OP9 capture risk re: ZNPP ("facilities-protection" becomes their shield for occupying a plant); price for DPRK = optics bomb (Iran+DPRK co-membership = "axis bloc" narrative gift to US/UK; Switzerland/Canada/Germany-walk risk) + SK strike mutually exclusive with DPRK membership (no Seoul delegate sits beside Pyongyang's).
+**Doctrine:** as floor opponents they self-marginalize and donate fence-sitters; as members they get our custody map + internal veto. Decline script = identical frame as USA: "founding configuration frozen at 12; consultation channel open — route clauses through the core." Consistency across USA/RU/DPRK = no one can claim targeting.
+**Germany:** user reports reply expected today. Answer tree staged below.
