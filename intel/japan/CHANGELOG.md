@@ -76,3 +76,6 @@
 
 ## 2026-08-13 — Policy memo (side deliverable)
 - Built `research/canada_us_strategic_analysis.md` — neutral 8-section policy analysis (USMCA 1 Jul review outcome: US declined 16-yr extension → annual reviews; Sec.338 tariffs on CA goods effective 19 Aug; F-35 review still open w/ 95% vs 33% leaked scoring + 72-Gripen mixed-fleet option; Canada hit NATO 2% FY25-26 first time since 1990; Hague 5%-by-2035 track; Op REASSURANCE renewed Aug 2026). Recommendation: Anchored Diversification (B). Tagging discipline: FACT/ASSUMPTION/JUDGMENT/SCENARIO throughout.
+
+## 2026-08-13 — Matrix window captured (rows 76–136)
+- Verified RED/present: Mexico, North Korea, New Zealand, Philippines, Russia, Rep. of Korea, Singapore, South Africa, Switzerland, UAE, UK, USA. Verified GREEN/absent: Norway, Netherlands, Sweden, Ukraine, Pakistan etc. → `research/COMMITTEE_MATRIX_verified.md` created; Singapore flagged as new stretch recruit (OP2 co-ownership w/ Switzerland); DPRK+Russia floor-adversary doctrine set. PENDING: rows 1–75 statuses (Kazakhstan decisive).
