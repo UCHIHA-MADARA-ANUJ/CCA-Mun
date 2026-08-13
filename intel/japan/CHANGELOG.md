@@ -85,3 +85,6 @@
 
 ## 2026-08-13 — EGYPT AGREED TO JOIN
 - Egypt says YES → seat her = member #9. Cage per file 15 §9: L2 co-anchor w/ India (newcomer capacity/peaceful uses); ME-WMDFZ file stays outside the paper (charter rules 1-2 read BEFORE seating). Roster projection with Germany pending: JP IN IR MX PH CA CH KZ EG DE = 10 → KR 11 → ZA 12 → SG 13 = HARD CAP. Brazil/UAE/NZ get squeezed to consultation-channel unless someone flakes.
+
+## 2026-08-13 — Brazil outreach routed via MEXICO (user-directed)
+- Short DM drafted in Mexico's voice leveraging MX–BR drafting bond (New Agenda Coalition chemistry = FACT). Standing bloc confirmed by user: JP MX CA IN IR CH EG PH KZ (9). Cap discipline: if DE+KR+ZA all land, Singapore becomes flex/quiet-vote slot at 13.
