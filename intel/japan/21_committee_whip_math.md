@@ -38,3 +38,19 @@
 4. **Pre-vote whip round:** bloc ring physically walks the room with the one-page (chair sees omnipresence = winner aura).
 5. **Division-of-house:** if P3 requests para votes (PP7/OP9), RING holds firm; NO proxies, NO side deals mid-vote — recheck whip sheet T-minus 5.
 6. **After passage:** KZ speaks first in EOV-pile ("this paper accompanies the world to 1 September"); Japan second (machinery); then bloc disperses to press.
+
+---
+
+## LOCKED: N = 36 DELEGATES (user-confirmed 13 Aug 2026; 12 red in M–Z window ⇒ 24 red in A–L window)
+**Passage line (standard ROP: simple majority of members present & voting):**
+- All 36 vote ⇒ **need 19 YES.** Every abstention LOWERS the line (abstentions don't count as votes cast): 4 abstainers ⇒ 16-17 YES suffices. **Abstentions are our friend** — the P3-abstain cluster (US/China-type) shrinks the target for free.
+**Vote ladder to 19:**
+| Scenario | Bloc size | YES from bloc | Swing votes needed | Risk |
+|---|---|---|---|---|
+| A — today's 7 | 7 | 7 | **+12** | CRITICAL — floor begging day |
+| B — +DE, KR, SA, SG | 11 | 11 | **+8** | workable, tight |
+| C — +KZ (if red) | 12 | 12 | **+7** | TARGET ZONE ✅ |
+| D — +Brazil/UAE/NZ (cap 13–14) | 13–15 | 13–15 | **+4–6** | cruise mode |
+| **Structural NO cluster (capped):** RU, DPRK, UK (+FR if red) = 3–4 NO. US/China abstain instinct ⇒ effectively shrink line further. | | | | |
+**The swing pool (8 we need) lives in rows 1–75:** Egypt, Indonesia, Argentina, Chile, Ghana/Kenya-type African mid, Bangladesh, Cuba-adjacent NAM — whip territories per §3 (Mexico→Latin Am/chair; India→South Asia; PH→ASEAN; Canada→West-lites; SA once in→African Group; SG once in→ASEAN technocrats).
+**Doctrine restated: every recruit = one less swing to beg. This is why Singapore matters: a flag is a vote is a flag.**
