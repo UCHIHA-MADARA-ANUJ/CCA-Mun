@@ -79,3 +79,6 @@
 
 ## 2026-08-13 — Matrix window captured (rows 76–136)
 - Verified RED/present: Mexico, North Korea, New Zealand, Philippines, Russia, Rep. of Korea, Singapore, South Africa, Switzerland, UAE, UK, USA. Verified GREEN/absent: Norway, Netherlands, Sweden, Ukraine, Pakistan etc. → `research/COMMITTEE_MATRIX_verified.md` created; Singapore flagged as new stretch recruit (OP2 co-ownership w/ Switzerland); DPRK+Russia floor-adversary doctrine set. PENDING: rows 1–75 statuses (Kazakhstan decisive).
+
+## 2026-08-13 — KAZAKHSTAN SECURED (member #8)
+- Bloc now: JP, IN, IR, MX, PH, CA, CH, KZ = 8 flags. September-mandate holder is INSIDE the tent. Awaiting Germany (today). Next fires: Korea, South Africa, Singapore.
