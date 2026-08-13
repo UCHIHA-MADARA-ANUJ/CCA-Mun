@@ -94,3 +94,6 @@
 
 ## 2026-08-13 — GSL draft v1 forged (SPEECHES/ folder)
 - 90-second-opening speech drafted: ~195 words, controlled-burn aggression, beat-marked for slow delivery. Fact base verified (all E-log receipts). v2 napalm variant staged on command `GSL V2`.
+
+## 2026-08-13 — GSL v2 "The Salvo" (user specs: country voice, hook-then-greet, multi-target)
+- Rewritten per user feedback: no first person; chair greeting moved post-hook; 5-camp target map (US/RU New START, RU/ZNPP single line, CN opaque buildup, DPRK "irreversible", FR/UK/RU/DPRK NO-quartet) each w/ logged receipts.
