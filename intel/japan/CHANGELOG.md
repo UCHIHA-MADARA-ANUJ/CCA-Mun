@@ -91,3 +91,6 @@
 
 ## 2026-08-13 — NZ deep file complete
 - NZ = Science-Panel co-architect (Ireland+NZ, L.39/2024 — direct PP6 synergy) + TPNW party + Rainbow Warrior anti-France artillery + Five Eyes dual passport. Verdict: FIRST FLEX SLOT — promote instantly on any flake; otherwise warm friend/consultation channel.
+
+## 2026-08-13 — GSL draft v1 forged (SPEECHES/ folder)
+- 90-second-opening speech drafted: ~195 words, controlled-burn aggression, beat-marked for slow delivery. Fact base verified (all E-log receipts). v2 napalm variant staged on command `GSL V2`.
