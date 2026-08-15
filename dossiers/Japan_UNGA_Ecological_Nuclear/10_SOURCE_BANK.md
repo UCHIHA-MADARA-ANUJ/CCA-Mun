@@ -74,8 +74,8 @@
 
 | Claim | Cite as |
 |---|---|
-| 12,241 warheads / 90% | "SIPRI Yearbook 2025" |
-| China +100/yr | "SIPRI 2025" |
+| 12,187 warheads / 83% | "SIPRI Yearbook 2026" |
+| China +100/yr | "SIPRI 2026" |
 | 2,000+ tests; 10 since 1996 | "CTBTO / United Nations data" |
 | 2bn / 5bn famine | "Nature Food, 2022 — Xia, Robock and colleagues" |
 | RevCon failed 3× straight | "UN Press Release, 23 May 2026" |
@@ -89,10 +89,11 @@
 
 ---
 
-## VERIFICATION QUEUE (do not use until verified — the discipline that protects the delegate)
+## VERIFICATION QUEUE (status updated 15 Aug 2026 — full ledger: intel/japan/22_verification_report_2026-08-15.md)
 
-1. Japan's vote on the Scientific Panel resolution (Dec 2024) — check UN Digital Library A/RES/79/...
-2. Current "United action" resolution symbol and vote (79th session, Dec 2024) — UN Digital Library
-3. Japan's 2026-2027 UN scale of assessments percentage — UN Committee on Contributions
-4. TPNW 3rd Meeting of States Parties (2025): Japan attendance — ICANW/UN meetings records
-5. Any nuclear test or major arms-control event between now and Aug 21, 2026 — continuous monitoring (set the habit: check SIPRI/Reuters/UN the week of committee)
+1. ~~Japan's vote on the Scientific Panel resolution (Dec 2024)~~ **CLOSED: Japan voted YES — resolution A/RES/79/238 (Ireland/NZ-led; FC 144-3-30; GA 136-3-29); Japan has a panel member, Dr. Masao Tomonaga, appointed Jul 2025 (MOFA, 22 Jul 2025).**
+2. ~~Current "United action" resolution symbol and vote~~ **CLOSED: A/C.1/80/L.4 "Steps to building a common roadmap towards a world without nuclear weapons" — FC 145-5-28 (31 Oct 2025), plenary 147-5-26 (1 Dec 2025); US abstained; noes incl. China, Russia, DPRK (MOFA, 2 Dec 2025).**
+3. Japan's 2026-2027 UN scale of assessments percentage — UN Committee on Contributions (do not quote a precise % live; safe: "among the largest three assessed contributors").
+4. TPNW 3rd Meeting of States Parties (2025): Japan attendance — CLOSED: did not attend even as observer (Ban Monitor); criticism from Nihon Hidankyo; FM Iwaya's deterrence rationale on record.
+5. Any nuclear test or major arms-control event between now and Aug 21, 2026 — continuous monitoring (check SIPRI/Reuters/UN the week of committee).
+6. Exact A/RES/79/60 plenary tally if quoted — safe formulation "more than 170 States in favour in each of three consecutive years" (170-4-5 confirmed for 80/56).
