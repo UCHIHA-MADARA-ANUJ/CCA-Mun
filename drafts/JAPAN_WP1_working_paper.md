@@ -5,7 +5,8 @@
 
 ---
 
-**Sponsors:** Japan, India, Mexico, Canada, Philippines, Iran, Switzerland, Kazakhstan, Germany, Republic of Korea, [+ring]
+**Sponsors (confirmed 10):** Japan, India, Iran, Mexico, Philippines, Canada, Switzerland, Egypt, Kazakhstan, South Africa
+**Seats held (pending):** Germany (answers 18 Aug), Republic of Korea, Singapore, New Zealand (flex) · **Day-of contributor:** Norway
 **Signatories:** open
 
 ### PREAMBULAR PARAGRAPHS
@@ -49,6 +50,9 @@
 **OP7.** *Invites* Member States with operating or decommissioning nuclear facilities to share environmental-monitoring experience from post-shutdown and decommissioning phases, and *requests* the Framework to compile a technical digest of decommissioning monitoring practices; **[GERMANY]**
 
 **OP8.** *Welcomes* the International Meeting on Victim Assistance and Environmental Remediation of 1 September 2026, *calls upon* Member States to participate at high level and to share relevant national experience, *requests* the Secretary-General to transmit its outcomes to the General Assembly, and *invites* voluntary contributions toward future victim-assistance and remediation cooperation; **[MEXICO + KAZAKHSTAN — September custody, W1 in text]**
+
+
+**OP8A.** *Recognizes* the example of States that have verifiably dismantled their nuclear-weapon programmes and renounced the weapons path, and *invites* such States to share experience and technical knowledge with the Framework on the environmental dimensions of dismantlement and transition; **[SOUTH AFRICA — the only state to voluntarily give up its arsenal; accountability lane]**
 
 **OP9.** *Reaffirms* that attacks or threats of attack against safeguarded nuclear facilities risk the release of radiological material and constitute a matter of grave ecological and humanitarian concern, *calls upon* all States to respect applicable international law in this regard, and *invites* the IAEA Director General to continue reporting on environmental-monitoring implications at safeguarded sites affected by military activities; **[IRAN — caged lane: consensus-IAEA lineage (GC Res. 407/533 principle), names no state]**
 
