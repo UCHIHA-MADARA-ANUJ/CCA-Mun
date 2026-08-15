@@ -1,7 +1,7 @@
 # GSL FINAL — "THE BUILDER'S INDICTMENT" (v11)
 ## Delegation of JAPAN · CCA MUN '26 · UNGA · General Speakers List · 100-second build
 
-**Full speech: ~293 words ≈ 100s at brisk podium pace (175 wpm). Cut ladder below if the chair hard-stops at 90.**
+**Full speech: ~290 words ≈ 99s at brisk podium pace (175 wpm). Cut ladder below if the chair hard-stops at 90.**
 **v11 = intro rebuilt. It no longer gambles on what previous speakers said — it attacks what we KNOW: the exact number of speeches before you, and the fact that nothing changed because of them.**
 
 **User orders locked:** zero country names spoken · no PM quote · total bloc silence · zero emojis · POI yield kept · every claim receipt-locked.
@@ -17,7 +17,7 @@ Five delegations have spoken from this podium. Five speeches. And the record of 
 Do not mistake speeches for progress. A speech is a sound. Japan has heard eighty-one years of them.
 
 [HARD]
-Honourable Chair, distinguished delegates. Japan did not cross the Pacific to add one more sound.
+Honourable Chair. Japan did not cross the Pacific to add one more sound.
 
 [FAST — hammers, no gaps]
 The treaty between the largest arsenals died in February. The world shrugged.
@@ -43,7 +43,7 @@ Hiroshima was the first city the bomb destroyed. Eighty years this Assembly swor
 Radiation needs no visa. Your borders cannot stop it. Neither can your excuses.
 
 [HARD]
-Vote for the machinery. Or be recorded against it. Japan will remember. We are done asking.
+Vote for the machinery — or be recorded against it. Japan remembers. We are done asking.
 
 [SOFT]
 I yield to points of information — and I will answer with the record, not with apologies.
