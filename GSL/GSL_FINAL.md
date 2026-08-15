@@ -1,8 +1,8 @@
-# GSL FINAL — "THE BUILDER'S INDICTMENT" (v10)
+# GSL FINAL — "THE BUILDER'S INDICTMENT" (v11)
 ## Delegation of JAPAN · CCA MUN '26 · UNGA · General Speakers List · 100-second build
 
-**Full speech: 258 words ≈ 88s at brisk podium pace (175 wpm) — safely inside your 100s cap, because hammers hit harder when they're short. Cut ladder below if the chair hard-stops at 90.**
-**v10 = total aggression rewrite. No wordplay, no poetry, no polite structures. Short hammer sentences. Direct threats. Ultimatums.**
+**Full speech: ~293 words ≈ 100s at brisk podium pace (175 wpm). Cut ladder below if the chair hard-stops at 90.**
+**v11 = intro rebuilt. It no longer gambles on what previous speakers said — it attacks what we KNOW: the exact number of speeches before you, and the fact that nothing changed because of them.**
 
 **User orders locked:** zero country names spoken · no PM quote · total bloc silence · zero emojis · POI yield kept · every claim receipt-locked.
 
@@ -11,15 +11,18 @@
 ## THE SPEECH
 
 [SLOW]
-Five speeches. Five apologies. Zero action.
+Five delegations have spoken from this podium. Five speeches. And the record of this committee is unchanged: zero action. Zero change. Zero consequence for the poisoned.
 
 [BEAT]
-Honourable Chair. Japan has listened for eighty-one years. We are done listening.
+Do not mistake speeches for progress. A speech is a sound. Japan has heard eighty-one years of them.
+
+[HARD]
+Honourable Chair, distinguished delegates. Japan did not cross the Pacific to add one more sound.
 
 [FAST — hammers, no gaps]
-The last treaty between the two largest arsenals died in February. The world shrugged.
+The treaty between the largest arsenals died in February. The world shrugged.
 The review conference failed in May. The world shrugged again.
-An army sits inside Europe's largest nuclear plant — one wire from the point of no return. Still the shrugging continues.
+An army sits inside Europe's largest nuclear plant — one wire from the point of no return. Still they shrug.
 The fastest buildup since the Cold War grows in the dark. No count. No answers. No shame.
 One of you — in this room — has written "irreversible" into law and flies missiles over our people.
 
@@ -27,9 +30,9 @@ One of you — in this room — has written "irreversible" into law and flies mi
 When this Assembly was asked to help the poisoned, four flags voted no. Three years running. They sit in this room. The minutes carry their names. So does Japan.
 
 [SLOW]
-Japan buried two atomic cities. Our last witnesses average eighty-seven years old. They are dying — while this committee drafts another apology.
+Japan buried two atomic cities. Our last witnesses average eighty-seven. They are dying while this committee drafts another apology.
 
-Our answer is not an apology. It is machinery. Monitor. Warn. Clean.
+Our answer is not a speech. It is machinery. Monitor. Warn. Clean.
 [CLIMB]
 We will not ask permission to measure. To warn. To heal what your arsenals broke.
 
@@ -50,10 +53,11 @@ I yield to points of information — and I will answer with the record, not with
 ### Cut ladder (if the chair runs the clock hot — you'll almost never need it)
 | Cut | Words | Result |
 |---|---|---|
-| Full speech | 258 | ~88s |
-| +cut A ("The review conference failed in May. The world shrugged again.") | 248 | ~85s |
-| +cut B (". No count. No answers. No shame.") | 243 | ~83s |
-| +cut C ("They are dying — while this committee drafts another apology.") | 233 | ~80s |
+| Full speech | ~293 | ~100s |
+| +cut A ("Zero action. Zero change. Zero consequence for the poisoned.") | ~286 | ~98s |
+| +cut B ("The review conference failed in May. The world shrugged again.") | ~275 | ~94s |
+| +cut C ("They are dying while this committee drafts another apology.") | ~265 | ~91s |
+| +cut D ("Neither can your excuses.") | ~261 | ~89s |
 
 ---
 
@@ -76,15 +80,18 @@ I yield to points of information — and I will answer with the record, not with
 
 ## DELIVERY — read this BEFORE you practice
 
-- **The room will be loud. Your weapon is the pause.** Every hammer line ends with a full beat of silence. In a shouting room, silence is the only sound nobody expects.
-- **[SLOW]** = cold, flat, no emotion. Rage without volume is more frightening than rage with it.
-- **[FAST]** = clipped, driving, each hammer separate. Hands cut the air once per line, no waving.
-- **[CLIMB]** = louder each phrase, finish at full power: "To heal what your arsenals broke."
-- **[HARD]** = strike the first word, then dead silence.
-- "One of you — in this room" — do NOT look at them. Let the room turn by itself. That's the point.
-- "The minutes carry their names. So does Japan." — whisper it. A threat whispered is a threat remembered.
-- **Yield line:** flat, faint smile. Hold. Someone WILL rise. You will answer with the record, not apologies.
-- Pace: 170-175 wpm. Rehearse with a timer. The cut ladder is your safety net, not your plan.
+- **THE COUNT IS THE WEAPON — get it right before you stand.** This speech is written for **5 speeches before you** (you're 6th). If the real count differs, adjust the opening numbers ON THE SPOT, silently, before you rise:
+  - 6th speaker → "Five delegations have spoken"
+  - 5th speaker → "Four delegations have spoken"
+  - 7th speaker → "Six delegations have spoken"
+  - Count the placards that went before you. Never say the wrong number — a wrong count is the one error that costs you the room instantly.
+- **The opening does triple duty:** (1) proves you were listening and counting (chairs love active delegates); (2) makes every prior speech irrelevant — they produced "zero"; (3) sets the threat: you're not here to speak, you're here to act.
+- **Loud room = silence is your weapon.** Every hammer line ends with a full beat. Rage without volume is more frightening than rage with it.
+- **[SLOW]** = cold, flat. **[FAST]** = clipped, driving, hands cut the air once per line. **[CLIMB]** = louder each phrase, finish at full power: "To heal what your arsenals broke." **[HARD]** = strike the first word, then dead silence.
+- "One of you — in this room" — do NOT look at them. Let the room turn by itself.
+- "The minutes carry their names. So does Japan." — whisper it.
+- **Yield line:** flat, faint smile. Hold. Someone WILL rise. You will answer with the record.
+- Pace: 170-175 wpm. Rehearse with a timer. Cut ladder is your safety net, not your plan.
 
 ## IF ATTACKED RIGHT AFTER — instant kit (bloc-free, name-free)
 
