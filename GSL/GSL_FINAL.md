@@ -1,8 +1,8 @@
 # GSL FINAL — (v13) Japan's real register, with the snap
 ## Delegation of JAPAN · CCA MUN '26 · UNGA · General Speakers List · 100-second build
 
-**Full speech: 291 words ≈ 100s at podium pace (175 wpm). Cut ladder below if the chair hard-stops at 90.**
-**v14 = user-authored opening, sharpened. Same formal register, three loud snaps, more facts (12,000 warheads), zero soft fat. The contrast is the weapon.**
+**Full speech: 292 words ≈ 100s at podium pace (175 wpm). Cut ladder below if the chair hard-stops at 90.**
+**v15 = user-authored opening + professional formal architecture + full crescendo shout-section. Same facts, louder peak, cold close. The contrast is the weapon.**
 
 ---
 
@@ -22,28 +22,37 @@ We will speak in the only language this record understands: facts.
 [BEAT]
 Honourable Chair, distinguished delegates.
 
-Eighty-one years ago, Hiroshima was destroyed by a single atomic bomb. Days later, Nagasaki. Japan marked this anniversary with fewer survivors than ever before.
+The delegation of Japan is the only nation to have buried two atomic cities. We came to say what is real — and what your silence costs.
 
-Japan is the only nation ever attacked with nuclear weapons in war.
-
-The treaty between the two largest arsenals expired in February — no successor, no negotiations. The Non-Proliferation Treaty failed its review in May — again. An army occupies Europe's largest nuclear plant — one wire from the point of no return. The fastest buildup since the Cold War publishes no numbers. Twelve thousand warheads remain. And one state in this room has written "irreversible" into law — while its missiles have flown over Japan.
+[FAST — the record, one fact per breath]
+The treaty between the largest arsenals expired in February. No successor. No negotiations.
+The Non-Proliferation Treaty — the cornerstone — failed in May. Again.
+An army occupies Europe's largest nuclear plant — one wire from the point of no return.
+The fastest buildup since the Cold War grows in the dark. No count. No answers. Twelve thousand warheads remain.
+One state in this room has written "irreversible" into law — and its missiles have flown over Japan.
 
 [HARD — snap one]
 When this Assembly was asked to help the victims of nuclear testing, four member states voted no. Three years in a row. The record is public. *THEIR NAMES ARE IN IT.*
 
 [SLOW]
-Japan's witnesses — the hibakusha — average eighty-seven years old. Their testimony will not outlast this committee's deliberation.
+Japan's witnesses — the hibakusha — average eighty-seven. Their testimony will not outlast this committee's deliberation.
 
-Japan's answer is not words — it is machinery: shared monitoring, early warning, real remediation.
+[BEAT]
+Japan's answer is machinery: shared monitoring. Early warning. Real remediation.
 
-[HARD — snap two]
-Hiroshima was the first city destroyed by the bomb. For eighty years, this world has promised that Nagasaki would be the last. That promise has been broken every year since. *ENOUGH.* This committee ends it.
+[CLIMB — the crescendo, rise line by line]
+Hiroshima was the first city the bomb destroyed. For eighty years, this world promised Nagasaki would be the last.
+Every year — the arsenals grew.
+Every year — the promise broke.
+[HARD — the peak, full voice]
+A vow broken for eighty years is not a vow. *IT IS A LIE.*
+*ENOUGH.* This committee ends the lie.
 
-[SLOW]
-Radiation has never respected a border — and never will. The question is whether our response does.
+[SLOW — the cold fall]
+Radiation has never respected a border — and never will. The question is whether your response does.
 
-[HARD — snap three]
-Japan will vote for the machinery — and we will remember those who vote against the survivors. *REMEMBER.*
+[HARD — final]
+Vote for the machinery — or be recorded against the survivors. Japan will remember. *WE WILL ALL REMEMBER.*
 
 [SOFT]
 I yield to points of information.
@@ -104,6 +113,7 @@ I yield to points of information.
 | "Non-Proliferation Treaty failed its review in May — third consecutive" | 11th NPT RevCon collapsed 22 May 2026 without consensus (2015, 2022, 2026) | UN Press DC3912 |
 | "army occupies Europe's largest nuclear plant... single power line" | Zaporizhzhia NPP occupied since 2022; reliant on one external line (Feb 2026) | IAEA Update 340; Reuters |
 | "fastest buildup... publishes no numbers" | China's arsenal growing fastest (~100 warheads/yr); no official count published | SIPRI 2026; DoD estimates |
+| "Twelve thousand warheads remain" | 12,187 warheads globally (Jan 2026); Russia+US ~86% | SIPRI Yearbook 2026 |
 | "one state... 'irreversible'... missiles over Japan" | DPRK constitutionalized nuclear status; missiles have overflown Japan | KCNA; Reuters; ISW |
 | "four member states voted no. Three years in a row." | France, UK, Russia, DPRK voted NO on A/RES/78/240, 79/60, 80/56 | wagingpeace.org tallies (170-4-5) |
 | "hibakusha average eighty-seven" | 91,105 hibakusha alive (Mar 2026); average age 86.7 | Japan Times 1 Jul 2026 |
