@@ -1,10 +1,10 @@
-# GSL FINAL — "THE BUILDER'S INDICTMENT" (v7)
+# GSL FINAL — "THE BUILDER'S INDICTMENT" (v8)
 ## Delegation of JAPAN · CCA MUN '26 · UNGA · General Speakers List · 100-second build
 
-**Full speech: 278 words ≈ 95s at 175 wpm, ~98s at 170 wpm — safely inside your 100s cap. Cut ladder below for chairs who hard-stop at 90.**
-**Slot-optimized: designed for GSL position #5-6 — it attacks the speeches before yours. If your slot changes, adjust the opening line (see DELIVERY).**
+**Full speech: ~290 words ≈ 96–100s at brisk podium pace (170–175 wpm). Cut ladder below for chairs who hard-stop at 90.**
+**Slot-optimized: built for GSL position #5-6 — it attacks the speeches before yours and the empty words of the room. If your slot changes, see DELIVERY.**
 
-**v7 user orders executed:** (1) FULL aggression — no soft openings, no polite questions; (2) ZERO country names spoken — crimes are described so precisely nobody can pretend you mean anyone else; (3) no PM quote — Japan does not quote itself; (4) total bloc silence — the bloc does not exist until the resolution's sponsor list drops; (5) zero emojis in file; (6) built for a loud delivery — long rolling climbs for voice/hands, kill-shots delivered soft; (7) POI trap ending — designed to bait a hostile question you already have the answer to.
+**v8 user orders executed:** (1) FULL aggression — the intro now lands THREE stabs at the room's empty language instead of one; (2) ZERO country names spoken — crimes are described so precisely nobody can pretend you mean anyone else; (3) no PM quote — Japan does not quote itself; (4) total bloc silence — the bloc does not exist until the resolution's sponsor list drops; (5) zero emojis in file; (6) built for a loud delivery — long rolling climbs for voice/hands, kill-shots delivered soft; (7) POI trap ending — designed to bait a hostile question you already have the answer to.
 Every claim receipt-locked in `intel/japan/09_evidence_log.md`.
 
 ---
@@ -14,13 +14,15 @@ Every claim receipt-locked in `intel/japan/09_evidence_log.md`.
 [SLOW]
 The speeches before mine said the same four words: deeply concerned.
 [BEAT]
-Concern is what you feel when you can still act. Japan is past concern.
+Concern is a word for delegations that can still act.
+[HARD]
+Japan is past concern. Japan is past polite. Japan is past asking nicely.
 
 [BEAT]
-Honourable Chair, distinguished delegates. Japan did not cross the Pacific to offer you comfort.
+Honourable Chair, distinguished delegates. Japan did not cross the Pacific to offer comfort — we crossed it to show the record.
 
 [FAST — climb the ladder, no gap between counts]
-The record, plainly. A treaty between the largest arsenals died this February. No successor. No talks. No shame.
+The record, plainly. A treaty between the largest arsenals died in February. No successor. No talks. No shame.
 An occupying army holds Europe's largest nuclear plant on one power line — one shell from a wound no border contains.
 The fastest buildup since the Cold War grows behind closed doors. No count. No answers.
 One state in this very room wrote "irreversible" into law — and flies missiles over my country.
@@ -32,12 +34,12 @@ When this Assembly was asked to help the poisoned — four flags said no. Three 
 [BEAT]
 Japan has buried two atomic cities. We did not survive eighty years to watch this room fail.
 
-Our doctrine is machinery, not mourning: shared monitoring, early warning across borders, funded remediation of poisoned land. Written. On the table.
+Our doctrine is machinery, not mourning: shared monitoring, early warning, funded remediation of poisoned land. Written. On the table.
 [CLIMB]
 We will not ask permission to measure. To warn. To clean what the arsenals poisoned.
 
 [HARD] [SLOW]
-Hiroshima was the first city the bomb destroyed. For eighty years, this Assembly swore Nagasaki would be the last — and the arsenals grew. A promise broken eighty years is not a promise — it is a habit.
+Hiroshima was the first city the bomb destroyed. For eighty years, this Assembly swore Nagasaki would be the last — the arsenals grew. A promise broken eighty years is not a promise — it is a habit.
 [BEAT]
 This room ends the habit.
 
@@ -55,11 +57,11 @@ I yield to points of information — and await the first question from whoever k
 ### Cut ladder (if the chair runs the clock hot)
 | Cut | Words | Result |
 |---|---|---|
-| Full speech | 278 | ~95s |
-| +cut A ("Concern is what you feel when you can still act.") | 268 | ~92s |
-| +cut B (". No count. No answers.") | 264 | ~90s |
-| +cut C ("The survivors are out of patience. So are we.") | 258 | ~88s |
-| +cut D ("Written. On the table.") | 254 | ~87s |
+| Full speech | ~285 | ~100s |
+| +cut A ("Japan is past polite. Japan is past asking nicely.") | ~277 | ~96s |
+| +cut B (". No count. No answers.") | ~273 | ~94s |
+| +cut C ("The survivors are out of patience. So are we.") | ~267 | ~92s |
+| +cut D ("Written. On the table.") | ~263 | ~90s |
 
 ---
 
