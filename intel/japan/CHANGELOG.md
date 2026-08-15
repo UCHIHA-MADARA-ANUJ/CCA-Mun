@@ -131,3 +131,4 @@
 - Germany: reply expected 18 Aug (seat held). NZ: not yet responded. Norway: joins DAY OF CONFERENCE (flag: she won't let JP run the bloc — late joiner, no custody, watch for leadership grab; Arctic-lane offer stands but she contributes, not commands). South Korea + Singapore: unknown.
 - Cap 13 → slots left: 3. Likely: Germany (11) + one of NZ/SK/SG (12) + Norway day-of (13). SK/SG/NZ now compete for the last seat.
 - Bloc name: re-OPENED by user (current: "Ecological Cooperation & Nuclear Environmental Security Nexus"). Candidates under review.
+
