@@ -1,12 +1,59 @@
-# GSL FINAL — (v12) Japan's real register
+# GSL FINAL — (v13) Japan's real register, with the snap
 ## Delegation of JAPAN · CCA MUN '26 · UNGA · General Speakers List · 100-second build
 
-**Full speech: 281 words ≈ 99s at podium pace (170 wpm). Cut ladder below if the chair hard-stops at 90.**
-**v12 = authentic Japanese UN register. Formal. Precise. The aggression is in the facts, not the volume. This is the voice Ishiba and Ichikawa actually use.**
+**Full speech: 283 words ≈ 100s at podium pace (170 wpm). Cut ladder below if the chair hard-stops at 90.**
+**v13 = authentic Japanese UN register + three deliberately loud lines. Formal, precise, aggressive in facts — and three moments where the calm breaks. The contrast is the weapon.**
 
 ---
 
 ## THE SPEECH
+
+[SLOW — the hook, three lines, no greeting yet]
+Five speeches. Zero action. Japan is not here to make it six.
+[BEAT]
+Listen carefully — you will not hear this again from another delegation.
+
+[HARD — the tone-lock]
+We will speak in the only language this record understands: facts.
+
+[BEAT]
+Honourable Chair, distinguished delegates.
+
+Eighty-one years ago, Hiroshima was destroyed by a single atomic bomb. Days later, Nagasaki. Japan marked this anniversary with fewer survivors than ever before.
+
+Japan is the only nation ever attacked with nuclear weapons in war. The treaty between the two largest arsenals expired in February — no successor, no negotiations. The Non-Proliferation Treaty failed its review in May — again. An army occupies Europe's largest nuclear plant, on a single power line. The fastest buildup since the Cold War publishes no numbers. And one state in this room has written "irreversible" into law — while its missiles have flown over Japan.
+
+[HARD — the first snap]
+When this Assembly was asked to help the victims of nuclear testing, four member states voted no. Three years in a row. The record is public. THEIR NAMES ARE IN IT.
+
+[SLOW]
+Japan's witnesses — the hibakusha — average eighty-seven years old. Their testimony will not outlast this committee's deliberation.
+
+Japan's answer is not more words — it is machinery: shared monitoring, early warning, remediation of poisoned land. Engineering. Within reach of this committee today.
+
+[HARD — the second snap]
+Hiroshima was the first city destroyed by the bomb. For eighty years, this world has promised that Nagasaki would be the last. That promise has been broken every year since. ENOUGH. This committee ends it.
+
+[SLOW]
+Radiation has never respected a border. It never will. The question is whether our response will.
+
+[HARD — the final snap]
+Japan will vote for the machinery — and we will remember those who vote against the survivors. REMEMBER.
+
+[SOFT]
+I yield to points of information.
+
+*(Hold one second of silence. Sit. No smile.)*
+
+---
+
+### Cut ladder (if the chair runs the clock hot)
+| Cut | Words | Result |
+|---|---|---|
+| Full speech | ~285 | ~99s |
+| +cut A ("Listen carefully — because you will not hear this again from another delegation today.") | ~274 | ~95s |
+| +cut B ("The Non-Proliferation Treaty failed its review in May — for the third consecutive cycle.") | ~261 | ~90s |
+| +cut C ("Their testimony will not outlast this committee's deliberation.") | ~252 | ~87s |
 
 Honourable Chair, distinguished delegates.
 
