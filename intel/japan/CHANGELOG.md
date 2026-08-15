@@ -41,8 +41,8 @@
 
 **Blocked / awaiting delegate input:** official '26 country matrix + ROP + brochure (not publicly indexed; forwarded via circuit WhatsApp/IG — requested).
 
-## 2026-08-12 — Wave 3: Bloc archive (ECO-NEXUS)
-- New: `14_bloc_eco_nexus.md` — full grading of user's confirmed 5 (IN A / PH A− / MX A− / CA A / IR back-bench) + 15-name wishlist (9 recruit, 1 conditional, 1 optional, 4 poison pills: CN assassin, US un-recruitable, FR remediation-censor, UK dead weight). Veto matrix, Iran cage protocol, 12–13 cap w/ core-ring structure, branding fix (press handle "ECO-NEXUS"), upgraded pitches, 12-min first-meeting agenda.
+## 2026-08-12 — Wave 3: Bloc archive (VANGUARD)
+- New: `14_bloc_eco_nexus.md` — full grading of user's confirmed 5 (IN A / PH A− / MX A− / CA A / IR back-bench) + 15-name wishlist (9 recruit, 1 conditional, 1 optional, 4 poison pills: CN assassin, US un-recruitable, FR remediation-censor, UK dead weight). Veto matrix, Iran cage protocol, 12–13 cap w/ core-ring structure, branding fix (press handle "VANGUARD"), upgraded pitches, 12-min first-meeting agenda.
 - New receipts logged: PH ratified TPNW 18 Feb 2021 + RA 12305/PhilAtom (18 Sep 2025) + IAEA BoG 2025–27 + PH endorsed KAZ-KIR assistance language at PrepCom '23 (UPGRADE to A−); Brazil = TPNW signatory-not-party (corrected); Canada NWMO DGR in regulatory phase Jan 2026, Major Projects Office referral 24 Jun 2026; Switzerland non-TPNW confirmed.
 - Action item flagged: check CCA '26 matrix for KAZ/KIR/MHL/Algeria — legacy-custody owners absent from user's wishlist.
 
@@ -55,7 +55,7 @@
 - Strike order confirmed: Germany → SK → Brazil = 10, then SA, UAE stretch; cap 12.
 
 ## 2026-08-12 — Wave 4b: Kazakhstan priority recruitment script dispatched
-- Full-name ECO-NEXUS pitch DM written for KZ (mandate-anchored: A/RES/78/240 + 79/60, Semipalatinsk 456 tests/closed 1991, 4th-largest arsenal renounced, LEU Bank Ust-Kamenogorsk, CTBTO IMS stations) — offer: L3 REMEDIATE pillar co-custody w/ Mexico. Reserve sweeteners listed (pillar-first sponsor billing, caucus speech opener); pen red-lines held (umbrella clause + preamble stay JP).
+- Full-name VANGUARD pitch DM written for KZ (mandate-anchored: A/RES/78/240 + 79/60, Semipalatinsk 456 tests/closed 1991, 4th-largest arsenal renounced, LEU Bank Ust-Kamenogorsk, CTBTO IMS stations) — offer: L3 REMEDIATE pillar co-custody w/ Mexico. Reserve sweeteners listed (pillar-first sponsor billing, caucus speech opener); pen red-lines held (umbrella clause + preamble stay JP).
 
 ## 2026-08-12 — Wave 5: Branch cleanup + treasure recovery
 - Pushed session branch to GitHub for first time (user visible now). Deleted stray branch arena/019fdce9 per user order — BUT recovered 24 files first: full prev-session 8-lane dossier (dossiers/Japan_UNGA_Ecological_Nuclear/), MUN_FIELD_MANUAL.md, skills 41–47 (elite tier), templates/00–06. GitHub now = main + arena/019ff3dc-cca-mun only.
@@ -130,5 +130,5 @@
 - CONFIRMED 10: Japan, India, Iran, Mexico, Philippines, Canada, Switzerland, Egypt, Kazakhstan, SOUTH AFRICA (new).
 - Germany: reply expected 18 Aug (seat held). NZ: not yet responded. Norway: joins DAY OF CONFERENCE (flag: she won't let JP run the bloc — late joiner, no custody, watch for leadership grab; Arctic-lane offer stands but she contributes, not commands). South Korea + Singapore: unknown.
 - Cap 13 → slots left: 3. Likely: Germany (11) + one of NZ/SK/SG (12) + Norway day-of (13). SK/SG/NZ now compete for the last seat.
-- Bloc name: re-OPENED by user (current: "Ecological Cooperation & Nuclear Environmental Security Nexus"). Candidates under review.
+- Bloc name: re-OPENED by user (current: "VANGUARD — Voluntary Alliance for Nuclear Oversight, Global Accountability, and Remediation Directives"). Candidates under review.
 

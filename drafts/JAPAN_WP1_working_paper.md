@@ -1,4 +1,4 @@
-# WORKING PAPER 1.1 — ECO-NEXUS
+# WORKING PAPER 1.1 — VANGUARD
 **Committee: UNGA · Agenda: Assessing the ecological threats of nuclear proliferation on global boundaries**
 **Status: BLOC DRAFT — custody tags [in brackets] are INTERNAL ONLY; strip before circulation**
 **Doctrine: UNGA-safe verbs only (establishes voluntary frameworks, requests, encourages, calls upon, invites, decides to remain seized). Nothing commands sovereign states; nothing touches disarmament doctrine; nothing names a member state adversely.**
