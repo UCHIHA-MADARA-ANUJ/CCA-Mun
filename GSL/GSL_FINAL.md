@@ -1,19 +1,22 @@
 # GSL FINAL — (v13) Japan's real register, with the snap
 ## Delegation of JAPAN · CCA MUN '26 · UNGA · General Speakers List · 100-second build
 
-**Full speech: 283 words ≈ 100s at podium pace (170 wpm). Cut ladder below if the chair hard-stops at 90.**
-**v13 = authentic Japanese UN register + three deliberately loud lines. Formal, precise, aggressive in facts — and three moments where the calm breaks. The contrast is the weapon.**
+**Full speech: 291 words ≈ 100s at podium pace (175 wpm). Cut ladder below if the chair hard-stops at 90.**
+**v14 = user-authored opening, sharpened. Same formal register, three loud snaps, more facts (12,000 warheads), zero soft fat. The contrast is the weapon.**
 
 ---
 
 ## THE SPEECH
 
-[SLOW — the hook, three lines, no greeting yet]
-Five speeches. Zero action. Japan is not here to make it six.
-[BEAT]
-Listen carefully — you will not hear this again from another delegation.
+[SLOW — the hook]
+Some speeches before mine offered this committee some words: *deeply concerned*, cooperation, understanding.
 
-[HARD — the tone-lock]
+Japan is not here to add one more number for those words.
+
+[BEAT]
+Listen — you will not hear this again from another delegation.
+
+[HARD]
 We will speak in the only language this record understands: facts.
 
 [BEAT]
@@ -21,31 +24,31 @@ Honourable Chair, distinguished delegates.
 
 Eighty-one years ago, Hiroshima was destroyed by a single atomic bomb. Days later, Nagasaki. Japan marked this anniversary with fewer survivors than ever before.
 
-Japan is the only nation ever attacked with nuclear weapons in war. The treaty between the two largest arsenals expired in February — no successor, no negotiations. The Non-Proliferation Treaty failed its review in May — again. An army occupies Europe's largest nuclear plant, on a single power line. The fastest buildup since the Cold War publishes no numbers. And one state in this room has written "irreversible" into law — while its missiles have flown over Japan.
+Japan is the only nation ever attacked with nuclear weapons in war.
 
-[HARD — the first snap]
-When this Assembly was asked to help the victims of nuclear testing, four member states voted no. Three years in a row. The record is public. THEIR NAMES ARE IN IT.
+The treaty between the two largest arsenals expired in February — no successor, no negotiations. The Non-Proliferation Treaty failed its review in May — again. An army occupies Europe's largest nuclear plant — one wire from the point of no return. The fastest buildup since the Cold War publishes no numbers. Twelve thousand warheads remain. And one state in this room has written "irreversible" into law — while its missiles have flown over Japan.
+
+[HARD — snap one]
+When this Assembly was asked to help the victims of nuclear testing, four member states voted no. Three years in a row. The record is public. *THEIR NAMES ARE IN IT.*
 
 [SLOW]
 Japan's witnesses — the hibakusha — average eighty-seven years old. Their testimony will not outlast this committee's deliberation.
 
-Japan's answer is not more words — it is machinery: shared monitoring, early warning, remediation of poisoned land. Engineering. Within reach of this committee today.
+Japan's answer is not words — it is machinery: shared monitoring, early warning, real remediation.
 
-[HARD — the second snap]
-Hiroshima was the first city destroyed by the bomb. For eighty years, this world has promised that Nagasaki would be the last. That promise has been broken every year since. ENOUGH. This committee ends it.
+[HARD — snap two]
+Hiroshima was the first city destroyed by the bomb. For eighty years, this world has promised that Nagasaki would be the last. That promise has been broken every year since. *ENOUGH.* This committee ends it.
 
 [SLOW]
-Radiation has never respected a border. It never will. The question is whether our response will.
+Radiation has never respected a border — and never will. The question is whether our response does.
 
-[HARD — the final snap]
-Japan will vote for the machinery — and we will remember those who vote against the survivors. REMEMBER.
+[HARD — snap three]
+Japan will vote for the machinery — and we will remember those who vote against the survivors. *REMEMBER.*
 
 [SOFT]
 I yield to points of information.
 
 *(Hold one second of silence. Sit. No smile.)*
-
----
 
 ### Cut ladder (if the chair runs the clock hot)
 | Cut | Words | Result |
