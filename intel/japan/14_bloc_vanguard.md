@@ -1,4 +1,4 @@
-# 14 — BLOC ARCHIVE: "Ecological Cooperation & Nuclear Environmental Security Nexus"
+# 14 — BLOC ARCHIVE: "VANGUARD — Voluntary Alliance for Nuclear Oversight, Global Accountability, and Remediation Directives"
 **Status:** 💣 LIVE OPERATIONS — bloc formation in progress (user-confirmed core: India, Philippines, Mexico, Canada + Japan)
 **Compiled:** 12 Aug 2026 | **Evidence doctrine:** FACT / INFERENCE / HYPOTHESIS / UNKNOWN labels on everything
 
@@ -159,17 +159,17 @@ Your wishlist has NO Kazakhstan, NO Kiribati, NO Marshall Islands, NO Algeria �
 - **Rule announced at minute 1:** *"Core drafts; ring amends through core; nobody floor-tables solo amendments."* Blocs die of freelance amendments, not opposition.
 
 ## 9. BRANDING VERDICT — the name
-- **Keep the full official name**: *Ecological Cooperation & Nuclear Environmental Security Nexus* — it mirrors the agenda so tightly the chair can't call you off-topic. Smart (INFERENCE: deliberate or not, it works).
+- **Keep the full official name**: *VANGUARD — Voluntary Alliance for Nuclear Oversight, Global Accountability, and Remediation Directives* — it mirrors the agenda so tightly the chair can't call you off-topic. Smart (INFERENCE: deliberate or not, it works).
 - **Fatal flaw, FACT-of-language:** the acronym **ECNESN** is unpronounceable, and if you don't control the short form, the press corps will name you something stupid by Session 2.
-- **FIX:** adopt the press handle **"the ECO-NEXUS bloc"** (Ecological **CO**-operation + **NEXUS**). Say it first, put it on the working paper header: *"Working Paper 1.x — sponsored by the ECO-NEXUS Consortium."* Full name in formal docs, ECO-NEXUS everywhere else.
+- **FIX:** adopt the press handle **"the VANGUARD bloc"** (Ecological **CO**-operation + **NEXUS**). Say it first, put it on the working paper header: *"Working Paper 1.x — sponsored by the VANGUARD Consortium."* Full name in formal docs, VANGUARD everywhere else.
 - **Charter line (pre-empts the purity war, say it in every pitch):** *"This bloc builds machinery — monitoring, assessment, remediation, response. It takes no position on any member's nuclear doctrine. Disarmament questions remain each state's sovereign position."*
 
 ## 10. UPGRADED PITCHES (your Germany message, hardened)
 Your message was solid: machinery themes, collective drafting, specific flattery. Three fixes: **(1)** name the bloc brand, **(2)** give each target a *specific gift-role* (generic "bring your perspective" flatters; a named clause enlists), **(3)** add the one-line urgency hook (post-RevCon vacuum).
 
-**Germany 🇩🇪 (follow-up):** *"Germany just completed the most scrutinized nuclear phase-out in history — no delegation knows decommissioning and post-shutdown environmental monitoring like yours. We want Germany holding the pen on the decommissioning/monitoring clause of the ECO-NEXUS working paper. Core-drafting seat, not outer membership."*
+**Germany 🇩🇪 (follow-up):** *"Germany just completed the most scrutinized nuclear phase-out in history — no delegation knows decommissioning and post-shutdown environmental monitoring like yours. We want Germany holding the pen on the decommissioning/monitoring clause of the VANGUARD working paper. Core-drafting seat, not outer membership."*
 
-**Brazil 🇧🇷:** *"ABACC is the only bilateral verification system that actually works — thirty years, two former rivals, zero violations found. Bring that chapter to the ECO-NEXUS verification-cooperation clause. You'd lead-draft the Global South section."*
+**Brazil 🇧🇷:** *"ABACC is the only bilateral verification system that actually works — thirty years, two former rivals, zero violations found. Bring that chapter to the VANGUARD verification-cooperation clause. You'd lead-draft the Global South section."*
 
 **South Korea 🇰🇷:** *"Japan and Korea just co-signed the same vigilance statement in Vienna this March. Our two systems run the best real-time radiation monitoring in Asia. Joint-custody of the early-warning/tech OP — Asia writes the monitoring standard for once, instead of importing it."*
 
