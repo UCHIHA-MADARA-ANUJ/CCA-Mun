@@ -2,6 +2,7 @@
 ## Delegation of JAPAN · CCA MUN '26 · UNGA · General Speakers List · 100-second build
 
 **Full speech: 294 words ≈ 100s at podium pace (175 wpm) — with the new intro lines.** Cut ladder below if the chair hard-stops at 90.**
+**Full speech: 294 words ≈ 100s at podium pace (175 wpm). Cut ladder below if the chair hard-stops at 90.**
 **v16 = your opening + heavyweight facts (200,000 dead; 1954 poisoning; 12,000 warheads) + choice-closer that calls back to your opening. One crescendo shout-section, one final shout, cold close. Every cut line saved in the Add-Back Bank below.**
 
 ---
