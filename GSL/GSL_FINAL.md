@@ -14,9 +14,9 @@ Some speeches before mine offered words: *deeply concerned*, cooperation, unders
 
 Japan is not here to add one more number for those words.
 
-Concern costs nothing. It always has. The dead paid for theirs.
+Concern costs nothing. It always has. The dead paid the price.
 
-Words are cheap in this chamber. They have always been cheap. Japan stopped buying them.
+Words are cheap in this chamber — they always have been. Japan has stopped buying them.
 
 [BEAT]
 Honourable Chair, distinguished delegates.
