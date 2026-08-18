@@ -1,7 +1,7 @@
 # GSL FINAL — "THE BUILDER'S INDICTMENT" (v16 FINAL)
 ## Delegation of JAPAN · CCA MUN '26 · UNGA · General Speakers List · 100-second build
 
-**Full speech: 294 words ≈ 100s at podium pace (175 wpm) — with the new intro lines.** Cut ladder below if the chair hard-stops at 90.**
+**Full speech: 302 words ≈ 104s at brisk podium pace (175 wpm) — intro expanded with four hammer lines. Cut ladder below if the chair hard-stops at 90.**** Cut ladder below if the chair hard-stops at 90.**
 **Full speech: 294 words ≈ 100s at podium pace (175 wpm). Cut ladder below if the chair hard-stops at 90.**
 **v16 = your opening + heavyweight facts (200,000 dead; 1954 poisoning; 12,000 warheads) + choice-closer that calls back to your opening. One crescendo shout-section, one final shout, cold close. Every cut line saved in the Add-Back Bank below.**
 
@@ -16,11 +16,13 @@ Japan is not here to add one more number for those words.
 
 Concern costs nothing. It always has. The dead paid for theirs.
 
+Words are cheap in this chamber. They have always been cheap. Japan stopped buying them.
+
 [BEAT]
 Honourable Chair, distinguished delegates.
 
 [FAST — the record, one fact per breath]
-Eighty-one years ago, an atomic bomb destroyed Hiroshima. Days later, Nagasaki. More than two hundred thousand people died. Japan marked the anniversary with fewer survivors than ever.
+Eighty-one years ago, an atomic bomb destroyed Hiroshima. Days later, Nagasaki. Two hundred thousand dead. This year, fewer survivors than ever.
 The treaty between the largest arsenals expired in February. No successor. No negotiations.
 The NPT failed in May. Again.
 An army occupies Europe's largest nuclear plant — one wire from the point of no return.
@@ -52,7 +54,7 @@ Japan offers what the speeches did not: a vote for the machinery.
 Vote with us — your name beside the survivors.
 Vote against us — your name beside the four.
 [SHOUT — the final peak]
-The record is being written tonight. *WE WILL REMEMBER WHO WAS HERE — AND WHO WAS NOT.*
+The record is written tonight. *WE WILL REMEMBER WHO WAS HERE — AND WHO WAS NOT.*
 
 [SOFT]
 I yield to points of information.
