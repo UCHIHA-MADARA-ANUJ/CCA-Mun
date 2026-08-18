@@ -146,3 +146,4 @@ BLOC (11 in room): Japan, India, Iran, Mexico, Philippines, Canada, Switzerland,
 KEY ADVERSARIES PRESENT: China, France, UK, USA, Russia, DPRK — ALL the poison-pill names are in the room.
 Notable absent: Pakistan, Turkey, Australia, Ukraine, Netherlands, Nordics-except-Norway.
 COMMITTEE: 36 delegates → passage = 19 YES. No crisis. 60s mod-caucus speaking time. 3-4 mod caucuses total.
+
