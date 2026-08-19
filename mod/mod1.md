@@ -1,7 +1,7 @@
 # MOD 1 — TRANSBOUNDARY RADIOLOGICAL CONTAMINATION FROM PAST NUCLEAR TESTING AND PRODUCTION LEGACIES
 
 ## Delegation of JAPAN · CCA MUN '26 · UNGA
-**Speaking time: 60s · 151 words ≈ 52-55s at 165-175 wpm**
+**Speaking time: 60s · 169 words ≈ 58-61s at 165-175 wpm**
 
 ---
 
@@ -14,6 +14,8 @@
 > **Kazakhstan.** Four hundred fifty-six tests. **Two hundred fifty times the yield of Hiroshima.** The soil still carries it. People still live downwind.
 >
 > **THE FISH DO NOT ASK WHERE THE CESIUM CAME FROM. THE RAIN DOES NOT ASK PERMISSION TO FALL.**
+>
+> The island sits two meters above the sea. The sea is rising. **The first nation hit by the bomb now faces the rising water.**
 >
 > **The ground is the evidence.** THE QUESTION IS WHETHER THIS COMMITTEE BUILDS THE MACHINERY — **or watches the tomb fall.**
 >
