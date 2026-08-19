@@ -1,7 +1,7 @@
 # GSL FINAL — "THE BUILDER'S INDICTMENT" (v-final)
 ## Delegation of JAPAN · CCA MUN '26 · UNGA · General Speakers List · ~110s build (trim options marked)
 
-**Full speech: ~317 words ≈ 109-112s at podium pace (170-175 wpm). Point-of-order-checked. Cut ladder below if the chair hard-stops at 100.**
+**Full speech: 311 words ≈ 107s at podium pace (175 wpm). Point-of-order-checked. Cut ladder below if the chair hard-stops at 100.**
 
 ---
 
@@ -10,19 +10,17 @@
 [SLOW]
 Some speeches before mine offered some words: *deeply concerned*, cooperation, understanding.
 
-Japan is not here to become the fourth word.
+Japan is not here to become the fourth word — words have failed.
 
-Japan is here because words have failed.
+For eighty-one years, this chamber has expressed concern, repeated promises, and congratulated itself for doing nothing.
 
-For eighty-one years, this chamber has gathered to express concern, repeat the same promises, and congratulate itself for doing absolutely nothing.
-
-If empty words could stop nuclear weapons, Hiroshima and Nagasaki would have been the last names we ever had to remember.
+Empty words did not stop Hiroshima. They will not stop the next one.
 
 [BEAT]
 Honourable Chair, distinguished delegates.
 
 [FAST — the record, one fact per breath]
-Eighty-one years ago, an atomic bomb destroyed Hiroshima. Days later, Nagasaki. Two hundred thousand dead. This year, fewer survivors than ever.
+Eighty-one years ago, an atomic bomb destroyed Hiroshima. Days later, Nagasaki. Two hundred thousand dead.
 
 The treaty between the largest arsenals expired in February. No successor. No negotiations.
 
