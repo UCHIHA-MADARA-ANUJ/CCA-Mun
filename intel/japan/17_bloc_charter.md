@@ -1,11 +1,11 @@
-# 17 — ECO-NEXUS FOUNDING CHARTER ("BLOC DOC")
+# 17 — VANGUARD FOUNDING CHARTER ("BLOC DOC")
 **Purpose:** one-page constitution for the bloc. Drop the WhatsApp version (§2) in the group chat the moment the 10th member says yes. Silent consent within the hour = adopted.
 
 ---
 
 ## 1. THE CHARTER (canonical)
 
-**Ecological Cooperation & Nuclear Environmental Security Nexus (ECO-NEXUS)**
+**VANGUARD — Voluntary Alliance for Nuclear Oversight, Global Accountability, and Remediation Directives (VANGUARD)**
 
 **Mission (one line):** *After three failed NPT Review Conferences, somebody has to write the machinery the process couldn't. That's us.*
 
@@ -28,9 +28,9 @@
 
 ## 2. 📋 WHATSAPP PASTE VERSION
 
-> 📌⚡ **ECO-NEXUS — FOUNDING CHARTER** ⚡📌
+> 📌⚡ **VANGUARD — FOUNDING CHARTER** ⚡📌
 >
-> **Ecological Cooperation & Nuclear Environmental Security Nexus**
+> **VANGUARD — Voluntary Alliance for Nuclear Oversight, Global Accountability, and Remediation Directives**
 >
 > 🌍☢️ *Mission: three straight NPT Review Conferences collapsed. We write the machinery they couldn't.*
 >
@@ -58,7 +58,7 @@
 - **Adoption tactic:** post at a high-energy moment (right after a yes). Silence within 1 hour = consent; announce: "Seeing no objections — charter adopted." Momentum beats unanimity.
 - **If someone quarrels with Rule 3** (most likely Iran re: future recruits): answer with the reciprocity line from the archive — the rule that protects them next.
 - **If someone quarrels with Rule 2** (most likely Mexico/Austria wanting TPNW named): already handled — "for its States parties" qualifier is IN the charter.
-- **Group admin hygiene:** rename chat "ECO-NEXUS 🌍☢️"; pin charter; pin clause-sketch deadline. Paper-of-record = JP's working draft only. No parallel Google Docs from members — sketches come to YOU, you paste them into custody slots.
+- **Group admin hygiene:** rename chat "VANGUARD 🌍☢️"; pin charter; pin clause-sketch deadline. Paper-of-record = JP's working draft only. No parallel Google Docs from members — sketches come to YOU, you paste them into custody slots.
 - **Consultation channel owners:** you (JP) for USA/China; Canada for Australia/Norway fence-sitters; Mexico for Austria/Ireland/Holy See; Kazakhstan for PIF/CIS. Nobody else talks to outsiders "for the bloc" without a heads-up.
 
 *Cross-refs: 14 (grading), 15 (strike saga), 16 (machine + custody).*
