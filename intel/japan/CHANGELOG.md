@@ -165,3 +165,10 @@ COMMITTEE: 36 delegates → passage = 19 YES. No crisis. 60s mod-caucus speaking
 - v2: (1) monitoring/early-warning via IAEA+CTBTO existing mechanisms; (2) remediation & assistance — voluntary, "where appropriate", Indigenous/downwind/SIDS focus; (3) voluntary long-term recovery programmes (joint assessments, biodiversity, agri/marine monitoring, preparedness). ALL CLEAN — no changes needed.
 - Note: Barbados = quality drafter, took feedback well. Candidate for consultation-channel upgrade if a seat opens.
 - Member clauses received so far: India(3), Philippines(2), Switzerland(3), Barbados(3) = 11 clauses. Pending: Canada(waste), Mexico/Kazakhstan(victims), Iran(facilities), South Africa(dismantlement), Japan(umbrella/Sept custody).
+
+## 2026-08-19 — ROSTER CHANGE: KAZAKHSTAN OUT, BARBADOS PROMOTED
+- Kazakhstan NO LONGER in the bloc (reason not given). Barbados promoted from consultation-channel to FULL MEMBER.
+- CONFIRMED 10: Japan, Mexico, Canada, India, Iran, Switzerland, Egypt, Philippines, Barbados, South Africa.
+- Norway: day-of join still pending (contributor, not commander). Germany: reply 18 Aug (status now UNKNOWN — was pending, seat possibly re-opened). South Korea + Singapore: targets still live. New Zealand: flex.
+- IMPACT: (1) OP8 (September-meeting custody) loses its co-owner — Mexico holds it solo now; September meeting link stays in text (the meeting exists regardless, KZ's absence doesn't remove the fact). (2) Preamble legacy-language loses Semipalatinsk as a bloc asset — still citable as fact, but no in-bloc testimony voice. (3) Vote math: 10 confirmed + Norway day-of = 11; need 19 → swing pool grows. (4) Bloc loses a moral-frontman seat — Mexico + South Africa now carry the legacy/testimony lane.
+- LOGO: ring currently shows 10 flags incl. Kazakhstan — needs regeneration WITHOUT Kazakhstan, WITH Barbados.
