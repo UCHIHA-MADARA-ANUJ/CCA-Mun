@@ -154,3 +154,8 @@ COMMITTEE: 36 delegates → passage = 19 YES. No crisis. 60s mod-caucus speaking
 - INDIA (3): (1) regional monitoring networks — air/water/soil/agricultural, data-sharing protocols respecting sovereignty; (2) national emergency contact points + rapid notification, building on 1986 Early Notification Convention; (3) voluntary South-South scientific cooperation — expertise/tech/methodology/training exchange.
 - QUALITY: high. All mandate-clean, sovereignty-respecting, IAEA/1986-convention-anchored. Overlaps: monitoring networks (PH/IN/unnamed), capacity-building (PH/IN), EIA (new — from unnamed member), early notification (PH/IN/unnamed). No poison pills. All feed MONITOR/RESPOND layers; EIA clause is a NEW useful lane (assessment of future risk).
 
+
+## 2026-08-19 — SWITZERLAND CLAUSES RECEIVED (3)
+- (1) Cross-border radiation monitoring & data sharing via existing mechanisms esp. during emergencies; (2) Long-term environmental recovery & community support — remediation of land/water/ecosystems, affected communities; (3) Transboundary environmental impact assessments — consult affected neighbours before risky nuclear activities. [UNIQUE ASSET: EIA lane = "No More Lucky Dragons" in committee-safe form.]
+- Total member clauses so far: India (3) + Philippines (2) + Switzerland (3) = 8.
+- Micro-fixes for merge: Switzerland #1 += "IAEA-facilitated mechanisms"; Switzerland #2 verb "Calls for"→"Calls upon Member States to strengthen"; verb consistency across all.
