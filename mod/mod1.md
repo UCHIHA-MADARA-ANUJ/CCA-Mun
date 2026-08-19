@@ -1,7 +1,7 @@
 # MOD 1 — TRANSBOUNDARY RADIOLOGICAL CONTAMINATION FROM PAST NUCLEAR TESTING AND PRODUCTION LEGACIES
 
 ## Delegation of JAPAN · CCA MUN '26 · UNGA
-**Speaking time: 60s · 154 words ≈ 53-56s at 165-175 wpm**
+**Speaking time: 60s · 151 words ≈ 52-55s at 165-175 wpm**
 
 ---
 
@@ -9,7 +9,7 @@
 
 > There is a mother on Runit Island who checks the tide before her children swim. The tide carries the lagoon. The lagoon carries the tomb.
 >
-> **THE TOMB IS CRACKING.** One hundred twenty thousand tons of radioactive waste — buried by one country, abandoned by the same. A tribunal ordered **two point three billion dollars.** America paid **four million.** That is a **ratio of abandonment.**
+> **THE TOMB IS CRACKING.** One hundred twenty thousand tons of radioactive waste — buried by one country, abandoned by the same. A tribunal awarded **two point three billion dollars.** The tribunal ran out of money. **Half the claimants died waiting.**
 >
 > **Kazakhstan.** Four hundred fifty-six tests. **Two hundred fifty times the yield of Hiroshima.** The soil still carries it. People still live downwind.
 >
@@ -17,7 +17,7 @@
 >
 > **The ground is the evidence.** THE QUESTION IS WHETHER THIS COMMITTEE BUILDS THE MACHINERY — **or watches the tomb fall.**
 >
-> **JAPAN PROPOSES A MONITORING PILOT** — beginning with the Marshall Islands, funded through existing IAEA mechanisms, reporting to this committee. **Measure. Warn. Clean.** Or be recorded explaining why you would not.
+> **JAPAN'S ANSWER IS NOT ANOTHER SPEECH. IT IS MACHINERY.** Measure the ground. Warn the neighbours. Clean the wound. **Or be recorded explaining why you would not.**
 >
 > **I yield.**
 
@@ -72,7 +72,7 @@
 | Radiation rivaling Chernobyl in spots (Columbia University study) | LA Times / WSWS | 2019; Mar 2026 |
 | Runit 20 miles from inhabited areas | WSWS (Nikolic-Hughes) | Mar 2026 |
 | Island ~2m above sea level; sea rising 0.3 in/yr (2× global avg) | Geography Worlds / LA Times | 2026; 2019 |
-| **Tribunal ordered $2.3 billion; US paid ~$4 million** | LA Times; Progressive; Guardian | 2019; 2023 |
+| Tribunal awarded $2.3 billion; tribunal ran out of funds; half of valid claimants died waiting | Wikipedia (NCT); Washington Post 2015; LA Times; Guardian | 2026; 2015; 2019; 2023 |
 | "We don't want it. We didn't build it." — Pres. Hilda Heine | LA Times / Guardian | 2019; 2023 |
 | Semipalatinsk: 456 tests | RFERL | Aug 2023 |
 | Semipalatinsk: 250× Hiroshima total yield | RFERL | Aug 2023 |
