@@ -10,17 +10,19 @@
 [SLOW]
 Some speeches before mine offered some words: *deeply concerned*, cooperation, understanding.
 
-Japan is not here to become the fourth word — words have failed.
+Japan is not here to become the fourth word.
 
-For eighty-one years, this chamber has expressed concern, repeated promises, and congratulated itself for doing nothing.
+Japan is here because words have failed.
 
-Empty words did not stop Hiroshima. They will not stop the next one.
+For eighty-one years, this chamber has gathered to express concern, repeat the same promises, and congratulate itself for doing absolutely nothing.
+
+If empty words could stop nuclear weapons, Hiroshima and Nagasaki would have been the last names we ever had to remember.
 
 [BEAT]
 Honourable Chair, distinguished delegates.
 
 [FAST — the record, one fact per breath]
-Eighty-one years ago, an atomic bomb destroyed Hiroshima. Days later, Nagasaki. Two hundred thousand dead.
+Eighty-one years ago, an atomic bomb destroyed Hiroshima. Days later, Nagasaki. Two hundred thousand dead. This year, fewer survivors than ever.
 
 The treaty between the largest arsenals expired in February. No successor. No negotiations.
 
