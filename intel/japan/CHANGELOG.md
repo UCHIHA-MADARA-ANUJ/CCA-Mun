@@ -159,3 +159,9 @@ COMMITTEE: 36 delegates → passage = 19 YES. No crisis. 60s mod-caucus speaking
 - (1) Cross-border radiation monitoring & data sharing via existing mechanisms esp. during emergencies; (2) Long-term environmental recovery & community support — remediation of land/water/ecosystems, affected communities; (3) Transboundary environmental impact assessments — consult affected neighbours before risky nuclear activities. [UNIQUE ASSET: EIA lane = "No More Lucky Dragons" in committee-safe form.]
 - Total member clauses so far: India (3) + Philippines (2) + Switzerland (3) = 8.
 - Micro-fixes for merge: Switzerland #1 += "IAEA-facilitated mechanisms"; Switzerland #2 verb "Calls for"→"Calls upon Member States to strengthen"; verb consistency across all.
+
+## 2026-08-19 — BARBADOS CLAUSES v2 RECEIVED (3) — CLEAN
+- v1 had 2 poison pills (liability/polluter-pays + TPNW Art 6/7 citation) → flagged → user sent fix.
+- v2: (1) monitoring/early-warning via IAEA+CTBTO existing mechanisms; (2) remediation & assistance — voluntary, "where appropriate", Indigenous/downwind/SIDS focus; (3) voluntary long-term recovery programmes (joint assessments, biodiversity, agri/marine monitoring, preparedness). ALL CLEAN — no changes needed.
+- Note: Barbados = quality drafter, took feedback well. Candidate for consultation-channel upgrade if a seat opens.
+- Member clauses received so far: India(3), Philippines(2), Switzerland(3), Barbados(3) = 11 clauses. Pending: Canada(waste), Mexico/Kazakhstan(victims), Iran(facilities), South Africa(dismantlement), Japan(umbrella/Sept custody).
