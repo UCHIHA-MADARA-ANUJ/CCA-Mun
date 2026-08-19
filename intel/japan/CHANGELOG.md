@@ -189,3 +189,4 @@ LEGAL ANCHORS:
 - TPNW Art 6(2)+7: remediation obligations (but TPNW-only states - keep out of operative text)
 - ICANW: 4 flags voted no = France, DPRK, Russia, UK (verified again)
 - Indigenous/non-self-governing/women+girls disproportionate impact - acknowledged in 79/60
+
