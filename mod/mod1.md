@@ -1,7 +1,7 @@
 # MOD 1 — TRANSBOUNDARY RADIOLOGICAL CONTAMINATION FROM PAST NUCLEAR TESTING AND PRODUCTION LEGACIES
 
 ## Delegation of JAPAN · CCA MUN '26 · UNGA
-**Speaking time: 60s · 156 words ≈ 53-57s at 165-175 wpm**
+**Speaking time: 60s · 154 words ≈ 53-56s at 165-175 wpm**
 
 ---
 
@@ -9,15 +9,15 @@
 
 > There is a mother on Runit Island who checks the tide before her children swim. The tide carries the lagoon. The lagoon carries the tomb.
 >
-> **THE TOMB IS CRACKING.** One hundred twenty thousand tons of radioactive waste — buried by one country, abandoned by the same. A tribunal ordered **two point three billion dollars** in compensation. America paid **four million.**
+> **THE TOMB IS CRACKING.** One hundred twenty thousand tons of radioactive waste — buried by one country, abandoned by the same. A tribunal ordered **two point three billion dollars.** America paid **four million.** That is a **ratio of abandonment.**
 >
 > **Kazakhstan.** Four hundred fifty-six tests. **Two hundred fifty times the yield of Hiroshima.** The soil still carries it. People still live downwind.
 >
 > **THE FISH DO NOT ASK WHERE THE CESIUM CAME FROM. THE RAIN DOES NOT ASK PERMISSION TO FALL.**
 >
-> Japan is not here to discuss whether this is real. **The ground is the evidence.** THE QUESTION IS WHETHER THIS COMMITTEE BUILDS THE MACHINERY — or watches the tomb fall.
+> **The ground is the evidence.** THE QUESTION IS WHETHER THIS COMMITTEE BUILDS THE MACHINERY — **or watches the tomb fall.**
 >
-> **JAPAN'S ANSWER IS NOT ANOTHER SPEECH. IT IS MACHINERY.** Measure the ground. Warn the neighbours. Clean the wound. Or be recorded explaining why you would not.
+> **JAPAN PROPOSES A MONITORING PILOT** — beginning with the Marshall Islands, funded through existing IAEA mechanisms, reporting to this committee. **Measure. Warn. Clean.** Or be recorded explaining why you would not.
 >
 > **I yield.**
 
