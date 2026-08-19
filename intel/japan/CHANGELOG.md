@@ -41,8 +41,8 @@
 
 **Blocked / awaiting delegate input:** official '26 country matrix + ROP + brochure (not publicly indexed; forwarded via circuit WhatsApp/IG — requested).
 
-## 2026-08-12 — Wave 3: Bloc archive (ECO-NEXUS)
-- New: `14_bloc_eco_nexus.md` — full grading of user's confirmed 5 (IN A / PH A− / MX A− / CA A / IR back-bench) + 15-name wishlist (9 recruit, 1 conditional, 1 optional, 4 poison pills: CN assassin, US un-recruitable, FR remediation-censor, UK dead weight). Veto matrix, Iran cage protocol, 12–13 cap w/ core-ring structure, branding fix (press handle "ECO-NEXUS"), upgraded pitches, 12-min first-meeting agenda.
+## 2026-08-12 — Wave 3: Bloc archive (VANGUARD)
+- New: `14_bloc_eco_nexus.md` — full grading of user's confirmed 5 (IN A / PH A− / MX A− / CA A / IR back-bench) + 15-name wishlist (9 recruit, 1 conditional, 1 optional, 4 poison pills: CN assassin, US un-recruitable, FR remediation-censor, UK dead weight). Veto matrix, Iran cage protocol, 12–13 cap w/ core-ring structure, branding fix (press handle "VANGUARD"), upgraded pitches, 12-min first-meeting agenda.
 - New receipts logged: PH ratified TPNW 18 Feb 2021 + RA 12305/PhilAtom (18 Sep 2025) + IAEA BoG 2025–27 + PH endorsed KAZ-KIR assistance language at PrepCom '23 (UPGRADE to A−); Brazil = TPNW signatory-not-party (corrected); Canada NWMO DGR in regulatory phase Jan 2026, Major Projects Office referral 24 Jun 2026; Switzerland non-TPNW confirmed.
 - Action item flagged: check CCA '26 matrix for KAZ/KIR/MHL/Algeria — legacy-custody owners absent from user's wishlist.
 
@@ -55,7 +55,7 @@
 - Strike order confirmed: Germany → SK → Brazil = 10, then SA, UAE stretch; cap 12.
 
 ## 2026-08-12 — Wave 4b: Kazakhstan priority recruitment script dispatched
-- Full-name ECO-NEXUS pitch DM written for KZ (mandate-anchored: A/RES/78/240 + 79/60, Semipalatinsk 456 tests/closed 1991, 4th-largest arsenal renounced, LEU Bank Ust-Kamenogorsk, CTBTO IMS stations) — offer: L3 REMEDIATE pillar co-custody w/ Mexico. Reserve sweeteners listed (pillar-first sponsor billing, caucus speech opener); pen red-lines held (umbrella clause + preamble stay JP).
+- Full-name VANGUARD pitch DM written for KZ (mandate-anchored: A/RES/78/240 + 79/60, Semipalatinsk 456 tests/closed 1991, 4th-largest arsenal renounced, LEU Bank Ust-Kamenogorsk, CTBTO IMS stations) — offer: L3 REMEDIATE pillar co-custody w/ Mexico. Reserve sweeteners listed (pillar-first sponsor billing, caucus speech opener); pen red-lines held (umbrella clause + preamble stay JP).
 
 ## 2026-08-12 — Wave 5: Branch cleanup + treasure recovery
 - Pushed session branch to GitHub for first time (user visible now). Deleted stray branch arena/019fdce9 per user order — BUT recovered 24 files first: full prev-session 8-lane dossier (dossiers/Japan_UNGA_Ecological_Nuclear/), MUN_FIELD_MANUAL.md, skills 41–47 (elite tier), templates/00–06. GitHub now = main + arena/019ff3dc-cca-mun only.
@@ -113,3 +113,43 @@
 - Research verdict: GSL guides (Oxford Global, Delhi MUN, WiseMee CIA/echo method) confirm GSL = national position + solutions + invitation; named-bloc parade is not doctrine. v4 cuts bloc-name/member-count from podium; replaces with "open to every flag" instruments line + universal invite close ("Whoever you are — build with us"). Bloc reveal deferred to unmoderated caucus. All verified weapons retained.
 
 2026-08-13 — GSL_FINAL v5 (same-file edit, per user order): TOTAL BLOC SILENCE doctrine (bloc invisible until draft-resolution sponsor list; no name/counts/hints on podium, mod caucus, POI, corridor; "open to every flag"/"build with us"/caucus-reveal lines purged). Aggression pass: four no-vote flags now NAMED aloud (France, Russia, UK, DPRK) + "Now everyone does"; Washington/Moscow named on dead treaty; "Beijing publishes no count"; new knife "has flown missiles over my country" (DPRK sits in committee); opener "Japan did not come here to be polite"; close changed to challenge "Or stand now — and explain why you won't". Full emoji purge from speech file. 253 spoken words = 89s @170wpm; marked cuts to 84s. All claims receipt-locked (09 evidence log E31–E38).
+
+## 2026-08-15 — VERIFICATION WAVE (Skill 04/03/47 executed) — live web verification of every load-bearing 2025–26 claim
+- NEW: `22_verification_report_2026-08-15.md` — full ledger: 20 core verifications + 9 corrections + 11 fresh developments + open queue, all with source/date (Tier 1-2).
+- CONFIRMED (headline set): RevCon 11 collapse 22 May 2026 (DC3912); New START expiry 5 Feb 2026; Trump testing directive 30 Oct 2025, unexecuted; Takaichi PM since 21 Oct 2025; victim-assistance meeting = 1 SEP 2026 ECOSOC Chamber; 80/56 = 170-4-5; Japan res. 2025 = 145-5-28 FC / 147-5-26 plenary (US abstained); ALPS batch 22 through 17 Aug 2026; ZNPP 17th blackout 3 Jun 2026; SIPRI 2026 = 12,187 warheads; TPNW 75 parties (Tonga Jul 2026); CTBT 179 ratifications; plutonium 44.4 t end-2024; KK-6 restart 9 Feb 2026 (commercial 16 Apr 2026); hibakusha 91,105 / avg age 86.7; Defense of Japan 2026 (4 Aug) + Beijing response (5 Aug).
+- CORRECTIONS: (1) ALPS batch 22 ENDS 17 Aug — NOT live during committee (21–22 Aug); V1 framing updated. (2) KK-6 commercial ops = 16 Apr 2026, not March. (3) Scientific Panel = A/RES/79/238; Japan VOTED YES; Dr. Tomonaga on panel. (4) Japan's resolution title/votes updated ("Steps to building a common roadmap…"; 147-5-26). (5) SIPRI 2025 → 2026 numbers in arsenal/rapid sheet. (6) Iran: access denied since Jun 2025; strikes resumed Feb–Mar 2026. (7) MOFA "PM podium" quote date-stamped to Ishiba's UNGA-80 address (Sept 2025).
+- FLAGS: 79/60 exact tally (use "170+"); TPNW-resolution vote number (use "voted no every year since 2018"); first TPNW RevCon date (do not assert); matrix rows A–L; ROP.
+- Master brief + rapid sheet updated in place.
+
+## 2026-08-15 (later) — Research-and-Thinking branch audit + archive sync
+- AUDITED remote branch `Research-and-Thinking` (tip 1e8374d): tree hash `e2a834b...` == main's tree hash `e2a834b...` → byte-identical content; the research was built there and merged into main via PRs #1/#2 (arena/019ff3dc sync). Nothing on that branch is missing from the working tree.
+- COMPLETED full read of every remaining repo file (dossiers 02/04/05/06/07/08/09/10 + RECOVERY_NOTE, intel 02/03/04/06/07/08/09/15/16, research/canada_us_strategic_analysis.md, templates 00–06, all skills). No unread strategic material remains.
+- SYNCED archives to verification wave: dossier 06 (SIPRI 2026 numbers: 12,187 / RU 5,420 / US 5,042 / CN 620; 83% share; new six-numbers set), dossier 10 source bank (closed queue items 1–2: A/RES/79/238 Japan YES + Dr. Tomonaga; A/C.1/80/L.4 147-5-26; quick-cite updated), dossier 02 lane 1 (verification queue closed).
+
+## 2026-08-15 (late) — Roster state update
+- CONFIRMED 10: Japan, India, Iran, Mexico, Philippines, Canada, Switzerland, Egypt, Kazakhstan, SOUTH AFRICA (new).
+- Germany: reply expected 18 Aug (seat held). NZ: not yet responded. Norway: joins DAY OF CONFERENCE (flag: she won't let JP run the bloc — late joiner, no custody, watch for leadership grab; Arctic-lane offer stands but she contributes, not commands). South Korea + Singapore: unknown.
+- Cap 13 → slots left: 3. Likely: Germany (11) + one of NZ/SK/SG (12) + Norway day-of (13). SK/SG/NZ now compete for the last seat.
+- Bloc name: re-OPENED by user (current: "VANGUARD — Voluntary Alliance for Nuclear Oversight, Global Accountability, and Remediation Directives"). Candidates under review.
+
+
+## 2026-08-16 — MOD CAUCUS RESEARCH WAVE (pre-topic build)
+- Researched: repo skill 19 (mod engine) + Best Delegate Ambassador Guide + I.I.M.U.N. circuit tactics + Genesis MUN framing + Model Diplomat + r/MUN mechanics.
+- Key doctrine captured: (1) mod caucus = the "surgical strike" — agenda control tool; (2) NEVER motion "to further debate" (chair frowns); (3) motion wording should be policy-neutral, the STRIKE happens inside speeches; (4) I.I.M.U.N. circuit doctrine = "making others weaker is better — point out rivals' real-life mistakes in the caucus"; (5) formats: 10min/1min=deep, 10min/30s=intel sweep, 15min/90s=major; (6) mover speaks first or last (control the frame); (7) advanced play = steer debate to YOUR resolution's subtopics + avoid your weak ones.
+- Fresh ZNPP weapons (Jun 2026): 19th grid loss (~3 days on diesel); 6th IAEA ceasefire; ROSATOM/Rostekhnadzor issued 10-yr operating licences for units 1&2 under Russian licensing — restart-under-occupation angle is live and devastating vs Russia; Grossi: generation only after hostilities end.
+
+
+## 2026-08-16 — FULL MATRIX CONFIRMED (36 delegates) — user-supplied
+CONFIRMED ALLOCATED (36): Austria, Barbados, Brazil, Canada, China, Colombia, Egypt, France, Germany, Greece, Iceland, India, Iran, Israel, Italy, Indonesia, Japan, Kazakhstan, Madagascar, Malaysia, Mexico, Maldives, North Korea, New Zealand, Norway, Philippines, Russia, Republic of Korea, Singapore, South Africa, Spain, Switzerland, United Arab Emirates, United Kingdom, United States of America.
+
+BLOC (11 in room): Japan, India, Iran, Mexico, Philippines, Canada, Switzerland, Egypt, Kazakhstan, South Africa + Norway (day-of) + Germany (pending 18 Aug). South Korea + Singapore = targets. New Zealand = flex.
+KEY ADVERSARIES PRESENT: China, France, UK, USA, Russia, DPRK — ALL the poison-pill names are in the room.
+Notable absent: Pakistan, Turkey, Australia, Ukraine, Netherlands, Nordics-except-Norway.
+COMMITTEE: 36 delegates → passage = 19 YES. No crisis. 60s mod-caucus speaking time. 3-4 mod caucuses total.
+
+
+## 2026-08-19 — MEMBER CLAUSES RECEIVED (bloc draft feeding)
+- PHILIPPINES (2): (1) regional env-radiation monitoring networks, marine/atmospheric/terrestrial + timely data-sharing & early notification; (2) capacity-building/tech transfer for developing & vulnerable coastal states (monitoring, assessment, preparedness, remediation).
+- +91 99114 24909 (UNNAMED MEMBER, likely Egypt/SA) (3): (1) cross-border radiation monitoring & data sharing via existing mechanisms esp. during emergencies; (2) long-term environmental recovery & community support — remediation of land/water/ecosystems, affected communities; (3) transboundary environmental impact assessments — consult affected neighbours before risky nuclear activities.
+- INDIA (3): (1) regional monitoring networks — air/water/soil/agricultural, data-sharing protocols respecting sovereignty; (2) national emergency contact points + rapid notification, building on 1986 Early Notification Convention; (3) voluntary South-South scientific cooperation — expertise/tech/methodology/training exchange.
+- QUALITY: high. All mandate-clean, sovereignty-respecting, IAEA/1986-convention-anchored. Overlaps: monitoring networks (PH/IN/unnamed), capacity-building (PH/IN), EIA (new — from unnamed member), early notification (PH/IN/unnamed). No poison pills. All feed MONITOR/RESPOND layers; EIA clause is a NEW useful lane (assessment of future risk).
