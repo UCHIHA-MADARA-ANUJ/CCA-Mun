@@ -211,3 +211,9 @@ LEGAL ANCHORS:
 - OP13A: "restoration and strengthening of Agency access" — factual (ZNPP restricted since 2022; Iran no access since June 2025, DG reports on record), pro-verification = S1 shield synergy.
 - DR1.1 now: 14 PP + 18 OPs (OP13/OP13A added). Annex updated: Iran lane no longer pending; OP13A = consensus-grade low exposure.
 - Cage protocol unchanged: Iran = clause contributor only, never a face. Group-chat handoff DM ready in packet file for when they surface.
+
+## 2026-08-20 — CLAUSE PARITY FIX (3 clauses per member)
+- Audit found gaps: Philippines had 2 (needed 1), Iran had 2 OPs (needed 1), Canada's #2 (IAEA monitoring) had no distinct OP.
+- ADDED: OP7A (Canada #2 — IAEA environmental monitoring/radiation detection/waste verification); OP15 (Philippines #3 — newcomer/PhilAtom national radiation-monitoring institutions + archipelagic regional cooperation); OP16 (Iran — peaceful-uses right under NPT + IAEA scientific cooperation).
+- DR1.1 now: 14 PP + 17 OPs (renumbered cleanly, OP17 = remain seized). Every member holds exactly 3 clauses.
+- PDF regenerated (4 pages, 17.5 KB), verified OP7A/OP15/OP16/OP17 present.

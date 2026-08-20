@@ -59,6 +59,8 @@
 
 **OP7.** *Calls upon* Member States to establish comprehensive radioactive waste management strategies, prioritizing deep geological disposal, consent-based community siting frameworks and owner-funded financing models, and *encourages* the exchange of best practices in this regard; **[CANADA #3 — waste lane]**
 
+**OP7A.** *Encourages* enhanced cooperation with the International Atomic Energy Agency to strengthen environmental monitoring, radiation detection and nuclear waste verification mechanisms, building on the Agency's established technical cooperation and safety standards; **[CANADA #2 — IAEA monitoring cooperation]**
+
 **OP8.** *Encourages* the establishment, through relevant UN bodies and the IAEA, of a voluntary mechanism for the independent assessment and public reporting of significant ecological risks arising from nuclear activities, including testing and proliferation-related contamination, while protecting legitimate national-security information; **[SOUTH AFRICA #1 reframed — UNEAVM]**
 
 **OP9.** *Encourages* the establishment, through the UN Environment Programme and the IAEA, of a voluntary International Radiological Damage and Ecological Remediation Fund to support affected States in ecological restoration, water decontamination and long-term environmental monitoring, with contributions from States in a position to do so, including those whose nuclear activities have contributed to transboundary contamination; **[MEXICO #1 reframed + SOUTH AFRICA #2 reframed — merged fund]**
@@ -79,7 +81,11 @@
 
 **OP14.** *Calls for* strengthened international technical cooperation for the long-term assessment and remediation of contaminated land, water and ecosystems, with particular attention to communities affected by transboundary nuclear contamination; **[EGYPT #2 — international fund + SWITZERLAND #2 — merged]**
 
-**OP15.** *Decides* to remain seized of the matter through a standing agenda review at its eighty-third session, with a voluntary implementation report by the Secretary-General drawing on Framework partners. **[follow-through]**
+**OP15.** *Encourages* Member States pursuing or operating civil nuclear programmes, in particular newcomer States, to establish and strengthen national radiation-monitoring institutions, regulatory frameworks and emergency-response capacities, and *invites* relevant international organizations and experienced States to support such efforts, including through regional cooperation among archipelagic and coastal States; **[PHILIPPINES #3 — PhilAtom/newcomer lane]**
+
+**OP16.** *Reaffirms* the inalienable right of States to develop and use nuclear energy for peaceful purposes, in accordance with the Treaty on the Non-Proliferation of Nuclear Weapons and their respective safeguards agreements, and *encourages* international scientific and technical cooperation in this regard under IAEA supervision; **[IRAN — peaceful-uses/science lane]**
+
+**OP17.** *Decides* to remain seized of the matter through a standing agenda review at its eighty-third session, with a voluntary implementation report by the Secretary-General drawing on Framework partners. **[follow-through]**
 
 ---
 
@@ -87,6 +93,7 @@
 
 - **Fight-to-death lines (no concession):** PP8 (S2 scope shield), OP2's IAEA benchmark phrase (S1 shield), PP7 formula, OP12 meeting reference.
 - **Concession bank (cheap, pre-approved):** add "within existing mandates and resources" to OP4; add "on a voluntary basis" to OP7; soften OP13 "grave" → "serious" only if P3 makes it a price.
+- **Clause parity:** every member now holds 3 clauses (PH #3 PhilAtom lane, IRAN peaceful-uses #3, CANADA #2 IAEA-monitoring as distinct OP7A).
 - **Paragraph-vote exposure:** P3 will likely force separate votes on PP7 (formula), PP13+OP13 (Iran lane), OP9 (responsibility). All survive on NAM+bloc numbers; do not pre-surrender. OP13A (IAEA cooperation) is consensus-grade — near-zero exposure, treat as safe.
 - **Iran's lane: DRAFTED by Japan (delegate inactive).** Full packet in `drafts/IRAN_clauses.md` — PP13/PP14/OP13/OP13A. OP13 rebuilt on verbatim IAEA GC 444/533 language (Charter-violation + transboundary-consequences lines), OP13A = IAEA access/verification (rehab lane, neutral). Swap-in on Iran sign-off only if they request changes; otherwise locked as-is. Mexico's lane (victims/remediation full text) was absorbed into OP9/OP12 via reframe — nothing pending.
 - **Sponsor list update:** South Africa added; Kazakhstan removed (no longer in bloc).
