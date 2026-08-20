@@ -7,13 +7,15 @@
 
 ## 5.1 Arsenal scale and trend
 
+> **UPDATE 15 Aug 2026:** SIPRI Yearbook 2026 (released Jun 2026) supersedes 2025 figures — use these in committee: **12,187 warheads (Jan 2026); ~9,745 stockpiled; 4,012 deployed; ~2,100–2,200 high alert; Russia 5,420 + US 5,042 ≈ 83% of stockpiled / ~86% of total; China 620 (fastest growth); France 370; UK 225; India 190; Pakistan 170; Israel 90; DPRK 60.** Full ledger: `intel/japan/22_verification_report_2026-08-15.md` (V16).
+
 | Claim | Label | Source / date | Safe speaking line | Limitation |
 |---|---|---|---|---|
-| Nine states hold ~12,241 warheads (Jan 2025); ~9,614 in military stockpiles; ~2,100 deployed on high alert | [VERIFIED FACT] | SIPRI Yearbook 2025 summary (Jun 2025); Reuters (Jun 15, 2025) | "Nine states still hold more than twelve thousand nuclear warheads — and ninety percent of them belong to two." | Estimates, not exact counts |
-| Russia 5,459; US 5,177; China 600; France 290; UK 225; India 180; Pakistan 170; Israel 90; DPRK 50 | [VERIFIED FACT] | SIPRI 2025 | "Russia and the United States together hold almost ninety percent of the world's warheads." | DPRK/Israel figures most uncertain |
-| China added ~100 warheads/yr since 2023 — fastest-growing arsenal; Pentagon projects 1,000+ by 2030, 1,500+ by 2035 | [VERIFIED FACT] | SIPRI 2025; Reuters (Jun 15, 2025) | "The fastest-growing arsenal on Earth is expanding by roughly one hundred warheads every year." | Projections are estimates |
-| All nine nuclear-armed states modernizing/expanding; "the era of reductions… is coming to an end" | [VERIFIED FACT] | SIPRI/Reuters (Jun 15, 2025) | "For the first time in a generation, reductions have stopped and growth has resumed." | SIPRI framing |
-| ~2,100 deployed warheads on high operational alert (ballistic missiles), nearly all US/Russian | [VERIFIED FACT] | SIPRI/Reuters (Jun 15, 2025) | "Two thousand warheads remain on hair-trigger alert." | — |
+| Nine states hold ~12,187 warheads (Jan 2026); ~9,745 in military stockpiles; ~2,100–2,200 deployed on high alert | [VERIFIED FACT] | SIPRI Yearbook 2026 summary (Jun 2026); Al Jazeera (8 Jun 2026) | "Nine states still hold more than twelve thousand nuclear warheads — and more than eight out of ten belong to two." | Estimates, not exact counts |
+| Russia 5,420; US 5,042; China 620; France 370; UK 225; India 190; Pakistan 170; Israel 90; DPRK 60 | [VERIFIED FACT] | SIPRI 2026 (via Indian Express 13 Jun 2026) | "Russia and the United States together hold roughly eighty-three percent of the world's stockpiled warheads." | DPRK/Israel figures most uncertain |
+| China added ~100 warheads/yr since 2023 — fastest-growing arsenal; could exceed 1,000 by 2030 | [VERIFIED FACT] | SIPRI 2026; Reuters (15 Jun 2025) | "The fastest-growing arsenal on Earth is expanding by roughly one hundred warheads every year." | Projections are estimates |
+| All nine nuclear-armed states modernizing/expanding; post-Cold War decline trend set to reverse | [VERIFIED FACT] | SIPRI 2026 | "For the first time in a generation, reductions have stopped and growth has resumed." | SIPRI framing |
+| ~2,100–2,200 deployed warheads on high operational alert (ballistic missiles), nearly all US/Russian | [VERIFIED FACT] | SIPRI 2026 | "Two thousand warheads remain on hair-trigger alert." | — |
 
 ## 5.2 Testing history
 
@@ -56,12 +58,12 @@
 
 ## 5.6 The six numbers to memorize (minimum viable data set)
 
-1. **12,241** — warheads (SIPRI 2025)
-2. **90%** — Russia+US share
+1. **12,187** — warheads (SIPRI 2026; Jan 2026)
+2. **83%** — Russia+US share of stockpiled warheads (RU 5,420 / US 5,042)
 3. **2,000+** — tests since 1945; **10** since 1996
 4. **1954** — Lucky Dragon; fallout crossed borders
 5. **2 billion / 5 billion** — famine deaths (Nature Food 2022)
-6. **136-3-29** — the UN's own Scientific Panel resolution passed (Dec 2024); **152-6-28** — Japan's resolution arithmetic (2024)
+6. **136-3-29 / 144-3-30** — the UN's own Scientific Panel resolution passed (Dec 2024); **147-5-26** — Japan's resolution plenary arithmetic (Dec 2025)
 
 ---
 
