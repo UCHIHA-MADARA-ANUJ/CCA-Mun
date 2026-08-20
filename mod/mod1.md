@@ -3,22 +3,22 @@
 ## Delegation of Japan · CCA MUN ’26 · UNGA
 
 **Speaking time:** 60 seconds  
-**Speech length:** 167 words — approximately 59 seconds at 170 words per minute  
+**Speech length:** 170 words — approximately 60 seconds at 170 words per minute  
 **Status:** Primary-source rebuild, 20 August 2026
 
 ---
 
 ## SPEECH
 
-Sixty-seven nuclear tests in the Marshall Islands. Four hundred fifty-six at Semipalatinsk. Twenty-three Japanese fishermen irradiated outside a declared danger zone.
+The record: sixty-seven tests in the Marshall Islands; four hundred fifty-six at the Soviet test site in Kazakhstan; twenty-three Japanese fishermen irradiated outside the declared danger zone.
 
 **THIS IS NOT HISTORY. THIS IS EVIDENCE.**
 
-At Runit, more than one hundred thousand cubic yards of contaminated soil and debris remain inside an unlined test crater beneath a concrete cap. Official monitoring confirms that groundwater beneath the structure communicates with the lagoon. Official reports call the wider impact negligible. The island remains indefinitely quarantined.
+At Runit Island, more than one hundred thousand cubic yards of contaminated material remain in an unlined test crater beneath a concrete cap. US Energy Department monitoring confirms groundwater and lagoon water communicate. Its assessment calls the wider impact negligible; the Marshall Islands Government keeps the island indefinitely off-limits.
 
-At Semipalatinsk, one hundred sixteen tests were conducted above ground, and fallout plumes extended beyond the site’s boundaries. The test site covers nineteen thousand square kilometres. **THE TESTS ENDED. THE CONSEQUENCES DID NOT.**
+At the Kazakhstan site, one hundred sixteen tests were above ground. Fallout plumes crossed the site’s boundaries. The site spans nineteen thousand square kilometres. **THE TESTS ENDED. THE CONSEQUENCES DID NOT.**
 
-In 1954, all twenty-three members of the Lucky Dragon’s crew were irradiated outside the declared danger zone. Its chief radio operator died seven months later.
+In 1954, all twenty-three Lucky Dragon crew were irradiated outside the declared danger zone. The chief radio operator died on 23 September 1954.
 
 Japan asks every testing State in this room: **IF YOUR FALLOUT CROSSED BORDERS, WHY DID YOUR RESPONSIBILITY STOP AT THEM?**
 
@@ -36,13 +36,26 @@ I yield.
 | “THIS IS NOT HISTORY. THIS IS EVIDENCE.” | First full-volume strike |
 | Runit facts | Clinical and precise; do not dramatize “negligible” |
 | “The island remains indefinitely quarantined.” | Slow; hold one beat |
-| Semipalatinsk facts | Rise steadily |
+| Kazakhstan test-site facts | Rise steadily |
 | “THE TESTS ENDED. THE CONSEQUENCES DID NOT.” | Second full-volume strike |
 | Lucky Dragon | Quiet and direct; never shout a death |
 | Final responsibility question | Final full-volume strike |
 | “The environment kept the record…” | Cold drop; hold one beat before yielding |
 
 **Rule:** Three volume peaks only. Everything else remains controlled and diplomatic.
+
+---
+
+## PRONUNCIATION CARD
+
+- **Runit:** “ROO-nit”
+- **Kazakhstan:** “KAZ-uhk-STAHN”
+- **Bikini:** “bih-KEE-nee”
+- **Lagoon:** “luh-GOON”
+- **Irradiated:** “ih-RAY-dee-ay-tid”
+- **Radiological** (topic wording): “ray-dee-uh-LOJ-ih-kul”
+
+The difficult place name **Semipalatinsk is not spoken anywhere in the speech**. Say **“the Soviet test site in Kazakhstan”** or **“the Kazakhstan test site.”**
 
 ---
 
@@ -55,11 +68,11 @@ I yield.
 | Groundwater beneath the structure communicates with the lagoon | Verified | US DOE, *Visual Study and Groundwater Analysis of the Cactus Crater Containment Structure* (2022) |
 | DOE describes the wider marine impact as negligible | Verified, attributed | US DOE reports (2020, 2022, 2024) |
 | Runit Island remains indefinitely quarantined/off-limits | Verified | US GAO (2024); US DOE (2024) |
-| Semipalatinsk hosted 456 tests, including 116 above-ground tests | Verified | IAEA Publication 1063; IAEA INIS |
-| Semipalatinsk covers approximately 19,000 km² | Verified | IAEA; CTBTO |
+| The former Soviet test site in Kazakhstan hosted 456 tests, including 116 above-ground tests | Verified | IAEA Publication 1063; IAEA INIS |
+| The Kazakhstan test site covers approximately 19,000 km² | Verified | IAEA; CTBTO |
 | Fallout plumes extended beyond site boundaries | Verified | IAEA INIS dosimetry record |
 | All 23 Lucky Dragon crew members were irradiated outside the declared danger zone | Verified | Daigo Fukuryu-Maru Exhibition Hall; Hiroshima Peace Memorial Museum |
-| Chief radio operator Aikichi Kuboyama died seven months later | Verified historical chronology | Hiroshima Peace Memorial Museum; Daigo Fukuryu-Maru Exhibition Hall memorial records |
+| Chief radio operator Aikichi Kuboyama died on 23 September 1954 | Verified historical chronology | Hiroshima Peace Memorial Museum; Daigo Fukuryu-Maru Exhibition Hall memorial records |
 
 ### Claims deliberately removed
 
@@ -76,11 +89,11 @@ I yield.
 **If challenged on Runit’s wider environmental impact:**  
 “Japan accurately stated the official position: DOE assesses the wider impact as negligible. The same official record confirms groundwater–lagoon communication and indefinite quarantine. Japan misrepresented neither side of the evidence.”
 
-**If challenged on whether Semipalatinsk remains broadly contaminated:**  
+**If challenged on whether the Kazakhstan test site remains broadly contaminated:**  
 “Japan did not claim that every part of the site is equally contaminated. Japan cited the verified testing record, transboundary plumes and continuing consequences. The IAEA identifies heavily contaminated exceptions, including Ground Zero and Lake Balapan.”
 
 **If challenged on Kuboyama’s medical cause of death:**  
-“Japan made no disputed medical-causation claim. The speech states only the undisputed chronology: all twenty-three crew members were irradiated, and the chief radio operator died seven months later.”
+“Japan made no disputed medical-causation claim. The speech states only the undisputed chronology: all twenty-three crew members were irradiated, and the chief radio operator died on 23 September 1954.”
 
 **If debate is redirected toward civilian operational releases:**  
 “This caucus concerns nuclear-testing and production legacies. Civilian operational releases are assessed separately under established IAEA safety standards.”
