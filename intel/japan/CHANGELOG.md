@@ -217,3 +217,23 @@ LEGAL ANCHORS:
 - ADDED: OP7A (Canada #2 — IAEA environmental monitoring/radiation detection/waste verification); OP15 (Philippines #3 — newcomer/PhilAtom national radiation-monitoring institutions + archipelagic regional cooperation); OP16 (Iran — peaceful-uses right under NPT + IAEA scientific cooperation).
 - DR1.1 now: 14 PP + 17 OPs (renumbered cleanly, OP17 = remain seized). Every member holds exactly 3 clauses.
 - PDF regenerated (4 pages, 17.5 KB), verified OP7A/OP15/OP16/OP17 present.
+
+## 2026-08-20 — DR PDF "BEST PDF EVER" + LOGO ROSTER FIX (deliverable)
+
+**Built the circulatable Draft Resolution 1.1 PDF** (`drafts/VANGUARD_DR1.1.pdf`, 5 pp, A4):
+- reportlab-based generator `scripts/build_dr_pdf.py` (venv-free build tool chain recorded in README of scripts).
+- Navy/gold UN-style double border on every page; embedded VANGUARD logo (roster v2); masthead with
+  Distr. block, DRAFT RESOLUTION 1.1, committee + agenda, title plate, SPONSORS box (10 members) and
+  SIGNATORIES box (targets: Norway, Germany, ROK, Singapore, New Zealand).
+- Preamble PP1-14 + Operative OP1-17/7A/9A/9B/13A, hanging indents, bold verbs, justified.
+- ALL internal custody tags ([MX anchor], **[JAPAN — UMBRELLA]**, IRAN lanes, etc.) and ANNEX A stripped
+  programmatically — verified 0 bracket leaks, 0 markdown artifacts.
+- Footer (bloc credit + page number), continuation header, 5%-alpha gold VANGUARD watermark on pp 2-5.
+- DejaVu fonts embedded; text extractable/selectable.
+
+**Logo roster fix:** `assets/vanguard_logo_final.png` regenerated (Pillow, 2400px) — Kazakhstan badge
+replaced by Barbados (blue/yellow/blue + trident); SVG synced. Verified badge colors programmatically.
+
+**Toolchain note:** ImageMagick cannot emit PDF (policy) and cannot rasterize SVG (no rsvg delegate);
+pip works inside a venv (`/tmp/pdfenv` has reportlab 5.0.1, Pillow 12.3.0, pymupdf) — regeneration =
+`python3 -m venv` + `pip install reportlab pillow pymupdf` + run both scripts.
