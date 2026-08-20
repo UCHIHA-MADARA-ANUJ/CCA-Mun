@@ -198,3 +198,8 @@ LEGAL ANCHORS:
 - Member clauses total: India(3) + PH(2) + Switzerland(3) + Barbados(3) + Egypt(3) + Canada(3) + SouthAfrica(3 reframed) = 20 clauses.
 - Pending: Mexico (victims/Sept meeting), Iran (facility protection, caged), Japan (umbrella OP1 + Sept custody OP8).
 
+
+## 2026-08-20 — MEXICO CLAUSES (3) — ALL POISON, REFRAMED
+- v1: (1) IRDERF — "mandates legally binding liability, assessed megatonnage, victim states zero burden"; (2) UNCTEV — "unannounced inspections without host approval, automatic sanctions referral"; (3) NWFZ mandatory expansion + withdrawal of P5 reservations.
+- FLAG: all three = liability + sovereignty invasion + off-scope. Reframed: OP9 merged fund (voluntary, "States in a position to do so"); OP9A voluntary IAEA border monitoring with consent; OP9B zones recalled (preamble-flavored, non-binding).
+- PATTERN LOCKED: every member sending liability/sovereignty/enforcement language (Barbados v1, SA v1, Mexico v1) gets same redirect — voluntary, consent-based, existing mechanisms.

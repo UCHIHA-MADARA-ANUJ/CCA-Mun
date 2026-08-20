@@ -57,7 +57,11 @@
 
 **OP8.** *Encourages* the establishment, through relevant UN bodies and the IAEA, of a voluntary mechanism for the independent assessment and public reporting of significant ecological risks arising from nuclear activities, including testing and proliferation-related contamination, while protecting legitimate national-security information; **[SOUTH AFRICA #1 reframed — UNEAVM]**
 
-**OP9.** *Calls upon* States in a position to do so, including those whose nuclear activities have contributed to transboundary contamination, to provide voluntary financial and technical assistance for environmental remediation, ecosystem restoration, water decontamination and long-term environmental monitoring in affected developing States; **[SOUTH AFRICA #2 reframed — fund]**
+**OP9.** *Encourages* the establishment, through the UN Environment Programme and the IAEA, of a voluntary International Radiological Damage and Ecological Remediation Fund to support affected States in ecological restoration, water decontamination and long-term environmental monitoring, with contributions from States in a position to do so, including those whose nuclear activities have contributed to transboundary contamination; **[MEXICO #1 reframed + SOUTH AFRICA #2 reframed — merged fund]**
+
+**OP9A.** *Encourages* voluntary cooperation with the IAEA for environmental monitoring along borders and at legacy nuclear test sites, with the consent of the States concerned, and *requests* the IAEA to report on such cooperation to the General Assembly; **[MEXICO #2 reframed — verification]**
+
+**OP9B.** *Recalls* the contribution of nuclear-weapon-free zones, including the Treaty of Tlatelolco, to regional security and environmental protection, and *encourages* States parties to such zones to continue cooperation in this regard; **[MEXICO #3 reframed — zones, preamble-flavored operative]**
 
 **OP10.** *Encourages* Member States to strengthen transboundary notification and coordinated emergency-response arrangements for significant nuclear incidents or detected radioactive releases, building upon the 1986 Early Notification and Assistance Conventions, with the consent of affected States; **[SOUTH AFRICA #3 reframed — TNEEP]**
 
