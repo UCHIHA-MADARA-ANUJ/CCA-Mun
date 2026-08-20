@@ -119,3 +119,11 @@
 - Removed the invented “mother on Runit Island” hook (Runit is officially off-limits), unsupported “THE TOMB IS CRACKING” claim, uncertain “120,000 tons” conversion, false “250 times Hiroshima” yield comparison, and the Marshall-Islands/Japan conflation.
 - Rebuilt around official GAO/DOE/IAEA/CTBTO records: 67 Marshall Islands tests; 456 Semipalatinsk tests including 116 above ground; >100,000 cubic yards at Runit; groundwater–lagoon communication; indefinite Runit quarantine; 23 Lucky Dragon crew irradiated outside the declared danger zone; Kuboyama death chronology.
 - Added line-by-line fact audit, point-of-order defence and primary-source ledger in `mod/mod1.md`.
+
+## 2026-08-20 — MOD 2 full research dossier (current session)
+- Created `research/MOD2_STANCE_MAP.md`; research only, no speech drafted.
+- Defined stockpile/inventory/deployed/retired/fissile-material categories and identified the category-confusion argument.
+- Mapped the disclosure record of all eight nuclear-armed delegations present (US, Russia, China, France, UK, India, Israel, DPRK) using SIPRI 2026 plus official government/NPT sources.
+- Built stance profiles for all 35 named portfolios; flagged that the user states N=36 but supplied only 35 country names.
+- Added Japan plutonium vulnerability/defence, ecological relevance, legal limits, disclosure ladder, opponent best cases, attack-defence matrix and safe/unsafe claim bank.
+- Key live developments captured: New START expired 5 Feb 2026; France increased arsenal and ended numerical disclosure on 2 Mar 2026; UK retains 260 ceiling but no operational counts; China’s 2025 white paper prioritizes intention/doctrine transparency.
