@@ -197,3 +197,4 @@ LEGAL ANCHORS:
 - CANADA v2 (3) — CLEAN after redirect: (1) preamble-ready commitment line; (2) IAEA environmental monitoring/radiation detection/waste verification; (3) radioactive waste management strategies — deep geological disposal, consent-based siting, owner-funded financing. [HER LANE = waste, now correct.]
 - Member clauses total: India(3) + PH(2) + Switzerland(3) + Barbados(3) + Egypt(3) + Canada(3) + SouthAfrica(3 reframed) = 20 clauses.
 - Pending: Mexico (victims/Sept meeting), Iran (facility protection, caged), Japan (umbrella OP1 + Sept custody OP8).
+
