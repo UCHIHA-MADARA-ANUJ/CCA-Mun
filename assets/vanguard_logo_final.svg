@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1200" viewBox="0 0 1200 1200">
+<rect width="1200" height="1200" fill="#FFFFFF"/>
+<circle cx="600" cy="600" r="560" fill="#0B1E3A"/>
+<circle cx="600" cy="600" r="560" fill="none" stroke="#C9A227" stroke-width="6"/>
+<circle cx="600" cy="600" r="330" fill="#0B1E3A"/>
+<circle cx="600" cy="600" r="330" fill="none" stroke="#C9A227" stroke-width="4"/>
+<clipPath id="c600_170"><circle cx="600.0" cy="170.0" r="92.0"/></clipPath>
+<clipPath id="c852_252"><circle cx="852.7" cy="252.1" r="62.0"/></clipPath>
+<clipPath id="c1008_467"><circle cx="1009.0" cy="467.1" r="62.0"/></clipPath>
+<clipPath id="c1008_732"><circle cx="1009.0" cy="732.9" r="62.0"/></clipPath>
+<clipPath id="c852_947"><circle cx="852.7" cy="947.9" r="62.0"/></clipPath>
+<clipPath id="c600_1030"><circle cx="600.0" cy="1030.0" r="62.0"/></clipPath>
+<clipPath id="c347_947"><circle cx="347.3" cy="947.9" r="62.0"/></clipPath>
+<clipPath id="c191_732"><circle cx="191.0" cy="732.9" r="62.0"/></clipPath>
+<clipPath id="c191_467"><circle cx="191.0" cy="467.1" r="62.0"/></clipPath>
+<clipPath id="c347_252"><circle cx="347.3" cy="252.1" r="62.0"/></clipPath>
+<g clip-path="url(#c600_170)"><rect x="508.0" y="78.0" width="184.0" height="184.0" fill="#FFFFFF"/><circle cx="600.0" cy="170.0" r="53.4" fill="#BC002D"/></g>
+<circle cx="600.0" cy="170.0" r="92.0" fill="none" stroke="#C9A227" stroke-width="4"/>
+<g clip-path="url(#c852_252)"><rect x="790.7" y="190.1" width="24.8" height="124.0" fill="#D52B1E"/><rect x="815.5" y="190.1" width="74.4" height="124.0" fill="#FFFFFF"/><rect x="889.9" y="190.1" width="24.8" height="124.0" fill="#D52B1E"/><path d="M 852.7 207.5 l 17.4 21.1 l -8.7 6.2 l 6.2 17.4 l -12.4 -5.0 l -2.5 18.6 l -12.4 -18.6 l -2.5 -9.9 l -8.7 -13.6 z" fill="#D52B1E"/></g>
+<circle cx="852.7" cy="252.1" r="62.0" fill="none" stroke="#C9A227" stroke-width="4"/>
+<g clip-path="url(#c1008_467)"><rect x="947.0" y="405.1" width="124.0" height="41.3" fill="#FF9933"/><rect x="947.0" y="446.5" width="124.0" height="41.3" fill="#FFFFFF"/><rect x="947.0" y="487.8" width="124.0" height="41.3" fill="#138808"/><circle cx="1009.0" cy="467.1" r="14.9" fill="none" stroke="#000080" stroke-width="3.7"/></g>
+<circle cx="1009.0" cy="467.1" r="62.0" fill="none" stroke="#C9A227" stroke-width="4"/>
+<g clip-path="url(#c1008_732)"><rect x="947.0" y="670.9" width="41.3" height="124.0" fill="#00267F"/><rect x="988.3" y="670.9" width="41.3" height="124.0" fill="#FFC726"/><rect x="1029.7" y="670.9" width="41.3" height="124.0" fill="#00267F"/><rect x="1004.7" y="700.0" width="8.6" height="62.0" fill="#000000"/><rect x="988.3" y="699.0" width="41.4" height="6.2" fill="#000000"/><rect x="989.3" y="686.0" width="6.2" height="14.0" fill="#000000"/><rect x="1005.9" y="682.0" width="6.2" height="18.0" fill="#000000"/><rect x="1022.5" y="686.0" width="6.2" height="14.0" fill="#000000"/></g>
+<circle cx="1009.0" cy="732.9" r="62.0" fill="none" stroke="#C9A227" stroke-width="4"/>
+<g clip-path="url(#c852_947)"><rect x="790.7" y="885.9" width="124.0" height="62.0" fill="#0038A8"/><rect x="790.7" y="947.9" width="124.0" height="62.0" fill="#CE1126"/><polygon points="790.7,885.9 790.7,1009.9 889.9,947.9" fill="#FFFFFF"/></g>
+<circle cx="852.7" cy="947.9" r="62.0" fill="none" stroke="#C9A227" stroke-width="4"/>
+<g clip-path="url(#c600_1030)"><rect x="538.0" y="968.0" width="124.0" height="41.3" fill="#239F40"/><rect x="538.0" y="1009.3" width="124.0" height="41.3" fill="#FFFFFF"/><rect x="538.0" y="1050.7" width="124.0" height="41.3" fill="#DA0000"/></g>
+<circle cx="600.0" cy="1030.0" r="62.0" fill="none" stroke="#C9A227" stroke-width="4"/>
+<g clip-path="url(#c347_947)"><rect x="285.3" y="885.9" width="124.0" height="41.3" fill="#CE1126"/><rect x="285.3" y="927.2" width="124.0" height="41.3" fill="#FFFFFF"/><rect x="285.3" y="968.5" width="124.0" height="41.3" fill="#000000"/></g>
+<circle cx="347.3" cy="947.9" r="62.0" fill="none" stroke="#C9A227" stroke-width="4"/>
+<g clip-path="url(#c191_732)"><rect x="129.0" y="670.9" width="124.0" height="124.0" fill="#D52B1E"/><rect x="172.4" y="714.3" width="37.2" height="12.4" fill="#FFFFFF"/><rect x="172.4" y="726.7" width="37.2" height="12.4" fill="#FFFFFF"/><rect x="184.8" y="714.3" width="12.4" height="37.2" fill="#FFFFFF"/></g>
+<circle cx="191.0" cy="732.9" r="62.0" fill="none" stroke="#C9A227" stroke-width="4"/>
+<g clip-path="url(#c191_467)"><rect x="129.0" y="405.1" width="124.0" height="62.0" fill="#E03C31"/><rect x="129.0" y="467.1" width="124.0" height="62.0" fill="#001489"/><polygon points="129.0,405.1 129.0,529.1 222.0,467.1" fill="#000000"/><polygon points="129.0,436.1 129.0,498.1 237.5,467.1" fill="#FFB612"/><rect x="129.0" y="457.2" width="124.0" height="19.8" fill="#007A4D"/></g>
+<circle cx="191.0" cy="467.1" r="62.0" fill="none" stroke="#C9A227" stroke-width="4"/>
+<g clip-path="url(#c347_252)"><rect x="285.3" y="190.1" width="41.3" height="124.0" fill="#006847"/><rect x="326.6" y="190.1" width="41.3" height="124.0" fill="#FFFFFF"/><rect x="367.9" y="190.1" width="41.3" height="124.0" fill="#CE1126"/></g>
+<circle cx="347.3" cy="252.1" r="62.0" fill="none" stroke="#C9A227" stroke-width="4"/>
+<circle cx="600.0" cy="580.0" r="170" fill="#E8EEF7"/>
+<ellipse cx="600.0" cy="580.0" rx="127.5" ry="170" fill="none" stroke="#7C93B5" stroke-width="3"/>
+<ellipse cx="600.0" cy="580.0" rx="85.0" ry="170" fill="none" stroke="#7C93B5" stroke-width="3"/>
+<ellipse cx="600.0" cy="580.0" rx="42.5" ry="170" fill="none" stroke="#7C93B5" stroke-width="3"/>
+<ellipse cx="600.0" cy="580.0" rx="85.0" ry="170" fill="none" stroke="#7C93B5" stroke-width="3"/>
+<ellipse cx="600.0" cy="580.0" rx="127.5" ry="170" fill="none" stroke="#7C93B5" stroke-width="3"/>
+<line x1="430.0" y1="495.0" x2="770.0" y2="495.0" stroke="#7C93B5" stroke-width="3"/>
+<line x1="430.0" y1="580.0" x2="770.0" y2="580.0" stroke="#7C93B5" stroke-width="3"/>
+<line x1="430.0" y1="665.0" x2="770.0" y2="665.0" stroke="#7C93B5" stroke-width="3"/>
+<ellipse cx="600.0" cy="580.0" rx="215" ry="78" fill="none" stroke="#1FA05A" stroke-width="9" transform="rotate(-18 600 580)"/>
+<path d="M 781.3 568.1 q 22 -34 46 -10 q -6 30 -34 32 q -16 -2 -12 -22 z" fill="#1FA05A"/>
+<text x="600" y="825" text-anchor="middle" font-family="DejaVu Sans, sans-serif" font-weight="bold" font-size="62" letter-spacing="10" fill="#FFFFFF">VANGUARD</text>
+</svg>
