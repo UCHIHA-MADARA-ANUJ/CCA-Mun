@@ -37,6 +37,10 @@
 
 **PP12.** *Reaffirming* the commitment of Member States to multilateral diplomacy, nuclear non-proliferation, arms control and the shared vision of a world free from nuclear weapons, [CANADA #1]
 
+**PP13.** *Recalling* the resolutions of the General Conference of the International Atomic Energy Agency, including GC(XXIX)/RES/444 of 1985 and GC(XXXIV)/RES/533 of 1990, affirming that any armed attack on and threat against nuclear facilities devoted to peaceful purposes constitutes a violation of the principles of the Charter of the United Nations, international law and the Statute of the Agency, [IRAN — lineage anchor]
+
+**PP14.** *Recognizing* the role of international scientific cooperation, including through the International Atomic Energy Agency, in strengthening the capacity of States to detect, assess and address radiological risks, and the contribution of such cooperation to transparency and confidence among States, [IRAN — science lane]
+
 ---
 
 ## OPERATIVE PARAGRAPHS
@@ -69,7 +73,9 @@
 
 **OP12.** *Welcomes* the international meeting on victim assistance and environmental remediation, *calls upon* Member States to participate at high level and to share relevant national experience, *requests* the Secretary-General to transmit its outcomes to the General Assembly, and *invites* voluntary contributions toward future victim-assistance and remediation cooperation; **[MEXICO + JAPAN — September custody]**
 
-**OP13.** *Reaffirms* that attacks or threats of attack against safeguarded nuclear facilities risk the release of radiological material and constitute a matter of grave ecological and humanitarian concern, *calls upon* all States to respect applicable international law in this regard, and *invites* the IAEA Director General to continue reporting on environmental-monitoring implications at safeguarded sites affected by military activities; **[IRAN — caged lane]**
+**OP13.** *Reaffirms* that any armed attack on and threat against nuclear facilities devoted to peaceful purposes constitutes a violation of the principles of the Charter of the United Nations, international law and the Statute of the International Atomic Energy Agency, that armed attacks on nuclear facilities could result in radioactive releases with grave consequences within and beyond the boundaries of the State which has been attacked, *calls upon* all States to refrain from such attacks and threats of attack and to respect applicable international law in this regard, and *invites* the IAEA Director General to continue providing factual reporting on the nuclear safety, security and safeguards situation at safeguarded sites affected by military activities, including any radiological or environmental implications; **[IRAN — caged lane]**
+
+**OP13A.** *Calls upon* all States to cooperate fully with the International Atomic Energy Agency in the exercise of its verification functions, *encourages* the restoration and strengthening of Agency access to nuclear material and facilities subject to safeguards, in accordance with the respective safeguards agreements of the States concerned, and *invites* the Agency to continue reporting to its Board of Governors and General Conference on the implementation of safeguards, including at sites affected by military activities; **[IRAN — access/verification lane]**
 
 **OP14.** *Calls for* strengthened international technical cooperation for the long-term assessment and remediation of contaminated land, water and ecosystems, with particular attention to communities affected by transboundary nuclear contamination; **[EGYPT #2 — international fund + SWITZERLAND #2 — merged]**
 
@@ -81,6 +87,6 @@
 
 - **Fight-to-death lines (no concession):** PP8 (S2 scope shield), OP2's IAEA benchmark phrase (S1 shield), PP7 formula, OP12 meeting reference.
 - **Concession bank (cheap, pre-approved):** add "within existing mandates and resources" to OP4; add "on a voluntary basis" to OP7; soften OP13 "grave" → "serious" only if P3 makes it a price.
-- **Paragraph-vote exposure:** P3 will likely force separate votes on PP7 (formula), OP13 (Iran lane), OP9 (responsibility). All survive on NAM+bloc numbers; do not pre-surrender.
-- **Mexico's lane** (victims/remediation full text) + **Iran's lane** (facility protection full text) pending — slot into OP12/OP13 when they arrive.
+- **Paragraph-vote exposure:** P3 will likely force separate votes on PP7 (formula), PP13+OP13 (Iran lane), OP9 (responsibility). All survive on NAM+bloc numbers; do not pre-surrender. OP13A (IAEA cooperation) is consensus-grade — near-zero exposure, treat as safe.
+- **Iran's lane: DRAFTED by Japan (delegate inactive).** Full packet in `drafts/IRAN_clauses.md` — PP13/PP14/OP13/OP13A. OP13 rebuilt on verbatim IAEA GC 444/533 language (Charter-violation + transboundary-consequences lines), OP13A = IAEA access/verification (rehab lane, neutral). Swap-in on Iran sign-off only if they request changes; otherwise locked as-is. Mexico's lane (victims/remediation full text) was absorbed into OP9/OP12 via reframe — nothing pending.
 - **Sponsor list update:** South Africa added; Kazakhstan removed (no longer in bloc).

@@ -203,3 +203,11 @@ LEGAL ANCHORS:
 - v1: (1) IRDERF — "mandates legally binding liability, assessed megatonnage, victim states zero burden"; (2) UNCTEV — "unannounced inspections without host approval, automatic sanctions referral"; (3) NWFZ mandatory expansion + withdrawal of P5 reservations.
 - FLAG: all three = liability + sovereignty invasion + off-scope. Reframed: OP9 merged fund (voluntary, "States in a position to do so"); OP9A voluntary IAEA border monitoring with consent; OP9B zones recalled (preamble-flavored, non-binding).
 - PATTERN LOCKED: every member sending liability/sovereignty/enforcement language (Barbados v1, SA v1, Mexico v1) gets same redirect — voluntary, consent-based, existing mechanisms.
+
+## 2026-08-20 — IRAN CLAUSES DRAFTED BY JAPAN (delegate inactive)
+- Iran never sent clauses; user instructed Japan to write them ("make his ourselves").
+- Full packet: `drafts/IRAN_clauses.md` — PP13 (IAEA GC 444/533 lineage anchor), PP14 (science-cooperation hook), OP13 (facility protection, max-strength), OP13A (IAEA access/verification, rehab lane written neutral).
+- OP13 rebuilt on VERBATIM IAEA language (verified via IAEA DG statement on Iran, June 2025, iaea.org): "any armed attack on and threat against nuclear facilities devoted to peaceful purposes constitutes a violation of the principles of the UN Charter, international law and the Statute of the Agency" + "grave consequences within and beyond the boundaries of the State which has been attacked" (GC 533 quote). Point-of-order-proof.
+- OP13A: "restoration and strengthening of Agency access" — factual (ZNPP restricted since 2022; Iran no access since June 2025, DG reports on record), pro-verification = S1 shield synergy.
+- DR1.1 now: 14 PP + 18 OPs (OP13/OP13A added). Annex updated: Iran lane no longer pending; OP13A = consensus-grade low exposure.
+- Cage protocol unchanged: Iran = clause contributor only, never a face. Group-chat handoff DM ready in packet file for when they surface.

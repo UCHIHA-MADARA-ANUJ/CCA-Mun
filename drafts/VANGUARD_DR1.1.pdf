@@ -1,72 +1,238 @@
 %PDF-1.4
 1 0 obj
-<< /Type /Catalog /Pages 5 0 R >>
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [4 0 R 5 0 R 6 0 R 7 0 R] /Count 4 >>
 endobj
 3 0 obj
-<< /Type /Page /Parent 5 0 R /MediaBox [0 0 612.000000 792.000000] /Contents 3 0 R /Resources << /Font << /F1 5 0 R /F2 6 0 R >> >> >>
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
 endobj
 4 0 obj
-<< /Type /Pages /Kids [3 0 R] /Count 1 >>
-endobj
-3 0 obj
-<< /Length 5095 >>
-stream
-BT /F2 28 Tf 60.000000 750.000000 Td (VANGUARD) Tj ET
-BT /F1 11 Tf 60.000000 730.000000 Td (Voluntary Alliance for Nuclear Oversight, Global Accountability, and Remediation Directives) Tj ET
-BT /F2 16 Tf 60.000000 715.000000 Td (Draft Resolution 1.1) Tj ET
-BT /F2 12 Tf 60.000000 700.000000 Td (Global Framework for Nuclear-Ecological Monitoring, Response and Remediation) Tj ET
-BT /F1 9 Tf 60.000000 685.000000 Td (United Nations General Assembly - Assessing the Ecological Threats of Nuclear Proliferation on Global Boundaries) Tj ET
-BT /F1 9 Tf 60.000000 670.000000 Td (Sponsors: Japan, India, Mexico, Canada, Iran, Switzerland, Egypt, Philippines, Barbados, South Africa) Tj ET
-BT /F1 9 Tf 60.000000 660.000000 Td (--------------------------------------------------------------------------------) Tj ET
-BT /F2 12 Tf 60.000000 645.000000 Td (PREAMBULAR PARAGRAPHS) Tj ET
-BT /F1 9 Tf 60.000000 630.000000 Td (Guided by the purposes and principles of the Charter of the United Nations, including the promotion of interna) Tj ET
-BT /F1 9 Tf 60.000000 616.000000 Td (Recalling that ecological degradation respects no border, and that radiological contamination, once released, ) Tj ET
-BT /F1 9 Tf 60.000000 602.000000 Td (Recalling its resolutions 78/240 of 2023, 79/60 of 2024 and 80/56 of 2025 on addressing the legacy of nuclear ) Tj ET
-BT /F1 9 Tf 60.000000 588.000000 Td (Noting the thirtieth anniversary of the opening for signature of the Comprehensive Nuclear-Test-Ban Treaty on ) Tj ET
-BT /F1 9 Tf 60.000000 574.000000 Td (Reaffirming the central role of the International Atomic Energy Agency in establishing nuclear safety and radi) Tj ET
-BT /F1 9 Tf 60.000000 560.000000 Td (Taking note with appreciation of the establishment of the independent UN Scientific Panel on Effects of Nuclea) Tj ET
-BT /F1 9 Tf 60.000000 546.000000 Td (Recalling existing international legal instruments relevant to nuclear weapons, including the Treaty on the No) Tj ET
-BT /F1 9 Tf 60.000000 532.000000 Td (Emphasizing that the present resolution addresses ecological threats arising from the development, testing, pr) Tj ET
-BT /F1 9 Tf 60.000000 518.000000 Td (Mindful of the humanitarian legacy of Hiroshima and Nagasaki on their 81st anniversaries, of Semipalatinsk, Mo) Tj ET
-BT /F1 9 Tf 60.000000 504.000000 Td (Recognizing the particular exposure of coastal, archipelagic, small-island and landlocked legacy-affected deve) Tj ET
-BT /F1 9 Tf 60.000000 490.000000 Td (Recognizing also the value of drawing upon the world's only decade-long, large-scale post-accident environment) Tj ET
-BT /F1 9 Tf 60.000000 476.000000 Td (Reaffirming the commitment of Member States to multilateral diplomacy, nuclear non-proliferation, arms control) Tj ET
-BT /F2 12 Tf 60.000000 462.000000 Td (OPERATIVE PARAGRAPHS) Tj ET
-BT /F1 9 Tf 60.000000 442.000000 Td (1. Decides to establish a Global Framework for Nuclear-Ecological Monitoring, Response and Remediation, oper) Tj ET
-BT /F1 9 Tf 60.000000 428.000000 Td (2. Calls upon Member States to work toward harmonized standards for environmental radiation-monitoring data ) Tj ET
-BT /F1 9 Tf 60.000000 414.000000 Td (3. Encourages Member States, in cooperation with the IAEA and relevant international and regional organizati) Tj ET
-BT /F1 9 Tf 60.000000 400.000000 Td (4. Encourages Member States to designate national emergency contact points and to strengthen rapid-notificat) Tj ET
-BT /F1 9 Tf 60.000000 386.000000 Td (5. Calls upon the international community to provide technical assistance, capacity-building and appropriate) Tj ET
-BT /F1 9 Tf 60.000000 372.000000 Td (6. Encourages Member States to conduct environmental impact assessments for nuclear activities with potentia) Tj ET
-BT /F1 9 Tf 60.000000 358.000000 Td (7. Calls upon Member States to establish comprehensive radioactive waste management strategies, prioritizing) Tj ET
-BT /F1 9 Tf 60.000000 344.000000 Td (8. Encourages the establishment, through relevant UN bodies and the IAEA, of a voluntary mechanism for the i) Tj ET
-BT /F1 9 Tf 60.000000 330.000000 Td (9. Calls upon States in a position to do so, including those whose nuclear activities have contributed to tr) Tj ET
-BT /F1 9 Tf 60.000000 316.000000 Td (10. Encourages Member States to strengthen transboundary notification and coordinated emergency-response arr) Tj ET
-BT /F1 9 Tf 60.000000 302.000000 Td (11. Encourages Member States and international organizations to develop voluntary cooperative programmes for) Tj ET
-BT /F1 9 Tf 60.000000 288.000000 Td (12. Welcomes the international meeting on victim assistance and environmental remediation, calls upon Member) Tj ET
-BT /F1 9 Tf 60.000000 274.000000 Td (13. Reaffirms that attacks or threats of attack against safeguarded nuclear facilities risk the release of r) Tj ET
-BT /F1 9 Tf 60.000000 260.000000 Td (14. Calls for strengthened international technical cooperation for the long-term assessment and remediation ) Tj ET
-BT /F1 9 Tf 60.000000 246.000000 Td (15. Decides to remain seized of the matter through a standing agenda review at its eighty-third session, wit) Tj ET
-
-endstream
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
 endobj
 5 0 obj
-<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 9 0 R >>
 endobj
 6 0 obj
-<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 11 0 R >>
+endobj
+8 0 obj
+<< /Length 4304 >>
+stream
+BT /F1 10 Tf 12.5 TL 60 800 Td
+T* (DRAFT RESOLUTION 1.1 - VANGUARD) Tj
+T* ("Global Framework for Nuclear-Ecological Monitoring, Response and Remediation") Tj
+T* (Committee: UNGA * Agenda: Assessing the ecological threats of nuclear proliferation on global) Tj
+T* (boundaries) Tj
+T* (Status: BLOC DRAFT - custody tags [in brackets] are INTERNAL ONLY; strip before circulation) Tj
+T* (Doctrine: UNGA-safe verbs only. Nothing commands sovereign states; nothing touches disarmament) Tj
+T* (doctrine; nothing names a member state adversely. Every clause names) Tj
+T* (actor/authority/funding/monitoring where applicable.) Tj
+T* (Sponsors \(confirmed 10\): Japan, India, Mexico, Canada, Iran, Switzerland, Egypt, Philippines,) Tj
+T* (Barbados, South Africa) Tj
+T* (Seats held \(pending\): Germany \(answers 18 Aug\), Republic of Korea, Singapore, New Zealand) Tj
+T* (\(flex\) * Day-of contributor: Norway) Tj
+T* (PREAMBULAR PARAGRAPHS) Tj
+T* (PP1. *Guided by* the purposes and principles of the Charter of the United Nations, including) Tj
+T* (the promotion of international cooperation in solving international problems of an economic,) Tj
+T* (social and humanitarian character,) Tj
+T* (PP2. *Recalling* that ecological degradation respects no border, and that radiological) Tj
+T* (contamination, once released, is a shared inheritance of all States,) Tj
+T* (PP3. *Recalling* its resolutions 78/240 of 2023, 79/60 of 2024 and 80/56 of 2025 on addressing) Tj
+T* (the legacy of nuclear weapons, and the international meeting on victim assistance and) Tj
+T* (environmental remediation convened pursuant thereto, [MX anchor]) Tj
+T* (PP4. *Noting* the thirtieth anniversary of the opening for signature of the Comprehensive) Tj
+T* (Nuclear-Test-Ban Treaty on 24 September 2026 and the contribution of the International) Tj
+T* (Monitoring System to environmental and radiological detection,) Tj
+T* (PP5. *Reaffirming* the central role of the International Atomic Energy Agency in establishing) Tj
+T* (nuclear safety and radiation-protection standards, and *recalling* the Convention on Early) Tj
+T* (Notification of a Nuclear Accident \(1986\) and the Convention on Assistance in the Case of a) Tj
+T* (Nuclear Accident or Radiological Emergency \(1986\),) Tj
+T* (PP6. *Taking note with appreciation* of the establishment of the independent UN Scientific) Tj
+T* (Panel on Effects of Nuclear War and anticipating its 2027 report,) Tj
+T* (PP7. *Recalling* existing international legal instruments relevant to nuclear weapons -) Tj
+T* (including the Treaty on the Non-Proliferation of Nuclear Weapons and the Treaty on the) Tj
+T* (Prohibition of Nuclear Weapons - for their respective States parties, without prejudice to the) Tj
+T* (sovereign positions of any State, [the formula]) Tj
+T* (PP8. *Emphasizing* that the present resolution addresses ecological threats arising from the) Tj
+T* (development, testing, production and proliferation of nuclear weapons and their associated) Tj
+T* (legacy sites, while *noting* that civil operational releases are governed by existing IAEA) Tj
+T* (safety standards and verification mechanisms, [S2 scope shield]) Tj
+T* (PP9. *Mindful* of the humanitarian legacy of Hiroshima and Nagasaki on their 81st) Tj
+T* (anniversaries, of Semipalatinsk, Moruroa and all testing grounds, and of affected communities) Tj
+T* (whose testimony anchors this work, [MX/SA]) Tj
+T* (PP10. *Recognizing* the particular exposure of coastal, archipelagic, small-island and) Tj
+T* (landlocked legacy-affected developing States, and their need for capacity, data access and) Tj
+T* (technical cooperation, [PH/IN/PIF]) Tj
+T* (PP11. *Recognizing also* the value of drawing upon the world's only decade-long, large-scale) Tj
+T* (post-accident environmental remediation experience, which demonstrates that scientifically) Tj
+T* (guided recovery is possible, [S3 Fukushima-flip]) Tj
+T* (PP12. *Reaffirming* the commitment of Member States to multilateral diplomacy, nuclear) Tj
+T* (non-proliferation, arms control and the shared vision of a world free from nuclear weapons,) Tj
+T* ([CANADA #1]) Tj
+T* (PP13. *Recalling* the resolutions of the General Conference of the International Atomic Energy) Tj
+T* (Agency, including GC\(XXIX\)/RES/444 of 1985 and GC\(XXXIV\)/RES/533 of 1990, affirming that any) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Length 4778 >>
+stream
+BT /F1 10 Tf 12.5 TL 60 800 Td
+T* (armed attack on and threat against nuclear facilities devoted to peaceful purposes constitutes) Tj
+T* (a violation of the principles of the Charter of the United Nations, international law and the) Tj
+T* (Statute of the Agency, [IRAN - lineage anchor]) Tj
+T* (PP14. *Recognizing* the role of international scientific cooperation, including through the) Tj
+T* (International Atomic Energy Agency, in strengthening the capacity of States to detect, assess) Tj
+T* (and address radiological risks, and the contribution of such cooperation to transparency and) Tj
+T* (confidence among States, [IRAN - science lane]) Tj
+T* (OPERATIVE PARAGRAPHS) Tj
+T* (OP1. *Decides to establish* a Global Framework for Nuclear-Ecological Monitoring, Response and) Tj
+T* (Remediation \("the Framework"\), operating through existing institutions - the IAEA, UNEP, the) Tj
+T* (CTBTO Preparatory Commission and relevant regional bodies - without establishing new organs,) Tj
+T* (and *requests* the Secretary-General to report on its activities to the General Assembly at) Tj
+T* (its eighty-second session; [JAPAN - UMBRELLA]) Tj
+T* (OP2. *Calls upon* Member States to work toward harmonized standards for environmental) Tj
+T* (radiation-monitoring data and *invites* the IAEA to serve as the technical reference point for) Tj
+T* (data quality and comparability, with monitoring data arising from IAEA-supported processes as) Tj
+T* (the benchmark for international assessment; [SWITZERLAND - S1 ALPS shield]) Tj
+T* (OP3. *Encourages* Member States, in cooperation with the IAEA and relevant international and) Tj
+T* (regional organizations, to establish and strengthen regional environmental-radiation) Tj
+T* (monitoring networks for the continuous assessment of radiation levels in transboundary air,) Tj
+T* (water, soil, marine and agricultural systems, including mechanisms for timely data-sharing and) Tj
+T* (early notification of affected States, with data-sharing protocols that respect national) Tj
+T* (sovereignty and applicable international obligations; [INDIA #1 + PHILIPPINES #1 + SWITZERLAND) Tj
+T* (#1 + BARBADOS #1 - merged]) Tj
+T* (OP4. *Encourages* Member States to designate national emergency contact points and to) Tj
+T* (strengthen rapid-notification mechanisms for nuclear or radiological incidents with potential) Tj
+T* (transboundary ecological consequences, building upon the Convention on Early Notification of a) Tj
+T* (Nuclear Accident \(1986\); [INDIA #2 + PHILIPPINES #1 + EGYPT #3 - merged]) Tj
+T* (OP5. *Calls upon* the international community, particularly technologically and financially) Tj
+T* (capable Member States and relevant UN agencies, to provide technical assistance,) Tj
+T* (capacity-building and appropriate technology transfer to developing and vulnerable coastal) Tj
+T* (States for radiation monitoring, environmental assessment, emergency preparedness and) Tj
+T* (remediation of contaminated ecosystems, including through voluntary South-South and triangular) Tj
+T* (cooperation programmes for the exchange of expertise, monitoring technologies, assessment) Tj
+T* (methodologies and emergency-response training; [INDIA #3 + PHILIPPINES #2 - merged]) Tj
+T* (OP6. *Encourages* Member States to conduct environmental impact assessments for nuclear) Tj
+T* (activities with potential transboundary consequences, and to consult potentially affected) Tj
+T* (neighbouring States before undertaking activities that may pose significant ecological risks,) Tj
+T* (in accordance with national circumstances and applicable international obligations;) Tj
+T* ([SWITZERLAND #3 - the EIA asset]) Tj
+T* (OP7. *Calls upon* Member States to establish comprehensive radioactive waste management) Tj
+T* (strategies, prioritizing deep geological disposal, consent-based community siting frameworks) Tj
+T* (and owner-funded financing models, and *encourages* the exchange of best practices in this) Tj
+T* (regard; [CANADA #3 - waste lane]) Tj
+T* (OP8. *Encourages* the establishment, through relevant UN bodies and the IAEA, of a voluntary) Tj
+T* (mechanism for the independent assessment and public reporting of significant ecological risks) Tj
+T* (arising from nuclear activities, including testing and proliferation-related contamination,) Tj
+T* (while protecting legitimate national-security information; [SOUTH AFRICA #1 reframed - UNEAVM]) Tj
+T* (OP9. *Encourages* the establishment, through the UN Environment Programme and the IAEA, of a) Tj
+T* (voluntary International Radiological Damage and Ecological Remediation Fund to support) Tj
+T* (affected States in ecological restoration, water decontamination and long-term environmental) Tj
+T* (monitoring, with contributions from States in a position to do so, including those whose) Tj
+ET
+endstream
+endobj
+10 0 obj
+<< /Length 4610 >>
+stream
+BT /F1 10 Tf 12.5 TL 60 800 Td
+T* (nuclear activities have contributed to transboundary contamination; [MEXICO #1 reframed +) Tj
+T* (SOUTH AFRICA #2 reframed - merged fund]) Tj
+T* (OP9A. *Encourages* voluntary cooperation with the IAEA for environmental monitoring along) Tj
+T* (borders and at legacy nuclear test sites, with the consent of the States concerned, and) Tj
+T* (*requests* the IAEA to report on such cooperation to the General Assembly; [MEXICO #2 reframed) Tj
+T* (- verification]) Tj
+T* (OP9B. *Recalls* the contribution of nuclear-weapon-free zones, including the Treaty of) Tj
+T* (Tlatelolco, to regional security and environmental protection, and *encourages* States parties) Tj
+T* (to such zones to continue cooperation in this regard; [MEXICO #3 reframed - zones,) Tj
+T* (preamble-flavored operative]) Tj
+T* (OP10. *Encourages* Member States to strengthen transboundary notification and coordinated) Tj
+T* (emergency-response arrangements for significant nuclear incidents or detected radioactive) Tj
+T* (releases, building upon the 1986 Early Notification and Assistance Conventions, with the) Tj
+T* (consent of affected States; [SOUTH AFRICA #3 reframed - TNEEP]) Tj
+T* (OP11. *Encourages* Member States, relevant UN agencies and international organizations to) Tj
+T* (develop voluntary cooperative programmes for long-term assessment and restoration of) Tj
+T* (ecosystems affected by radioactive contamination, including joint environmental assessments,) Tj
+T* (biodiversity conservation, agricultural and marine ecosystem monitoring, and the strengthening) Tj
+T* (of national preparedness and response capacities in affected and at-risk States, with) Tj
+T* (particular attention to affected Indigenous peoples, downwind communities, vulnerable) Tj
+T* (developing States and Small Island Developing States; [BARBADOS #2 + #3 - merged]) Tj
+T* (OP12. *Welcomes* the international meeting on victim assistance and environmental remediation,) Tj
+T* (*calls upon* Member States to participate at high level and to share relevant national) Tj
+T* (experience, *requests* the Secretary-General to transmit its outcomes to the General Assembly,) Tj
+T* (and *invites* voluntary contributions toward future victim-assistance and remediation) Tj
+T* (cooperation; [MEXICO + JAPAN - September custody]) Tj
+T* (OP13. *Reaffirms* that any armed attack on and threat against nuclear facilities devoted to) Tj
+T* (peaceful purposes constitutes a violation of the principles of the Charter of the United) Tj
+T* (Nations, international law and the Statute of the International Atomic Energy Agency, that) Tj
+T* (armed attacks on nuclear facilities could result in radioactive releases with grave) Tj
+T* (consequences within and beyond the boundaries of the State which has been attacked, *calls) Tj
+T* (upon* all States to refrain from such attacks and threats of attack and to respect applicable) Tj
+T* (international law in this regard, and *invites* the IAEA Director General to continue) Tj
+T* (providing factual reporting on the nuclear safety, security and safeguards situation at) Tj
+T* (safeguarded sites affected by military activities, including any radiological or environmental) Tj
+T* (implications; [IRAN - caged lane]) Tj
+T* (OP13A. *Calls upon* all States to cooperate fully with the International Atomic Energy Agency) Tj
+T* (in the exercise of its verification functions, *encourages* the restoration and strengthening) Tj
+T* (of Agency access to nuclear material and facilities subject to safeguards, in accordance with) Tj
+T* (the respective safeguards agreements of the States concerned, and *invites* the Agency to) Tj
+T* (continue reporting to its Board of Governors and General Conference on the implementation of) Tj
+T* (safeguards, including at sites affected by military activities; [IRAN - access/verification) Tj
+T* (lane]) Tj
+T* (OP14. *Calls for* strengthened international technical cooperation for the long-term) Tj
+T* (assessment and remediation of contaminated land, water and ecosystems, with particular) Tj
+T* (attention to communities affected by transboundary nuclear contamination; [EGYPT #2 -) Tj
+T* (international fund + SWITZERLAND #2 - merged]) Tj
+T* (OP15. *Decides* to remain seized of the matter through a standing agenda review at its) Tj
+T* (eighty-third session, with a voluntary implementation report by the Secretary-General drawing) Tj
+T* (on Framework partners. [follow-through]) Tj
+T* (ANNEX A - INTERNAL NOTES \(strip before circulation\)) Tj
+T* (- Fight-to-death lines \(no concession\): PP8 \(S2 scope shield\), OP2's IAEA benchmark phrase \(S1) Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Length 1200 >>
+stream
+BT /F1 10 Tf 12.5 TL 60 800 Td
+T* (shield\), PP7 formula, OP12 meeting reference.) Tj
+T* (- Concession bank \(cheap, pre-approved\): add "within existing mandates and resources" to OP4;) Tj
+T* (add "on a voluntary basis" to OP7; soften OP13 "grave" -> "serious" only if P3 makes it a) Tj
+T* (price.) Tj
+T* (- Paragraph-vote exposure: P3 will likely force separate votes on PP7 \(formula\), PP13+OP13) Tj
+T* (\(Iran lane\), OP9 \(responsibility\). All survive on NAM+bloc numbers; do not pre-surrender.) Tj
+T* (OP13A \(IAEA cooperation\) is consensus-grade - near-zero exposure, treat as safe.) Tj
+T* (- Iran's lane: DRAFTED by Japan \(delegate inactive\). Full packet in drafts/IRAN_clauses.md -) Tj
+T* (PP13/PP14/OP13/OP13A. OP13 rebuilt on verbatim IAEA GC 444/533 language \(Charter-violation +) Tj
+T* (transboundary-consequences lines\), OP13A = IAEA access/verification \(rehab lane, neutral\).) Tj
+T* (Swap-in on Iran sign-off only if they request changes; otherwise locked as-is. Mexico's lane) Tj
+T* (\(victims/remediation full text\) was absorbed into OP9/OP12 via reframe - nothing pending.) Tj
+T* (- Sponsor list update: South Africa added; Kazakhstan removed \(no longer in bloc\).) Tj
+ET
+endstream
 endobj
 xref
-0 7
+0 12
 0000000000 65535 f 
 0000000009 00000 n 
 0000000058 00000 n 
-0000000208 00000 n 
-0000000265 00000 n 
-0000005412 00000 n 
-0000005482 00000 n 
+0000000133 00000 n 
+0000000230 00000 n 
+0000000356 00000 n 
+0000000482 00000 n 
+0000000609 00000 n 
+0000000736 00000 n 
+0000005092 00000 n 
+0000009922 00000 n 
+0000014585 00000 n 
 trailer
-<< /Size 7 /Root 1 0 R >>
+<< /Size 12 /Root 1 0 R >>
 startxref
-5557
+15838
 %%EOF
