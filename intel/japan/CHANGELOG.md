@@ -129,7 +129,7 @@
 - Key live developments captured: New START expired 5 Feb 2026; France increased arsenal and ended numerical disclosure on 2 Mar 2026; UK retains 260 ceiling but no operational counts; China’s 2025 white paper prioritizes intention/doctrine transparency.
 
 ## 2026-08-21 — MOD 2 final speech
-- Created canonical `mod/mod2.md`: 164-word, 60-second combined opacity/ecology indictment.
+- Created canonical `mod/mod2.md`: 161-word, 60-second combined opacity/ecology indictment.
 - Direct targets are receipt-locked: Russia’s New START suspension and ended exchanges; France’s arsenal increase and numerical-disclosure reversal; the UK’s ceiling without operational categories; China’s absent official warhead count.
 - Connected hidden arsenals to fissile production, waste, contaminated soil/groundwater and the GAO half-trillion-dollar US cleanup record.
 - Added a national-security carve-out, standardized annual aggregate-reporting demand and pre-emptive defence of Japan’s 44.4-tonne separated civilian-plutonium declaration.

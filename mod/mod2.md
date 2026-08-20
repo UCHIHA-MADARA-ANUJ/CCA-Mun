@@ -3,7 +3,8 @@
 ## Delegation of Japan · CCA MUN ’26 · UNGA
 
 **Speaking time:** 60 seconds  
-**Speech length:** 164 words — approximately 58–60 seconds at 164–170 words per minute  
+**Speech length:** 161 words — approximately 59–60 seconds at competitive MOD pace
+
 **Status:** Final, fact-audited version · 21 August 2026
 
 ---
@@ -12,15 +13,15 @@
 
 Honourable Chair,
 
-Eight nuclear-armed States sit here. No official world total exists. SIPRI estimates 12,187 nuclear weapons. Russia suspended New START; treaty exchanges ended. France announced an arsenal increase—and stopped reporting numbers. The United Kingdom gives a ceiling, not operational categories. China and others publish no official count.
+Eight nuclear-armed States sit here. No official world total exists. SIPRI estimates twelve thousand one hundred and eighty-seven nuclear weapons. Russia suspended New START; treaty exchanges ended. France announced an arsenal increase—and ended numerical disclosure. The United Kingdom declares a ceiling, but withholds operational categories. China and others publish no official count.
 
 **THESE ARE ARSENALS IN THE DARK.**
 
-Opacity also hides fissile production, radioactive waste, contaminated soil and groundwater, and dismantlement costs. In the United States, official auditors report cleanup at sites contaminated by decades of weapons production and nuclear-energy research will cost over half a trillion dollars.
+Opacity hides fissile production, radioactive waste, contaminated soil and groundwater, and dismantlement costs. United States government auditors report remaining cleanup at sites contaminated by weapons production and nuclear-energy research will cost over half a trillion dollars.
 
-Japan requests no coordinates, designs, or readiness levels. We demand standardized annual reporting: total stockpiles, deployment categories, reserves, retired warheads, dismantlements—and environmental liabilities.
+Japan requests no coordinates, designs, or readiness levels. We demand annual reports: total stockpiles, deployment categories, reserves, retired warheads, dismantlements—and environmental liabilities.
 
-Before anyone questions Japan: yes, Japan reports 44.4 tonnes of separated civilian plutonium—including holdings abroad—and accepts comprehensive IAEA safeguards. That is accountability.
+Before anyone questions Japan: yes—Japan publicly reports forty-four point four tonnes of separated civilian plutonium through annual declarations. That is accountability.
 
 **NATIONAL SECURITY MAY PROTECT OPERATIONS. IT CANNOT EXCUSE SILENCE.**
 
@@ -54,11 +55,7 @@ I yield.
 - 45–54 seconds: Japan inoculation
 - 54–60 seconds: closing strike
 
-If the dais is visibly strict at 55 seconds, cut only this clause:
-
-> “including holdings abroad”
-
-Do not cut the final two lines.
+The speech already carries a small timing margin. Do not add any extemporaneous sentence, and do not cut the final two lines.
 
 ---
 
@@ -67,7 +64,7 @@ Do not cut the final two lines.
 1. **It targets records, not motives.** Russia, France, the UK and China are attacked only with verifiable disclosure facts.
 2. **It stays on the ecological agenda.** The speech converts stockpile opacity into hidden waste, contamination, dismantlement and cleanup liabilities.
 3. **It defeats the national-security defence before it is raised.** Japan explicitly excludes coordinates, designs and readiness levels.
-4. **It inoculates Japan’s largest vulnerability.** Japan states its plutonium figure first and distinguishes safeguarded civilian material from weapons stockpiles.
+4. **It inoculates Japan’s largest vulnerability.** Japan states its annually declared plutonium figure first and distinguishes civilian material from weapons stockpiles.
 5. **It demands a realistic UNGA outcome.** Standardized aggregate reporting is politically defensible; compulsory operational disclosure is not.
 6. **It ends with one reusable doctrine:** “You cannot remediate what you refuse to report.”
 
