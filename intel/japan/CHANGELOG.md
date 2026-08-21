@@ -198,3 +198,10 @@
 - Intensified the indictment through the witness–laboratory–judge monopoly, impossible proof burden, independent-review survival test and “engineered uncertainty” verdict while preserving the Lucky Dragon, 456-test Kazakhstan and UNGA Resolution 79/60 evidence base.
 - Publicly unveiled Japan’s Three-Key Standard—source record package, affected-State counter-assessment and protected independent review—while preserving consent, weapon-design secrecy and liability neutrality.
 - Added four full-volume peaks, revised rapid timing map, fact audit, engineered-uncertainty Point-of-Order defence, pronunciation and six primary/high-quality sources; no United States or France accusation appears in the speech.
+
+## 2026-08-21 — MOD 3 solution-framework peak research
+- Created `research/MOD3_SOLUTION_FRAMEWORK_DEEP_DIVE.md` for a 60-second solution MOD on coordinated monitoring, cross-border notification and measurable remediation of weapons-related radiological threats.
+- Audited existing CTBTO IMS/IDC, IAEA IEC–USIE–IRMIS–RANET, ENVIRONET, GSG-15, MODARIA, UNSCEAR, UN Scientific Panel, UNGA 79/60–80/56 and TPNW Articles 6/7 machinery, with mandate limits and anti-duplication analysis.
+- Built a full MONITOR–RESPOND–REMEDIATE system: 12-field data protocol, notification threshold, notification-before-attribution rule, joint review cell, three-track assistance window, priority criteria, community participation and measurable outcomes.
+- Added a 35-country solution stance map, eleven distinct bloc solution lanes, institutional role map, aggressive solution points, rebuttals, POIs, safe/unsafe claims, 60-second architecture and eighteen sources.
+- Preserved the instruction not to draft the MOD 3 speech; the file is explicitly research-only.
