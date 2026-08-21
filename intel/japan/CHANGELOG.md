@@ -188,7 +188,7 @@
 - Marked the earlier stockpile-disclosure stance map as superseded topic research while retaining its evidence bank.
 
 ## 2026-08-21 — MOD 2 treaty-loopholes speech
-- Replaced the superseded stockpile-disclosure speech in canonical `mod/mod2.md` with a 177-word, 75-second intervention on coverage, verification and implementation gaps across nuclear treaties.
-- Built the attack around NPT Articles III/IV, Joint Convention Article 3(3), CTBT non-entry into force/on-site-inspection gap and TPNW source-State participation gap.
-- Added a voluntary connective-layer solution, two controlled volume peaks, full timing map, line-by-line fact audit, Point-of-Order firewall, pronunciation and six primary/high-quality sources.
+- Replaced the superseded stockpile-disclosure speech in canonical `mod/mod2.md` with a 176-word, full-force 75-second intervention on coverage, verification and implementation gaps across nuclear treaties.
+- Rebuilt the opening around Japan’s verified Lucky Dragon exposure, then indicted the NPT Article III/IV gap, Joint Convention Article 3(3), CTBT non-entry into force/on-site-inspection gap and TPNW source-State participation gap.
+- Added a protected connective-layer solution, four deliberate full-volume detonations, a full-force timing map, line-by-line fact audit, Point-of-Order firewall, pronunciation and seven primary/high-quality sources.
 - Kept the United States and France unnamed, protected legitimate operational information and excluded routine safeguarded civilian activity from the military-waste claim.

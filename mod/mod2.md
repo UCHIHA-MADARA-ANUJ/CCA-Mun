@@ -6,49 +6,49 @@
 
 **Speaking time:** 75 seconds
 
-**Speech length:** 177 words — designed for approximately 69–71 seconds of speech plus deliberate pauses
+**Speech length:** 176 words — calibrated for a full-force 75-second delivery
 
-**Status:** Final, fact-audited version · 21 August 2026
+**Status:** Final maximum-aggression, fact-audited version · 21 August 2026
 
 ---
 
 ## SPEECH
 
-[COLD]
+[HARD — immediate projection]
 
-The most dangerous loophole in nuclear law is not hidden inside a treaty. It is the space between them.
+Japan has already paid for treaty gaps.
 
-[CONTROLLED]
+In 1954, all twenty-three Lucky Dragon crew were irradiated outside the declared danger zone. Fallout crossed it. The law still has holes.
 
-NPT Article III verifies non-diversion—not contamination or weapons-site remediation. Article IV protects peaceful use; it is not an environmental-liability code.
+[LEGAL INDICTMENT]
 
-Article 3 of the Joint Convention normally excludes military spent fuel and waste unless declared—or transferred permanently to civilian management.
+NPT Article III tracks diversion—not contamination. Article IV protects peaceful use—not environmental accountability. Joint Convention Article 3 normally excludes military spent fuel and waste unless declared, or transferred to civilian management.
 
-[FIRST PEAK]
+[FULL FORCE]
 
-**THE WASTE MOST PROTECTED BY SECRECY CAN ESCAPE INTERNATIONAL WASTE REVIEW.**
+**READ THAT AGAIN: THE WASTE CREATED IN THE NAME OF SECURITY CAN REMAIN OUTSIDE INTERNATIONAL WASTE REVIEW.**
 
 [ACCELERATE]
 
-The CTBT has 179 ratifications—but no entry into force and no treaty on-site inspections. The TPNW contains victim-assistance and remediation duties—yet no nuclear-armed State is party.
+The CTBT has 179 ratifications—still not in force, still no treaty on-site inspections. The TPNW contains victim assistance and remediation duties—yet no nuclear-armed State has joined.
 
-One regime watches diversion. Another’s system detects tests. A third assists victims. Between them, military waste can escape international peer review.
+Every regime guards one door while contamination walks through another.
 
-Japan demands a connective layer: voluntary military environmental annexes, protected aggregates, and remediation reporting open to non-TPNW States.
+Japan demands a voluntary connecting layer: protected military environmental annexes and remediation reporting open to every State.
 
-[CLIPPED]
+[FULL FORCE — three strikes]
 
-No designs. No operational locations. No fabricated mandate.
+**KEEP THE DESIGNS. KEEP THE LOCATIONS. BUT YOU DO NOT GET TO KEEP THE DAMAGE SECRET.**
 
-[CLIMB]
+Japan will not accept “outside scope” as another name for “not our responsibility.”
 
-But no State should say: safeguarded, therefore safe; classified, therefore invisible; outside scope, therefore nobody’s responsibility.
+[FINAL VERDICT]
 
-[FINAL PEAK]
+**A LOOPHOLE THAT SHIELDS CONTAMINATION IS NOT SECURITY.**
 
-**COMPLIANCE WITH ONE TREATY IS NOT PERMISSION TO DISAPPEAR BETWEEN THE OTHERS.**
+**IT IS COMPLICITY.**
 
-[QUIET]
+[DROP]
 
 I yield.
 
@@ -58,22 +58,26 @@ I yield.
 
 | Time | Section | Delivery |
 |---:|---|---|
-| 0–8 s | Opening loophole | Cold; pause after “between them” |
-| 8–22 s | NPT Articles III and IV | Clinical legal correction; emphasize article numbers |
-| 22–33 s | Joint Convention exclusion | Slow enough for the dais to write “Article 3” |
-| 33–37 s | First peak | Full volume, then one beat |
-| 37–52 s | CTBT and TPNW gaps | Accelerate, but clearly pronounce the acronyms |
-| 52–62 s | Fragmentation + connective layer | Firm policy voice |
-| 62–66 s | Three security safeguards | Short, separated strikes |
-| 66–72 s | Three false excuses | Climb with each semicolon |
-| 72–75 s | Final verdict and yield | Final peak, then immediate quiet yield |
+| 0–4 s | “Japan has already paid…” | Immediate hard projection; no greeting |
+| 4–14 s | Lucky Dragon | Loud but controlled; never scream casualty evidence |
+| 14–29 s | Articles III, IV and Joint Convention | Prosecutorial pace; punch every article number |
+| 29–36 s | “READ THAT AGAIN…” | First full-force strike; one short beat |
+| 36–49 s | CTBT and TPNW | Fast, forceful and perfectly articulated |
+| 49–58 s | Fragmentation + Japan’s mechanism | Controlled attack; make the solution audible |
+| 58–65 s | “KEEP THE DESIGNS…” | Three full-force strikes, no pause between them |
+| 65–70 s | “outside scope” | Lower slightly; contempt, not noise |
+| 70–75 s | Security / complicity verdict | Maximum final force; dead stop before quiet yield |
 
-**Only two full-volume peaks:**
+### Full-force delivery doctrine
 
-1. **THE WASTE MOST PROTECTED BY SECRECY…**
-2. **COMPLIANCE WITH ONE TREATY…**
+The room should experience the speech as one sustained attack, but **not one flat scream**. Use approximately 85–90% projection throughout and 100% only on:
 
-Everything else should sound like Japan entering legal evidence into the record.
+1. **READ THAT AGAIN…**
+2. **KEEP THE DESIGNS. KEEP THE LOCATIONS…**
+3. **A LOOPHOLE THAT SHIELDS CONTAMINATION…**
+4. **IT IS COMPLICITY.**
+
+If every word is screamed at identical volume, the legal details disappear and the final verdict has nowhere to climb. Full force means sustained command plus four deliberate detonations.
 
 ---
 
@@ -81,6 +85,8 @@ Everything else should sound like Japan entering legal evidence into the record.
 
 | Spoken claim | Status | Safe evidentiary basis |
 |---|---|---|
+| All 23 Lucky Dragon crew were irradiated outside the declared danger zone | Verified | Hiroshima Peace Memorial Museum records that the vessel was well outside the declared US danger area and that the 23-man crew was exposed to highly radioactive fallout |
+| “Japan has already paid” / “law still has holes” | Rhetoric grounded in fact | Japan uses the verified Lucky Dragon exposure as affected-State standing; it does not assign a disputed legal liability in the speech |
 | NPT Article III concerns safeguards/non-diversion | Verified | Article III requires safeguards for NNWS parties to verify fulfilment of non-proliferation obligations and prevent diversion from peaceful uses |
 | Article IV protects peaceful nuclear use | Verified | Article IV recognizes the inalienable right to peaceful nuclear research, production and use in conformity with Articles I and II |
 | NPT safeguards do not constitute an environmental-liability code | Verified legal distinction | Safeguards verify nuclear-material commitments; they do not create a universal weapons-site remediation or compensation regime |
@@ -95,6 +101,14 @@ Everything else should sound like Japan entering legal evidence into the record.
 ---
 
 ## POINT-OF-ORDER FIREWALL
+
+**If challenged on Lucky Dragon or the danger zone:**
+
+> “The Hiroshima Peace Memorial Museum records that Lucky Dragon was well outside the declared United States danger area and that all twenty-three crew members were exposed to highly radioactive fallout.”
+
+**If challenged that Japan is assigning legal responsibility through “paid”:**
+
+> “The line is moral rhetoric grounded in Japan’s verified exposure. The speech does not state a legal compensation finding or name a liable State.”
 
 **If challenged that Article III safeguards do not themselves “verify”:**
 
@@ -146,6 +160,7 @@ Everything else should sound like Japan entering legal evidence into the record.
 4. UNODA, CTBT status: https://disarmament.unoda.org/en/our-work/weapons-mass-destruction/nuclear-weapons/comprehensive-nuclear-test-ban-treaty
 5. UNODA, Treaty on the Prohibition of Nuclear Weapons overview: https://disarmament.unoda.org/wmd/nuclear/tpnw/
 6. Kazakhstan and Kiribati, TPNW Articles 6 and 7 implementation paper: https://documents.unoda.org/wp-content/uploads/2022/06/TPNW.MSP_.2022.WP.5-advanced-unedited.pdf
+7. Hiroshima Peace Memorial Museum, Lucky Dragon special exhibit: https://hpmmuseum.jp/virtual/VirtualMuseum_e/exhibit_e/exh0307_e/exh03078_e.html
 
 ---
 
