@@ -113,3 +113,24 @@
 - Research verdict: GSL guides (Oxford Global, Delhi MUN, WiseMee CIA/echo method) confirm GSL = national position + solutions + invitation; named-bloc parade is not doctrine. v4 cuts bloc-name/member-count from podium; replaces with "open to every flag" instruments line + universal invite close ("Whoever you are — build with us"). Bloc reveal deferred to unmoderated caucus. All verified weapons retained.
 
 2026-08-13 — GSL_FINAL v5 (same-file edit, per user order): TOTAL BLOC SILENCE doctrine (bloc invisible until draft-resolution sponsor list; no name/counts/hints on podium, mod caucus, POI, corridor; "open to every flag"/"build with us"/caucus-reveal lines purged). Aggression pass: four no-vote flags now NAMED aloud (France, Russia, UK, DPRK) + "Now everyone does"; Washington/Moscow named on dead treaty; "Beijing publishes no count"; new knife "has flown missiles over my country" (DPRK sits in committee); opener "Japan did not come here to be polite"; close changed to challenge "Or stand now — and explain why you won't". Full emoji purge from speech file. 253 spoken words = 89s @170wpm; marked cuts to 84s. All claims receipt-locked (09 evidence log E31–E38).
+
+## 2026-08-20 — MOD 1 primary-source rebuild (current session)
+- Replaced the inherited MOD 1 narrative with a 170-word, 60-second, primary-source version; removed the difficult place name from spoken text and added a pronunciation card.
+- Removed the invented “mother on Runit Island” hook (Runit is officially off-limits), unsupported “THE TOMB IS CRACKING” claim, uncertain “120,000 tons” conversion, false “250 times Hiroshima” yield comparison, and the Marshall-Islands/Japan conflation.
+- Rebuilt around official GAO/DOE/IAEA/CTBTO records: 67 Marshall Islands tests; 456 Semipalatinsk tests including 116 above ground; >100,000 cubic yards at Runit; groundwater–lagoon communication; indefinite Runit quarantine; 23 Lucky Dragon crew irradiated outside the declared danger zone; Kuboyama death chronology.
+- Added line-by-line fact audit, point-of-order defence and primary-source ledger in `mod/mod1.md`.
+
+## 2026-08-20 — MOD 2 full research dossier (current session)
+- Created `research/MOD2_STANCE_MAP.md`; research only, no speech drafted.
+- Defined stockpile/inventory/deployed/retired/fissile-material categories and identified the category-confusion argument.
+- Mapped the disclosure record of all eight nuclear-armed delegations present (US, Russia, China, France, UK, India, Israel, DPRK) using SIPRI 2026 plus official government/NPT sources.
+- Built stance profiles for all 35 named portfolios; flagged that the user states N=36 but supplied only 35 country names.
+- Added Japan plutonium vulnerability/defence, ecological relevance, legal limits, disclosure ladder, opponent best cases, attack-defence matrix and safe/unsafe claim bank.
+- Key live developments captured: New START expired 5 Feb 2026; France increased arsenal and ended numerical disclosure on 2 Mar 2026; UK retains 260 ceiling but no operational counts; China’s 2025 white paper prioritizes intention/doctrine transparency.
+
+## 2026-08-21 — MOD 2 final speech
+- Created canonical `mod/mod2.md`: 161-word, 60-second combined opacity/ecology indictment.
+- Direct targets are receipt-locked: Russia’s New START suspension and ended exchanges; France’s arsenal increase and numerical-disclosure reversal; the UK’s ceiling without operational categories; China’s absent official warhead count.
+- Connected hidden arsenals to fissile production, waste, contaminated soil/groundwater and the GAO half-trillion-dollar US cleanup record.
+- Added a national-security carve-out, standardized annual aggregate-reporting demand and pre-emptive defence of Japan’s 44.4-tonne separated civilian-plutonium declaration.
+- Added delivery timing, line-by-line fact audit, point-of-order defences, pronunciation and primary-source ledger.
