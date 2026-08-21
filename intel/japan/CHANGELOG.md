@@ -164,3 +164,10 @@
 - Rebuilt the PDF for visibility with embedded DejaVu fonts, larger body and source text, a dedicated implementation page, high-contrast safeguard panels, non-overlapping footer ornament and four-page navigation.
 - Added reproducible ReportLab generator `scripts/build_substantive_chit1_pdf.py`; validated four pages, searchable text, active PDF links and all load-bearing factual markers.
 - Visibility hotfix: replaced the navy-on-navy metadata-header text with an explicit embedded-font white header style; re-rendered and visually verified the Delegation, Committee and Moderated-Caucus Focus labels at high resolution.
+
+## 2026-08-21 — Substantive Chit 2 online flagship PDF
+- Created `substantive_chits/SUBSTANTIVE_CHIT_2.md` and a decorated five-page A4 PDF at `substantive_chits/SUBSTANTIVE_CHIT_2.pdf` for MOD 2 stockpile transparency.
+- Built a REPORT–PROTECT–ACCOUNT framework covering comparable force categories, three disclosure-security tiers, interactive review, a parallel route for non-NPT possessors and an Environmental Accountability Annex.
+- Added three draft-ready UNGA recommendations, category-control logic, a five-actor responsibility map, Japan’s 44.4-tonne civilian-plutonium accountability declaration, six scope safeguards and eleven clickable official/high-quality sources.
+- Reused the visibility-audited Japanese navy/crimson/gold design with embedded DejaVu fonts, white metadata headers, readable sources, five-page navigation and non-overlapping footer ornament.
+- Added reproducible generator `scripts/build_substantive_chit2_pdf.py`; validated five pages, searchable text, active links and all factual precision declarations.
