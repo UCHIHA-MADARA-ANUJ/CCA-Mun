@@ -67,8 +67,7 @@
 **If someone asks "who pays?":**
 > "Japan's text names no state and forces nothing. It invites contribution through existing mechanisms — the IAEA network, the CTBTO system, voluntary funds. The question is not who is forced; it is who chooses to be recorded."
 
-**If Kazakhstan speaks (bloc member — her testimony is our hammer):**
-> "Kazakhstan has carried this burden for four decades. Japan asks this committee to stop watching her carry it alone."
+**If Kazakhstan speaks (bloc member — her testimony is our hammer):**> "Kazakhstan has carried this burden for four decades. Japan asks this committee to stop watching her carry it alone."
 
 **If the US counters on the Marshalls — "the Compact compensated them":**
 > "A Compact signed after the damage is a ledger, not a permission slip. The dome was built without the consent of the people who live beneath its shadow. The record shows the tests were never asked for."
@@ -101,8 +100,7 @@
 
 ### Stance-map context (why this speech is un-attackable)
 - **~24-28 of 36 delegates lean YES** on monitoring/remediation; only France/UK/Russia/DPRK hard NO (they voted against A/RES/78/240, 79/60, 80/56 — all three years)
-- **Kazakhstan** (bloc member — rejoined) will amplify the Semipalatinsk testimony — her speech is coordinated with ours for this caucus; feed her the machinery pivot after her testimony
-- **Germany + Norway** are bridge-builders (NATO states who voted YES on the legacy file, attended TPNW as observers) — pull them to co-sponsor the monitoring clause
+- **Kazakhstan** (bloc member — rejoined) will amplify the Semipalatinsk testimony — her speech is coordinated with ours for this caucus; feed her the machinery pivot after her testimony- **Germany + Norway** are bridge-builders (NATO states who voted YES on the legacy file, attended TPNW as observers) — pull them to co-sponsor the monitoring clause
 - **US vulnerability = Runit** — but DON'T attack publicly in the opener (gives China the ALPS weapon); use the $2.3B line as fact, let the room draw the conclusion
 - The speech names **victims and sites, never testers** — the rule that keeps you untouchable
 - **Japan's stake is now in the speech** (the 1954 boat) — you are not a spectator pleading for strangers; you are the first transboundary victim on the record. That is why this committee should listen to Japan about borders.

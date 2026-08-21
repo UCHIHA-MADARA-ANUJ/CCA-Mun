@@ -237,6 +237,7 @@ replaced by Barbados (blue/yellow/blue + trident); SVG synced. Verified badge co
 **Toolchain note:** ImageMagick cannot emit PDF (policy) and cannot rasterize SVG (no rsvg delegate);
 pip works inside a venv (`/tmp/pdfenv` has reportlab 5.0.1, Pillow 12.3.0, pymupdf) — regeneration =
 `python3 -m venv` + `pip install reportlab pillow pymupdf` + run both scripts.
+<<<<<<< HEAD
 
 ## 2026-08-20 — KAZAKHSTAN REJOINED THE BLOC (clauses received + fact-checked)
 
@@ -255,3 +256,5 @@ pip works inside a venv (`/tmp/pdfenv` has reportlab 5.0.1, Pillow 12.3.0, pymup
 - Credits: resolutions → DR PP3; CANWFZ → DR OP9B
 - Merges: fund (INLRF, "without prejudging legal liability" verbatim) → OP9; CTEAF consent wording → OP9A; benchmarks → OP2; Sept-meeting local-level line → OP12
 - Awaiting: user sends DM to KZ; DR1.2 integration on sign-off
+=======
+>>>>>>> fd41c9020f4005188da3726e5fa48556fdd107c6
