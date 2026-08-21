@@ -6,8 +6,8 @@
 
 ---
 
-**Sponsors (confirmed 11):** Japan, India, Mexico, Canada, Iran, Switzerland, Egypt, Philippines, Barbados, South Africa, Kazakhstan
-**Signatories (13):** Japan, Mexico, Canada, India, Philippines, Switzerland, Egypt, South Africa, Barbados, New Zealand, United States, Kazakhstan, France
+**Sponsors (13):** Japan, Mexico, Canada, India, Philippines, Switzerland, Egypt, South Africa, Barbados, New Zealand, United States, Kazakhstan, France
+**Signatories (13 — separate set, to be secured):** Germany, Norway, Republic of Korea, Singapore, Brazil, Indonesia, Colombia, Malaysia, Italy, Spain, Greece, United Arab Emirates, Austria
 **Seats held (pending):** Germany (status unclear after 18 Aug), Republic of Korea, Singapore, New Zealand (flex) · **Day-of contributor:** Norway
 **Hard cap: 13 members — one slot remains. First confirmed answer (Germany/ROK/Singapore/NZ) takes it.**
 

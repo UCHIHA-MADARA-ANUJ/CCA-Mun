@@ -286,3 +286,18 @@ South Africa, Barbados, New Zealand, United States, Kazakhstan, France.
 - Note: US + France as signatories = optics power move (signatories merely support debate, not content).
   Overlap between sponsors and signatories is loose by user choice — strict no-overlap version available on request.
 - DR1.2.md header updated with signatories line; PDF regenerated + validated (13/13 names present, 0 leaks).
+
+## 2026-08-20 — SPONSORS/SIGNATORIES FIXED PER MUN STANDARD (researched)
+
+Researched real MUN draft-resolution convention (modeldiplomat.com, saintpeters.edu, youthimpacts.com,
+bestdelegate.com, wisemee.com): sponsors = authors (must vote YES); signatories = support debate only
+(vote freely); NO overlap allowed. Threshold typically 20-30% of committee (36 del => ~7-11 needed).
+
+**Applied:**
+- **SPONSORS (13)** = user's list (lead Japan): Japan, Mexico, Canada, India, Philippines, Switzerland,
+  Egypt, South Africa, Barbados, New Zealand, United States, Kazakhstan, France.
+- **SIGNATORIES (13)** = separate set to secure: Germany, Norway, Republic of Korea, Singapore, Brazil,
+  Indonesia, Colombia, Malaysia, Italy, Spain, Greece, United Arab Emirates, Austria.
+- 26/36 delegates on the paper (72%) — far above any threshold. Iran stays off the paper (cage protocol);
+  its clauses remain in the text.
+- PDF rebuilt + validated: all 13+13 names present, 0 leaks, 0 markdown artifacts.
