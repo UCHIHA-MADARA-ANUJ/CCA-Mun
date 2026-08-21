@@ -1,8 +1,10 @@
 # 🇯🇵 JAPAN — UNGA WAR ROOM BRIEF
 ## Agenda: "Assessing the Ecological Threats of Nuclear Proliferation on Global Boundaries"
-### Simulation: August–September 2026 | Built: 12 August 2026 | Committee type: General Assembly (interschool circuit)
+### Simulation: August–September 2026 | Built: 12 August 2026 | **Refreshed & re-verified: 15 August 2026** | Committee type: General Assembly (interschool circuit)
 
-**Evidence doctrine (per repo Core Protocol):** `[VERIFIED]` = sourced, dated. `[INFERENCE]` = reasoned conclusion. `[STRATEGY]` = a move to make. `[VERIFICATION FLAG]` = check before use in committee (exact L-number/votes for UNGA-80 docs).
+**Evidence doctrine (per repo Core Protocol):** `[VERIFIED]` = sourced, dated. `[INFERENCE]` = reasoned conclusion. `[STRATEGY]` = a move to make. `[VERIFICATION FLAG]` = check before use in committee.
+
+> **UPDATE 15 AUG 2026:** Every load-bearing 2025–26 claim re-verified against live sources (full ledger: `intel/japan/22_verification_report_2026-08-15.md`). Confirmed: RevCon collapse (22 May 2026), New START expiry (5 Feb 2026), unexecuted US testing directive (30 Oct 2025), Sept-1-2026 victim-assistance meeting (ECOSOC Chamber), Takaichi premiership, ALPS batch 22 (ends **17 Aug** — NOT during committee), ZNPP 17th blackout. **Corrections:** KK-6 commercial ops = **16 Apr 2026**; Scientific Panel res. = **A/RES/79/238** (Japan voted YES; Dr. Tomonaga on panel); Japan's 2025 resolution = "Steps to building a common roadmap…" **145-5-28 FC / 147-5-26 plenary, US abstention**; SIPRI 2026 = **12,187 warheads (RU 5,420 / US 5,042 / CN 620)**. **Fresh ammo (≤10 days old):** Defense of Japan 2026 (4 Aug) + Beijing's "thief crying stop thief" counterattack (5 Aug); PLA Daily plutonium attack (2 Apr); US accused China of an IMS-undetectable low-yield test at RevCon; China's July 2026 nuclear-capable missile test in the Pacific; Kim Yo Jong's "final and irreversible" (27 Jul); TPNW at 75 parties / CTBT at 179 ratifications (Tonga, 7 Jul).
 
 ---
 
@@ -11,14 +13,18 @@
 ```text
 FACTS:
 - The NPT regime just failed for the third straight time: RevCon collapsed 22 May 2026. [VERIFIED]
-- New START expired 4–5 Feb 2026 — first day without US-Russia arms-control limits since 1972. [VERIFIED]
+- New START expired 5 Feb 2026 — first day without US-Russia arms-control limits in decades. [VERIFIED]
 - The FIRST-EVER UN meeting on nuclear victim assistance & environmental remediation convenes
-  EARLY SEPTEMBER 2026 — weeks after this committee. Japan co-supports it. [VERIFIED]
-- Trump ordered nuclear testing resumption 29 Oct 2025; not yet executed — the window to stop
-  a cascade is NOW. [VERIFIED]
+  1 SEPTEMBER 2026 (ECOSOC Chamber, New York) — 10 days after this committee. Japan voted
+  for every enabling resolution (78/240, 79/60, 80/56). [VERIFIED]
+- Trump ordered nuclear testing resumption 30 Oct 2025; NO test has been executed as of Aug 2026 —
+  the window to stop a cascade is NOW. [VERIFIED]
 - 2,056+ nuclear detonations since 1945 left waste in Kazakhstan, the Pacific, Algeria,
   Australia, Nevada & Siberia. Japan is the only nation struck in war (1945) AND poisoned
   by peacetime testing (Lucky Dragon, Bikini, 1954). [VERIFIED]
+- Japan's own Defense of Japan 2026 (4 Aug) calls China "an unprecedented and the greatest
+  strategic challenge"; Beijing retaliated 5 Aug ("a thief crying stop thief"). Keep this out
+  of the ecology debate unless attacked — then one scripted line and redirect. [VERIFIED]
 
 SAY:
 - "Japan does not imagine the ecological cost of the atom. Japan *is* the evidence.
@@ -39,6 +45,8 @@ PROTECT:
 - Never concede the Three Non-Nuclear Principles are violated by the US umbrella.
 - Never accept language calling peaceful nuclear power per se an "ecological threat."
 - Never let ALPS discharge language enter a resolution — redirect to IAEA verification.
+- Never claim the discharge is "live during committee" — batch 22 ENDED 17 Aug; say "the
+  most recent batch was independently verified by the IAEA before release."
 
 NEXT MOVE:
 - First unmoderated caucus: build the "Scientific Assessment Coalition" (bridge bloc) —
@@ -106,7 +114,7 @@ Constitutional monarchy; parliamentary democracy under PM **Sanae Takaichi** (in
 4. **The Three Non-Nuclear Principles (1967/71) — not possessing, not producing, not permitting introduction** — sitting *alongside* the US extended-deterrence umbrella. This tension is intentional national policy. Own the tension; never deny it. (Script in §17.)
 
 ### 3.3 Diplomatic assets `[VERIFIED unless flagged]`
-- **Every year since 1994, Japan has tabled a UNGA First Committee resolution on nuclear disarmament** — the current series, *"Joint courses of action and future-oriented dialogue towards a world without nuclear weapons,"* draws support from across divides (2019: 148-4-26 w/ 56 co-sponsors; 2021: 152-4-30 First Cttee / 158-4-27 plenary; *including the US, UK, France*) `[VERIFIED — MOFA press releases]`. **No other state runs this table: the P3 *and* the abolitionist mainstream both vote for Japan's text.** `[VERIFICATION FLAG: pull your simulation-year equivalent — UNGA-80 (2025) L-document number — from UN Digital Library before committee]`
+- **Every year since 1994, Japan has tabled a UNGA First Committee resolution on nuclear disarmament** — the current series, *"Steps to building a common roadmap towards a world without nuclear weapons,"* is the only nuclear text that routinely draws support from the P3 AND the non-nuclear majority: 2025 (UNGA-80): **145-5-28 in First Committee (31 Oct 2025), 147-5-26 in plenary (1 Dec 2025)**, with the **United States abstaining** (it had voted yes in 2024) after Japan added a call for US–Russia–China trilateral arms-control talks; noes included China, Russia and the DPRK. 2021 (UNGA-76): 152-4-30 FC / 158-4-27 plenary `[VERIFIED — MOFA press releases, Dec 2021 & Dec 2025]`. **No other state runs this table: the P3 *and* the abolitionist mainstream both vote for Japan's text** — and the 2025 US abstention is now public record, so Japan should *self-disclose it as independence* before a rival does (see §10, §17-A1).
 - Voted **in favor** of all three Kazakhstan–Kiribati nuclear-legacy resolutions (78/240 in 2023; 79/60 in 2024; L.57-modalities in 2025) — Japan appears in *none* of the published no/abstain lists `[INFERENCE by elimination from published tallies — 161-4-6 / 174-4-6 / 170-4-5]`.
 - Leading funder and host of CTBTO infrastructure (radionuclide stations Takasaki & Okinawa) and IAEA programs; major contributor to UNIDIR, disarmament education, hibakusha-testimony programs `[CONTEXTUAL]`.
 - **Nihon Hidankyo (the hibakusha confederation) won the 2024 Nobel Peace Prize** `[VERIFIED]` — global moral spotlight on Japanese civil society *right now*.
@@ -120,7 +128,7 @@ Constitutional monarchy; parliamentary democracy under PM **Sanae Takaichi** (in
 | V3 | ALPS treated-water discharge (China, DPRK, some PIF voices weaponize it) | Medium-High — neutralized *only* with IAEA facts, not outrage |
 | V4 | Plutonium stockpile & Rokkasho reprocessing ("latent capability") | Medium |
 | V5 | Fukushima 2011 itself ("you are the ecological threat, not the assessor") | Medium — flip it: experience = expertise |
-| V6 | Nuclear restarts (7th Strategic Energy Plan; Kashiwazaki-Kariwa No. 6 restarted **9 Feb 2026**; target ~20% of power by 2040) `[VERIFIED — TEPCO/press, Mar 2026]` | Low-Medium — category-error attack; script the distinction |
+| V6 | Nuclear restarts (7th Strategic Energy Plan; Kashiwazaki-Kariwa No. 6 restarted **9 Feb 2026**, commercial ops **16 Apr 2026**; 15 reactors online; target ~20% of power by 2040) `[VERIFIED — TEPCO/NucNet/press, Apr 2026]` | Low-Medium — category-error attack; script the distinction |
 | V7 | "Bridge-builder = do-nothing gradualism" (abolitionist frustration) | Low-Medium — answer with the machinery in §15 |
 
 ---
@@ -159,7 +167,7 @@ This scoping does three jobs: (1) puts testing legacy + testing resumption at th
 5. **Governance fragmentation** → responsibility split across IAEA (safety/safeguards), CTBTO (verification tech, but treaty not in force), UNEP (environment, weak nuclear remit), WHO (health), GA (political) → **nobody owns the ecology of weapons** → assessment gap → this agenda exists precisely because that gap does. Your entire resolution lives in this root cause.
 
 ### 5.3 The climate-ecology coupling (your differentiator most delegates will miss)
-Fallout interacts with ocean acidification, fishery migration, permafrost release (Novaya Zemlya legacy sites), and food security. The UN's 21-member **Scientific Panel on Effects of Nuclear War** (est. UNGA-79, report due 2027) covers "climatic, environmental and radiological effects… agriculture and ecosystems" `[VERIFIED — A/C.1/79/L.39, 144-3-30]` — your text should hook into it rather than duplicate it (mandate-age safety + shows you've read the system).
+Fallout interacts with ocean acidification, fishery migration, permafrost release (Novaya Zemlya legacy sites), and food security. The UN's 21-member **Scientific Panel on Effects of Nuclear War** (est. by **A/RES/79/238**, led by Ireland & New Zealand; FC vote 144-3-30; **Japan voted in favour and has a member on the panel — Dr. Masao Tomonaga, appointed July 2025**) covers "climatic, environmental and radiological effects… agriculture and ecosystems" with a comprehensive report due to the GA's 82nd session in 2027 `[VERIFIED — MOFA 22 Jul 2025; ICAN Nov 2024]` — your text should hook into it rather than duplicate it (mandate-age safety + shows you've read the system + you literally helped build it).
 
 ---
 
@@ -190,10 +198,20 @@ Fallout interacts with ocean acidification, fishery migration, permafrost releas
 4. **First-intimation testing threat meets a scheduled spotlight: CTBT's 30th anniversary of opening for signature — 24 September 2026** `[VERIFIED — CTBTO]`. **Use:** your draft formally "looks forward to the thirtieth anniversary" as a hook for Annex-2 ratification diplomacy. Timeliness is a chair-magnet.
 5. **International Meeting on Victim Assistance & Environmental Remediation — POSTPONED from 24 April 2026 to early September 2026** `[VERIFIED — Nuclear Age Peace Foundation / Kiribati mission]`; mandate from A/RES/79/60 (Kazakhstan-Kiribati; 174-4-6). **Use:** the strongest single strategic fact in this brief — *your committee convenes weeks before the meeting it can shape.* Your resolution "commends principles to" that meeting. Instant relevance; instant ownership.
 6. **UN Scientific Panel on Effects of Nuclear War** — 21 experts appointed; mandate covers climatic, environmental, radiological, agricultural, ecosystem effects; **comprehensive report due 2027** `[VERIFIED — UNGA-79 L.39, vote 144-3-30; Fifth Cttee GAAB4483]`. **Use:** hook your assessment workstream into its 2027 delivery.
-7. **Fukushima ALPS discharge status** — ongoing since 24 Aug 2023 (~1.3 Mt total over ~30 years; IAEA resident presence; expanded monitoring now includes Chinese expert participation under the 20 Sept 2024 Japan-China arrangement; China moving toward staged seafood-import resumption) `[VERIFIED — AP/Seafood Source Sept 2024; IAEA]`. **Use:** only as defense — the proof that independent verification converts ecological suspicion into diplomatic de-escalation. *That is literally your resolution's thesis.*
+7. **Fukushima ALPS discharge status** — ongoing since 24 Aug 2023; **batch 22 (4th of FY2026) ran ~5–17 August 2026 (~7,800 t; cumulative ≈163,800 m³)** — it ENDS the week before this committee sits; IAEA independently sampled it; tritium far below Japan's 1,500 Bq/L limit and consistent with international safety standards; IAEA office on-site; China participates in expanded monitoring under the 20 Sept 2024 arrangement and conditionally resumed seafood imports in June 2025 (10 prefectures still banned; a renewed-ban threat surfaced Nov 2025) `[VERIFIED — NEI Magazine 5 Aug 2026; IAEA; Reuters 29 Jun 2025]`. **Use:** only as defense — the proof that independent verification converts ecological suspicion into diplomatic de-escalation. *That is literally your resolution's thesis.*
 8. **Zaporizhzhia, Feb 2026** — Europe's largest NPP, occupied, cold shutdown, running on a **single external power line** after the last backup line (Ferrosplavna-1, down 10 Feb) was reportedly damaged by military activity; IAEA-brokered localized ceasefires now used for power-line repairs `[VERIFIED — Reuters 19 Feb 2026; IAEA Update 337, 16 Jan 2026]`. **Use:** the "proliferation-era ecological risk the Charter never imagined" — grounds your facility-protection clause.
 9. **Japan's domestic energy pivot** — Kashiwazaki-Kariwa Unit 6 restarted **9 February 2026** (1,356 MW; commercial ops March 2026); 7th Strategic Energy Plan targets ~20% nuclear share by 2040 under PM Takaichi's GX strategy `[VERIFIED — TEPCO/press Mar 2026; Reuters Oct 2025]`. **Use:** defensively (§17-V6) and offensively ("Japan pairs the world's strictest post-Fukushima regulator with the humility of experience — safety culture is our export").
-10. **Hibakusha & the Nobel horizon** — Nihon Hidankyo, 2024 Nobel Peace Prize `[VERIFIED]`; 81st Hiroshima/Nagasaki anniversaries commemorated **6 & 9 August 2026**, days before this simulation. Average hibakusha age ~86 `[CONTEXTUAL]`. **Use:** "Last week the world bowed its head in Hiroshima. This week this committee decides whether memory becomes machinery."
+10. **Hibakusha & the Nobel horizon** — Nihon Hidankyo, 2024 Nobel Peace Prize `[VERIFIED]`; 81st Hiroshima/Nagasaki anniversaries commemorated **6 & 9 August 2026**, days before this simulation; **91,105 hibakusha alive as of March 2026, average age 86.7 (≈87)** `[VERIFIED — Japan Times 1 Jul 2026; The Diplomat 6 Aug 2026]`. **Use:** "Last week the world bowed its head in Hiroshima. This week this committee decides whether memory becomes machinery."
+
+11. **Defense of Japan 2026 (4 August 2026) — LIVE CONTEXT, 17 days before committee.** ~600-page white paper: China = "an unprecedented and the greatest strategic challenge"; PLA expansion beyond the First Island Chain, a 30-minute laser incident against a JMSDF patrol aircraft, radar lock-on, Taiwan-normalization concerns; defense spending to 2% of GDP ahead of schedule. Beijing retaliated 5 August (FM Lin Jian, MND Chen Xi): "a thief crying stop thief," "new militarism," "remilitarization" `[VERIFIED — The Diplomat 4 Aug 2026; China Daily/Xinhua 5 Aug 2026]`. **Doctrine:** do not open this file on the ecology agenda; if China attacks Japan's "militarism," one scripted line ("defensive capability ≠ contamination; Japan has never tested and never possessed") then redirect to the agenda; the white paper's transparency critique of opaque arsenals is useful only as a verification-argument echo, state-neutral.
+
+12. **The plutonium attack is already public (PLA Daily, 2 April 2026).** China's state media ran a full-page framing of Japan's 44.4 t separated plutonium (end-2024: 8.6 t domestic / 35.8 t abroad ≈ 21.7 t UK + 14.1 t France) as a "~5,500-warhead latent capability," noting it is the world's fifth-largest civil stockpile `[VERIFIED — JAEC/Japan AEC Aug 2025; PLA Daily via The Defense News 2 Apr 2026]`. Expect a floor echo — use the scripted defense (§16 Q4): full-scope IAEA safeguards, annual public reporting (INFCIRC), fourth consecutive annual decline, projected ~43.8 t by FY2026, and "the state publishing this number every year has nothing to hide; ask the same of opaque programs."
+
+13. **The verification gap just got proven by the P5 itself.** At RevCon 2026 the United States publicly accused China of an IMS-undetectable low-yield nuclear test — while the US itself has not ratified the CTBT `[VERIFIED — Arms Control Association, Jun 2026]`. **Use:** this is Japan's OP3 argument made flesh — the world's detection net is too coarse (noble-gas/radionuclide gaps), and both accuser and accused are Annex-2 holdouts. State-neutral clause language: "strengthen the International Monitoring System, including radionuclide noble-gas capacity, so that the next accusation is answered by data, not diplomacy."
+
+14. **Testing-adjacent activity is rising in the Pacific.** China test-launched a nuclear-capable missile with a dummy warhead in the Pacific in July 2026 (regional governments notified shortly before; same day Australia's PM signed security treaties in Fiji); DPRK conducted its 7th missile launch of 2026 on 19 April (cluster-warhead SRBMs) and tested a high-thrust solid-fuel ICBM engine on 29 March; Kim Yo Jong declared the nuclear status "final and irreversible" (27 July 2026) `[VERIFIED — RNZ/Asia Pacific Report 8 Jul 2026; Reuters 19-20 Apr 2026; ISW 31 Mar 2026; KCNA via Sputnik 27 Jul 2026]`. **Use:** "no explosive test since 2017, yet the preparation never stops" — the moratorium is a habit, not a guarantee; assessment machinery is the insurance.
+
+*Corrections logged 15 Aug 2026: (a) ALPS batch 22 ends 17 Aug — not live during committee; (b) KK-6 commercial operation 16 Apr 2026; (c) Scientific Panel res. = A/RES/79/238, Japan voted YES, Dr. Tomonaga on panel; (d) Japan's 2025 resolution votes 145-5-28 FC / 147-5-26 plenary; (e) SIPRI 2026: 12,187 warheads (RU 5,420 / US 5,042 / CN 620). Full ledger: `intel/japan/22_verification_report_2026-08-15.md`.*
 
 ---
 
@@ -563,10 +581,19 @@ Format: **Q → why dangerous → BEST answer → redirect**. (Short/diplomatic/
 8. UNGA-79 First Committee, A/C.1/79/L.39 "Nuclear war effects and scientific research" (144-3-30, 1 Nov 2024); Fifth Committee GAAB4483 — press.un.org, una.org.uk `[VERIFIED]`
 9. AP / Seafood Source / CNBC — Japan–China ALPS arrangement (20 Sep 2024) & discharge history (from 24 Aug 2023); IAEA comprehensive review (4 Jul 2023) `[VERIFIED]`
 10. Reuters, "Zaporizhzhia NPP operating on sole remaining main power line," 19 Feb 2026; IAEA Update 337, 16 Jan 2026 `[VERIFIED]`
-11. Reuters, "Nuclear power at heart of new Japan PM's energy policy," 22 Oct 2025; TEPCO/energy press on Kashiwazaki-Kariwa 6 restart (9 Feb 2026) `[VERIFIED]`
-12. MOFA Japan press releases — adoption tallies of Japan's "Joint courses of action…" resolutions (2019: 148-4-26; 2021: 152-4-30 FC / 158-4-27 plenary) `[VERIFIED]` — **UNGA-80 (2025) equivalent: VERIFICATION FLAG**
+11. Reuters, "Nuclear power at heart of new Japan PM's energy policy," 22 Oct 2025; NucNet/ANS on Kashiwazaki-Kariwa 6 restart (21 Jan / 9 Feb 2026) & commercial operation (16 Apr 2026) `[VERIFIED]`
+12. MOFA Japan press releases — adoption tallies of Japan's "Steps to building a common roadmap…" resolution (2025: FC 145-5-28, plenary 147-5-26, US abstention; 2021: 152-4-30 FC / 158-4-27 plenary) `[VERIFIED — MOFA, 2 Dec 2025]`
 13. Nobel Prize 2024 — Nihon Hidankyo `[VERIFIED]`; Three Non-Nuclear Principles (1967/71); Lucky Dragon No. 5 / Castle Bravo (1 Mar 1954); Semipalatinsk; Moruroa; Kyshtym — `[CONTEXTUAL: stable historical record]`
+14. Japan Times, "Number of hibakusha drops to 91,105" (1 Jul 2026; average age 86.66); The Diplomat, "When the World Stops Fearing the Bomb" (6 Aug 2026) `[VERIFIED]`
+15. The Diplomat, "Japan's 2026 Defense White Paper Warns of China's Expanding Military Reach in the Pacific" (4 Aug 2026); China Daily / Xinhua, "China slams Japan defense white paper" (5 Aug 2026) `[VERIFIED]`
+16. Japan Atomic Energy Commission status report (5 Aug 2025) — 44.4 t plutonium end-2024 (8.6 domestic / 35.8 abroad); PLA Daily attack (2 Apr 2026, via The Defense News); China Military Online editorial (2 Mar 2026) `[VERIFIED]`
+17. Arms Control Association, "Experts Assess NPT Review Conference" (Jun 2026) — incl. US accusation of China low-yield test undetectable by IMS; VCDNP, "End of New START" (Jan 2026) `[VERIFIED]`
+18. IAEA Updates 340 (12 Feb 2026) & 344 (19 Mar 2026) on ZNPP; World Nuclear News, "Substation damage delaying…" (26 Jun 2026); Kyiv Independent (4 Jun 2026) — 17th blackout `[VERIFIED]`
+19. RNZ Pacific / Asia Pacific Report, "Tonga ratifies CTBT…" (8 Jul 2026); ICANW Tonga profile — TPNW 75th party, CTBT 179th ratification `[VERIFIED]`
+20. SIPRI Yearbook 2026 (Jun 2026) — 12,187 warheads; Russia 5,420 / US 5,042 / China 620 (via Al Jazeera & Indian Express) `[VERIFIED]`
+21. AP, "Iran has not given IAEA access…" (27 Feb 2026); ISIS analysis of IAEA Iran reports (Jun 2026); World Nuclear Association Iran profile (Jun 2026) `[VERIFIED]`
+22. UNODA, "International Meeting on Victim Assistance and Environmental Remediation (2026)" — 1 September 2026, ECOSOC Chamber `[VERIFIED]`; Nuclear Age Peace Foundation tallies: 80/56 = 170-4-5 (FR/DPRK/RU/UK against; CN/IN/IL/PK/US abstain), FC 167-4-5 `[VERIFIED]`
 
-**Open verification queue for you (fast):** (a) UNGA-80 Japan resolution L-number + 2025 tally; (b) current IAEA-reported civilian plutonium holdings figure; (c) TPNW exact parties count (≈73, verify); (d) your circuit's ROP specifics on amendments/division of question.
+**Open verification queue for you (fast):** (a) your circuit's ROP specifics on amendments/division of question; (b) official CCA MUN '26 country matrix rows A–L (Kazakhstan/Germany/China/India/Iran/Canada/Brazil/France/Australia/Austria/Egypt/Indonesia pending); (c) exact A/RES/79/60 plenary tally if quoted (use "more than 170 in favour" as safe); (d) first TPNW Review Conference date (do not assert — preparations ongoing as of 23 Jun 2026 per VCDNP).
 
 *Built under the repo's MUN Core Protocol: every load-bearing number above is sourced and dated; anything unverifiable is flagged rather than dressed up. Good hunting, delegate of Japan.*

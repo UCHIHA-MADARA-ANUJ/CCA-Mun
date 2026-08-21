@@ -34,14 +34,14 @@ If NO/maybe → offer the same seat to **Switzerland** (data-standards clause) a
 ### 🎯 TARGET 2 — SOUTH KOREA 🇰🇷 (easiest yes in the building)
 Why: YOUR message is Japan-based solidarity; FACT receipt = the 4 Mar 2026 US–ROK–Japan trilateral statement at the IAEA Board (vienna.usmission.gov). Fellow Asian delegate on a school circuit — personal bond sells this.
 
-> Hey Delegate of South Korea! 🇰🇷 This is Japan 🇯🇵. We're building **ECO-NEXUS** — transboundary contamination, radiation monitoring, early warning, responsible waste management, scientific cooperation. Honestly: our two delegations run the most advanced radiation-monitoring systems in Asia — our governments co-signed the same statement in Vienna this March. We want **Korea at joint custody with Japan of the early-warning & monitoring-tech clause**. Asia writes the standard this time instead of importing it. You in?
+> Hey Delegate of South Korea! 🇰🇷 This is Japan 🇯🇵. We're building **VANGUARD** — transboundary contamination, radiation monitoring, early warning, responsible waste management, scientific cooperation. Honestly: our two delegations run the most advanced radiation-monitoring systems in Asia — our governments co-signed the same statement in Vienna this March. We want **Korea at joint custody with Japan of the early-warning & monitoring-tech clause**. Asia writes the standard this time instead of importing it. You in?
 
 If NO → PH takes early-warning custody (PhilAtom receipt), NZ absorbs Pacific/testing clause.
 
 ### 🎯 TARGET 3 — BRAZIL 🇧🇷 (Global South pen)
 Why: ABACC = 30 years of working bilateral verification (FACT); TPNW signatory-not-party = abolition-friendly but not rigid (FACT, ICAN list); habitual GA drafter. Brazil makes the bloc look like a *majority machine*, not an Asia club.
 
-> Hi Delegate of Brazil 🇧🇷 — Japan here 🇯🇵. We're forming **ECO-NEXUS**, the machinery bloc for this agenda: monitoring, early warning, waste management, remediation, info-sharing — post-RevCon, somebody has to write the machinery the NPT process couldn't. Brazil's **ABACC record — thirty years of two rivals verifying each other** — is exactly the credibility our verification-cooperation clause needs. We want Brazil **lead-drafting the Global South section**. Core seat. Are you with us?
+> Hi Delegate of Brazil 🇧🇷 — Japan here 🇯🇵. We're forming **VANGUARD**, the machinery bloc for this agenda: monitoring, early warning, waste management, remediation, info-sharing — post-RevCon, somebody has to write the machinery the NPT process couldn't. Brazil's **ABACC record — thirty years of two rivals verifying each other** — is exactly the credibility our verification-cooperation clause needs. We want Brazil **lead-drafting the Global South section**. Core seat. Are you with us?
 
 **If Brazil asks "is this anti-nuclear?":** *"Machinery, not doctrine. Bloc takes no position on any member's nuclear policy — that's in our charter line."*
 **Never write naval-propulsion language near Brazil (PROSUB red line).**
@@ -49,7 +49,7 @@ Why: ABACC = 30 years of working bilateral verification (FACT); TPNW signatory-n
 ### 🎯 TARGET 4 — SOUTH AFRICA 🇿🇦 (the moral spine)
 Why: only state to build and voluntarily dismantle an arsenal (FACT); TPNW party since 22 Feb 2019 (FACT); anchors NAM caucus — SA often **brings 2–3 NAM friends with it** (INFERENCE, high confidence on school circuits). Pairs with Mexico on the testimony pillar.
 
-> Hi Delegate of South Africa 🇿🇦 — this is Japan 🇯🇵. Building the **ECO-NEXUS bloc** on the ecological-threats agenda: monitoring, nuclear safety, victim assistance & environmental remediation, early warning. South Africa is the **only nation that ever built nuclear weapons and chose to dismantle them** — no one in that room can heckle that record. We'd want SA as **co-custodian with Mexico of the victim-assistance & remediation pillar**. Are you in?
+> Hi Delegate of South Africa 🇿🇦 — this is Japan 🇯🇵. Building the **VANGUARD bloc** on the ecological-threats agenda: monitoring, nuclear safety, victim assistance & environmental remediation, early warning. South Africa is the **only nation that ever built nuclear weapons and chose to dismantle them** — no one in that room can heckle that record. We'd want SA as **co-custodian with Mexico of the victim-assistance & remediation pillar**. Are you in?
 
 **TARGET 4 HIT = 10 FLAGS ✅ — STOP AND STABILIZE. Lock the core, THEN take 1–2 more max.**
 

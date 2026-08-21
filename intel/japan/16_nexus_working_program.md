@@ -38,7 +38,7 @@ Everyone's clause lives inside the machine → no member is decorative → nobod
 
 ## 3. 📋 PASTE THIS IN THE GROUP CHAT (the "main thing" announcement)
 
-> ⚡ **ECO-NEXUS — our working program, locked frame:**
+> ⚡ **VANGUARD — our working program, locked frame:**
 >
 > We're building ONE machine, three layers:
 > 🛰️ **MONITOR** — harmonized radiation-monitoring standards + shared data platform
