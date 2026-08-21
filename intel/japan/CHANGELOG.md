@@ -205,3 +205,9 @@
 - Built a full MONITOR–RESPOND–REMEDIATE system: 12-field data protocol, notification threshold, notification-before-attribution rule, joint review cell, three-track assistance window, priority criteria, community participation and measurable outcomes.
 - Added a 35-country solution stance map, eleven distinct bloc solution lanes, institutional role map, aggressive solution points, rebuttals, POIs, safe/unsafe claims, 60-second architecture and eighteen sources.
 - Preserved the instruction not to draft the MOD 3 speech; the file is explicitly research-only.
+
+## 2026-08-21 — MOD 3 solution speech
+- Created canonical `mod/mod3.md`: a 147-word, aggressive 60-second solution intervention connecting CTBTO detection, IAEA emergency communication, RANET requested assistance and ENVIRONET remediation expertise.
+- Built the speech around MONITOR–RESPOND–REMEDIATE, a precise plausible-pathway notification trigger, notification before attribution, request-based assistance, community participation and measurable outcomes.
+- Used only the two approved evidence anchors—337 planned IMS facilities at roughly 90% operation and Japan’s existing IAEA RANET capacity-building role—while avoiding mandate fabrication.
+- Added four full-volume peaks, exact timing map, fact audit, ten Point-of-Order defences, pronunciation and ten primary/high-quality sources.
