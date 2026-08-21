@@ -277,3 +277,12 @@ pip works inside a venv (`/tmp/pdfenv` has reportlab 5.0.1, Pillow 12.3.0, pymup
 - **Logo:** 11 badges (Japan top, ring at 32.73°, Kazakhstan + Barbados both in), 2400px.
 - **PDF:** regenerated via scripts (sponsors box now 11); custody tags stripped; validated 0 leaks.
 - Old files removed: drafts/VANGUARD_DR1.1.md + .pdf (history retains them).
+
+## 2026-08-20 — DR1.2 SIGNATORIES SET (user list)
+
+**SIGNATORIES (13)** — exact user order: Japan, Mexico, Canada, India, Philippines, Switzerland, Egypt,
+South Africa, Barbados, New Zealand, United States, Kazakhstan, France.
+- Old target box (Norway/Germany/ROK/Singapore/NZ) replaced; SPONSORS (11) = VANGUARD bloc unchanged.
+- Note: US + France as signatories = optics power move (signatories merely support debate, not content).
+  Overlap between sponsors and signatories is loose by user choice — strict no-overlap version available on request.
+- DR1.2.md header updated with signatories line; PDF regenerated + validated (13/13 names present, 0 leaks).

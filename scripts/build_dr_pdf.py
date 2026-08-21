@@ -3,8 +3,8 @@
 Build the VANGUARD Draft Resolution 1.2 PDF — "the best PDF ever".
 - A4, navy+gold UN-style double border on every page
 - Embedded VANGUARD bloc logo (roster v2: Barbados in)
-- Masthead: distr. block, DRAFT RESOLUTION 1.1, committee + agenda,
-  resolution title plate, SPONSORS box (10 bloc members), SIGNATORIES box
+- Masthead: distr. block, DRAFT RESOLUTION 1.2, committee + agenda,
+  resolution title plate, SPONSORS box (11 bloc members), SIGNATORIES box (13)
 - PREAMBULAR PARAGRAPHS (PP1-14) + OPERATIVE PARAGRAPHS (OP1-17)
 - Internal custody tags [MX anchor], **[IRAN — lane]** etc. are STRIPPED
   (this is the circulation version)
@@ -238,9 +238,10 @@ story.append(Spacer(1, 5))
 
 # signatories box
 signatories = Table(
-    [[Paragraph("<b>SIGNATORIES</b> \u2014 target list, to be confirmed", st_sponsor_lab)],
-     [Paragraph("NORWAY \u00b7 GERMANY \u00b7 REPUBLIC OF KOREA \u00b7 SINGAPORE \u00b7 NEW ZEALAND",
-                st_sponsor_names)],
+    [[Paragraph("<b>SIGNATORIES (13)</b> \u2014 the draft is signed for debate by:", st_sponsor_lab)],
+     [Paragraph("JAPAN \u00b7 MEXICO \u00b7 CANADA \u00b7 INDIA \u00b7 PHILIPPINES \u00b7 SWITZERLAND \u00b7 "
+                "EGYPT \u00b7 SOUTH AFRICA \u00b7 BARBADOS \u00b7 NEW ZEALAND \u00b7 UNITED STATES \u00b7 "
+                "KAZAKHSTAN \u00b7 FRANCE", st_sponsor_names)],
      [Paragraph("Delegations wishing to co-sponsor or sign may approach the "
                 "Delegation of Japan.", st_sponsor_note)]],
     colWidths=[CW])
