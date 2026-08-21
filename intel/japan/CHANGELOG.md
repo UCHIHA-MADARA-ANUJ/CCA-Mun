@@ -156,3 +156,9 @@
 - Built exactly five long-form written POIs for each of the 34 other named delegations: 170 questions total, plus Japan’s incoming-POI defence.
 - Restricted every question to MOD 1 scope; Palomares, reactor accidents, routine civilian releases and stockpile-count debate are deliberately excluded or quarantined.
 - Added country-specific fact locks, VANGUARD-friendly lobs, major-testing-State accountability traps, a top-10 deployment queue, never-use warnings and a 17-source ledger.
+
+## 2026-08-21 — Substantive Chit 1 online flagship PDF
+- Created `substantive_chits/SUBSTANTIVE_CHIT_1.md` and a decorated three-page A4 PDF at `substantive_chits/SUBSTANTIVE_CHIT_1.pdf`.
+- Built the submission around a consent-based MONITOR–RESPOND–REMEDIATE mechanism, using the Marshall Islands/Lucky Dragon record, Kazakhstan testing evidence and the US production-cleanup liability.
+- Added three draft-ready UNGA recommendations, explicit mandate and legal safeguards, seven clickable primary/high-quality sources and precision declarations preventing overstatement.
+- Added reproducible ReportLab generator `scripts/build_substantive_chit1_pdf.py`; validated three pages, searchable text, nine active PDF links and all load-bearing factual markers.
