@@ -134,3 +134,11 @@
 - Connected hidden arsenals to fissile production, waste, contaminated soil/groundwater and the GAO half-trillion-dollar US cleanup record.
 - Added a national-security carve-out, standardized annual aggregate-reporting demand and pre-emptive defence of Japan’s 44.4-tonne separated civilian-plutonium declaration.
 - Added delivery timing, line-by-line fact audit, point-of-order defences, pronunciation and primary-source ledger.
+
+## 2026-08-21 — GSL zero-vulnerability rebuild
+- Replaced the stale `SPEECHES/GSL_FINAL.md` with the sole canonical file `GSL/GSL_FINAL.md`.
+- Removed the formal greeting entirely per delegate instruction.
+- Rebuilt the speech to 222 words for the official 90-second limit, including deliberate-pause time.
+- Corrected or removed vulnerable claims: UN chamber age, unqualified casualty count, “fewer survivors than ever,” “no negotiations,” one-wire catastrophe language, fastest-since-Cold-War comparison, unqualified arsenal total, DPRK “irreversible” constitutional wording, annual arsenal-growth claim, formal world-promise claim and future real-UN-meeting reference.
+- Verified every factual line against Hiroshima and Nagasaki municipal records, current hibakusha data, UN New START and NPT records, IAEA Update 360, SIPRI Yearbook 2026, Japan MOFA, UNGA voting records and official Lucky Dragon exhibits.
+- Added a full line-by-line fact audit, point-of-order firewall, pronunciation card and exact 90-second delivery map.
