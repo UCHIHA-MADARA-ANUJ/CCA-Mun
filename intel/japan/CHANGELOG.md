@@ -150,3 +150,9 @@
 - Separated friendly lobs, bridge tests, accountability traps and counter-only questions so VANGUARD members are never accidentally attacked in public.
 - Added a top-12 priority queue, live speech-trigger map, full-marks POI doctrine, never-use list and source ledger.
 - Updated Japan’s plutonium defence to the current official 44.4-tonne end-2024 figure and explicitly retired the stale 45.1-tonne figure in older notes.
+
+## 2026-08-21 — MOD 1 country-by-country written POI arsenal
+- Created `mod/mod1_poi_country_pack.md` for the rephrased MOD 1 topic on transboundary contamination arising from past nuclear-testing and production legacies.
+- Built exactly five long-form written POIs for each of the 34 other named delegations: 170 questions total, plus Japan’s incoming-POI defence.
+- Restricted every question to MOD 1 scope; Palomares, reactor accidents, routine civilian releases and stockpile-count debate are deliberately excluded or quarantined.
+- Added country-specific fact locks, VANGUARD-friendly lobs, major-testing-State accountability traps, a top-10 deployment queue, never-use warnings and a 17-source ledger.
