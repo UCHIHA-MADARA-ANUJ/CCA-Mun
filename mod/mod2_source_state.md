@@ -6,7 +6,7 @@
 
 **Speaking time:** 75 seconds
 
-**Speech length:** 170 words — calibrated for a full-force 75-second delivery
+**Speech length:** 189 words — calibrated for a fast, full-force 75-second delivery
 
 **Status:** Final maximum-aggression, fact-audited version · 21 August 2026
 
@@ -16,17 +16,23 @@
 
 [HARD — immediate challenge]
 
-Who decides whether contamination exists? Too often, the source State classifies records, chooses the model, calculates dose, and announces the conclusion.
+Who decides whether contamination exists? Too often, the source State classifies the records, selects the model, calculates the dose, and announces the conclusion.
 
 [FULL FORCE]
 
-**THAT IS NOT INDEPENDENT ASSESSMENT. THAT IS SELF-CERTIFICATION.**
+**THE STATE THAT CREATED THE RISK BECOMES THE WITNESS, THE LABORATORY, AND THE JUDGE.**
 
 [CONTROLLED INDICTMENT]
 
-Japan knows the cost. In 1954, twenty-three Lucky Dragon crew were irradiated outside the declared danger zone. The boundary failed; the fallout did not.
+Japan has already paid. In 1954, all twenty-three Lucky Dragon crew were irradiated outside the declared danger zone. The boundary was an assumption; fallout exposed it.
 
-Kazakhstan’s former Soviet site saw 456 tests. Archives remain essential for dose reconstruction. Contamination in one State and records in another cannot become an evidence veto.
+Kazakhstan’s former Soviet site saw 456 tests. Archives remain essential for dose reconstruction. Yet affected communities are told: prove harm using evidence you cannot see.
+
+[FULL FORCE]
+
+**THAT IS NOT A BURDEN OF PROOF. IT IS A BARRIER TO PROOF.**
+
+[LEGAL AUTHORITY]
 
 UNGA Resolution 79/60 urges testing States to share, as appropriate, technical and scientific information with affected States.
 
@@ -40,15 +46,17 @@ No unannounced inspections. No weapon designs. No automatic liability.
 
 [CLIMB]
 
-But no government may withhold evidence, demand that victims prove harm, then call the resulting silence “scientific uncertainty.”
+A sound source model survives independent review. Secrecy must not rescue one that cannot.
 
-[FINAL FORCE]
+[FULL FORCE]
 
-**A SOURCE STATE MAY BE A WITNESS. IT CANNOT BE THE ONLY SCIENTIST, THE ONLY ARCHIVIST, AND THE ONLY JUDGE.**
+**WITHHELD DATA IS NOT SCIENTIFIC UNCERTAINTY. IT IS ENGINEERED UNCERTAINTY.**
 
-**CLASSIFICATION CAN PROTECT A SECRET.**
+A source State receives a voice—not a monopoly over truth.
 
-**IT CANNOT MANUFACTURE INNOCENCE.**
+[FINAL VERDICT]
+
+**CLASSIFICATION CAN PROTECT A SECRET. IT CANNOT MANUFACTURE INNOCENCE.**
 
 [DROP]
 
@@ -60,26 +68,27 @@ I yield.
 
 | Time | Section | Delivery |
 |---:|---|---|
-| 0–8 s | Who decides? | Immediate hard projection; sweep the testing States |
-| 8–12 s | Self-certification verdict | First full-force strike; no pause inside the two sentences |
-| 12–24 s | Lucky Dragon | Loud, precise and personal; do not scream casualty evidence |
-| 24–36 s | Kazakhstan and archives | Prosecutorial; emphasize “records in another” |
-| 36–44 s | UNGA 79/60 | Controlled legal authority; clearly say “as appropriate” |
-| 44–55 s | Three-Key mechanism | Slow enough for the dais to record all three keys |
-| 55–59 s | Three safeguards | Fast, separated strikes |
-| 59–65 s | Proof-burden attack | Climb through “scientific uncertainty” |
-| 65–75 s | Witness / scientist / judge + innocence | Maximum force, then dead stop and quiet yield |
+| 0–8 s | Who decides? | Fast, hard projection; no greeting and no pause |
+| 8–13 s | Witness / laboratory / judge | First full-force strike |
+| 13–23 s | Lucky Dragon | Loud and personal; preserve every word |
+| 23–33 s | Kazakhstan + impossible proof burden | Fast prosecutorial delivery |
+| 33–38 s | Barrier-to-proof verdict | Full force, then only a half-beat |
+| 38–47 s | UNGA 79/60 | Precise legal authority; stress “as appropriate” |
+| 47–58 s | Three-Key mechanism + safeguards | Controlled clarity; this wins substance marks |
+| 58–64 s | Independent-review test | Build speed and pressure |
+| 64–69 s | Engineered uncertainty | Full-force strike |
+| 69–75 s | Voice / monopoly / innocence | Maximum final force; quiet yield immediately |
 
 ### Full-force delivery doctrine
 
-Maintain approximately 85–90% projection. Reach full volume only on:
+This version is intentionally longer. Maintain a fast **150–155 words per minute** through evidence and reach full volume on:
 
-1. **THAT IS NOT INDEPENDENT ASSESSMENT…**
-2. **A SOURCE STATE MAY BE A WITNESS…**
-3. **CLASSIFICATION CAN PROTECT A SECRET.**
-4. **IT CANNOT MANUFACTURE INNOCENCE.**
+1. **THE STATE THAT CREATED THE RISK…**
+2. **THAT IS NOT A BURDEN OF PROOF…**
+3. **WITHHELD DATA IS NOT SCIENTIFIC UNCERTAINTY…**
+4. **CLASSIFICATION CAN PROTECT A SECRET…**
 
-The final word **“innocence”** must be slower—not merely louder.
+Do not pause after every capitalized line. The final word **“innocence”** receives the longest beat.
 
 ---
 
@@ -88,14 +97,14 @@ The final word **“innocence”** must be slower—not merely louder.
 | Spoken claim | Status | Safe evidentiary basis |
 |---|---|---|
 | Twenty-three Lucky Dragon crew were irradiated outside the declared danger zone | Verified | Hiroshima Peace Memorial Museum states that the vessel was well outside the declared US danger area and the 23-person crew was exposed to highly radioactive fallout |
-| “The boundary failed; the fallout did not” | Rhetoric grounded in fact | The verified exposure outside the declared area demonstrates failure of the operational boundary to contain the hazard |
+| “The boundary was an assumption; fallout exposed it” | Rhetoric grounded in fact | The verified exposure outside the declared area demonstrates that the operational boundary did not contain the hazard |
 | Kazakhstan’s former Soviet site hosted 456 tests | Verified | IAEA Publication 1063 and related INIS records document 456 tests at the site |
 | Archives remain important for dose reconstruction | Verified | IAEA INIS records specifically describe archival data usable for retrospective dosimetry and the chronology/characteristics of tests |
 | Records may be held outside the presently affected/territorial State | Correctly framed | Soviet-era technical records derive from institutions across successor jurisdictions; the speech assigns no automatic legal liability to an archive custodian |
 | UNGA Resolution 79/60 urges testing States to share information “as appropriate” | Verified | Operative paragraph 2 urges States that used/tested nuclear weapons to share, as appropriate, technical and scientific information with affected States |
 | Three-Key Standard | Japan’s policy proposal | Source package, affected-State counter-assessment and independent review are voluntary/protected; no new inspection power is claimed |
 | No automatic liability | Explicit safeguard | Evidence cooperation and technical review are separated from legal responsibility and compensation determinations |
-| “Self-certification” / “manufacture innocence” | Rhetorical analysis | The speech criticizes exclusive authority over disputed evidence; it does not allege that every source State falsifies data |
+| “Witness, laboratory and judge” / “engineered uncertainty” / “manufacture innocence” | Rhetorical analysis | The speech criticizes exclusive control over disputed evidence and a circular proof burden; it does not allege that every source State falsifies data |
 
 ---
 
@@ -124,6 +133,10 @@ The final word **“innocence”** must be slower—not merely louder.
 **If accused of demanding weapon secrets:**
 
 > “The speech expressly excludes weapon designs. Environmental findings, model assumptions and dose methodology are not automatically weapon blueprints.”
+
+**If challenged on “engineered uncertainty”:**
+
+> “Japan does not infer contamination merely because data are absent. It rejects the circular claim that evidence withheld by the record-holder can itself prove safety. The remedy is review, not a presumption of guilt.”
 
 **If accused of presuming guilt:**
 

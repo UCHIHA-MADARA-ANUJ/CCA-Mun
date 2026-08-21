@@ -194,7 +194,7 @@
 - Kept the United States and France unnamed, protected legitimate operational information and excluded routine safeguarded civilian activity from the military-waste claim.
 
 ## 2026-08-21 — Source-State evidence-control MOD speech
-- Created `mod/mod2_source_state.md`: a separate 170-word, full-force 75-second speech for the bloc’s replacement MOD on exclusive source-State authority over nuclear-legacy evidence.
-- Built the indictment around Lucky Dragon, the 456-test Kazakhstan record, archival data for retrospective dosimetry and UNGA Resolution 79/60’s “as appropriate” information-sharing language.
+- Created `mod/mod2_source_state.md`: a separate 189-word, fast full-force 75-second speech for the bloc’s replacement MOD on exclusive source-State authority over nuclear-legacy evidence.
+- Intensified the indictment through the witness–laboratory–judge monopoly, impossible proof burden, independent-review survival test and “engineered uncertainty” verdict while preserving the Lucky Dragon, 456-test Kazakhstan and UNGA Resolution 79/60 evidence base.
 - Publicly unveiled Japan’s Three-Key Standard—source record package, affected-State counter-assessment and protected independent review—while preserving consent, weapon-design secrecy and liability neutrality.
-- Added four full-volume peaks, timing map, fact audit, Point-of-Order firewall, pronunciation and six primary/high-quality sources; no United States or France accusation appears in the speech.
+- Added four full-volume peaks, revised rapid timing map, fact audit, engineered-uncertainty Point-of-Order defence, pronunciation and six primary/high-quality sources; no United States or France accusation appears in the speech.
