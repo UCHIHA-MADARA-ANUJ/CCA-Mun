@@ -142,3 +142,10 @@
 - Corrected or removed vulnerable claims: UN chamber age, unqualified casualty count, “fewer survivors than ever,” “no negotiations,” one-wire catastrophe language, fastest-since-Cold-War comparison, unqualified arsenal total, DPRK “irreversible” constitutional wording, annual arsenal-growth claim, formal world-promise claim and future real-UN-meeting reference.
 - Verified every factual line against Hiroshima and Nagasaki municipal records, current hibakusha data, UN New START and NPT records, IAEA Update 360, SIPRI Yearbook 2026, Japan MOFA, UNGA voting records and official Lucky Dragon exhibits.
 - Added a full line-by-line fact audit, point-of-order firewall, pronunciation card and exact 90-second delivery map.
+
+## 2026-08-21 — Full GSL country-by-country POI arsenal
+- Created `GSL/GSL_POI_COUNTRY_PACK.md` covering all 34 other named delegations plus Japan’s incoming-POI defence.
+- Built one primary POI, one backup, the strategic purpose and a fact-lock for every country on the supplied 35-portfolio roster.
+- Separated friendly lobs, bridge tests, accountability traps and counter-only questions so VANGUARD members are never accidentally attacked in public.
+- Added a top-12 priority queue, live speech-trigger map, full-marks POI doctrine, never-use list and source ledger.
+- Updated Japan’s plutonium defence to the current official 44.4-tonne end-2024 figure and explicitly retired the stale 45.1-tonne figure in older notes.
