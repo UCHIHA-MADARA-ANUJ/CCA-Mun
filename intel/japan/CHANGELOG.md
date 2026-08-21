@@ -113,3 +113,76 @@
 - Research verdict: GSL guides (Oxford Global, Delhi MUN, WiseMee CIA/echo method) confirm GSL = national position + solutions + invitation; named-bloc parade is not doctrine. v4 cuts bloc-name/member-count from podium; replaces with "open to every flag" instruments line + universal invite close ("Whoever you are — build with us"). Bloc reveal deferred to unmoderated caucus. All verified weapons retained.
 
 2026-08-13 — GSL_FINAL v5 (same-file edit, per user order): TOTAL BLOC SILENCE doctrine (bloc invisible until draft-resolution sponsor list; no name/counts/hints on podium, mod caucus, POI, corridor; "open to every flag"/"build with us"/caucus-reveal lines purged). Aggression pass: four no-vote flags now NAMED aloud (France, Russia, UK, DPRK) + "Now everyone does"; Washington/Moscow named on dead treaty; "Beijing publishes no count"; new knife "has flown missiles over my country" (DPRK sits in committee); opener "Japan did not come here to be polite"; close changed to challenge "Or stand now — and explain why you won't". Full emoji purge from speech file. 253 spoken words = 89s @170wpm; marked cuts to 84s. All claims receipt-locked (09 evidence log E31–E38).
+
+## 2026-08-20 — MOD 1 primary-source rebuild (current session)
+- Replaced the inherited MOD 1 narrative with a 170-word, 60-second, primary-source version; removed the difficult place name from spoken text and added a pronunciation card.
+- Removed the invented “mother on Runit Island” hook (Runit is officially off-limits), unsupported “THE TOMB IS CRACKING” claim, uncertain “120,000 tons” conversion, false “250 times Hiroshima” yield comparison, and the Marshall-Islands/Japan conflation.
+- Rebuilt around official GAO/DOE/IAEA/CTBTO records: 67 Marshall Islands tests; 456 Semipalatinsk tests including 116 above ground; >100,000 cubic yards at Runit; groundwater–lagoon communication; indefinite Runit quarantine; 23 Lucky Dragon crew irradiated outside the declared danger zone; Kuboyama death chronology.
+- Added line-by-line fact audit, point-of-order defence and primary-source ledger in `mod/mod1.md`.
+
+## 2026-08-20 — MOD 2 full research dossier (current session)
+- Created `research/MOD2_STANCE_MAP.md`; research only, no speech drafted.
+- Defined stockpile/inventory/deployed/retired/fissile-material categories and identified the category-confusion argument.
+- Mapped the disclosure record of all eight nuclear-armed delegations present (US, Russia, China, France, UK, India, Israel, DPRK) using SIPRI 2026 plus official government/NPT sources.
+- Built stance profiles for all 35 named portfolios; flagged that the user states N=36 but supplied only 35 country names.
+- Added Japan plutonium vulnerability/defence, ecological relevance, legal limits, disclosure ladder, opponent best cases, attack-defence matrix and safe/unsafe claim bank.
+- Key live developments captured: New START expired 5 Feb 2026; France increased arsenal and ended numerical disclosure on 2 Mar 2026; UK retains 260 ceiling but no operational counts; China’s 2025 white paper prioritizes intention/doctrine transparency.
+
+## 2026-08-21 — MOD 2 final speech
+- Created canonical `mod/mod2.md`: 161-word, 60-second combined opacity/ecology indictment.
+- Direct targets are receipt-locked: Russia’s New START suspension and ended exchanges; France’s arsenal increase and numerical-disclosure reversal; the UK’s ceiling without operational categories; China’s absent official warhead count.
+- Connected hidden arsenals to fissile production, waste, contaminated soil/groundwater and the GAO half-trillion-dollar US cleanup record.
+- Added a national-security carve-out, standardized annual aggregate-reporting demand and pre-emptive defence of Japan’s 44.4-tonne separated civilian-plutonium declaration.
+- Added delivery timing, line-by-line fact audit, point-of-order defences, pronunciation and primary-source ledger.
+
+## 2026-08-21 — GSL zero-vulnerability rebuild
+- Replaced the stale `SPEECHES/GSL_FINAL.md` with the sole canonical file `GSL/GSL_FINAL.md`.
+- Removed the formal greeting entirely per delegate instruction.
+- Rebuilt the speech to 222 words for the official 90-second limit, including deliberate-pause time.
+- Corrected or removed vulnerable claims: UN chamber age, unqualified casualty count, “fewer survivors than ever,” “no negotiations,” one-wire catastrophe language, fastest-since-Cold-War comparison, unqualified arsenal total, DPRK “irreversible” constitutional wording, annual arsenal-growth claim, formal world-promise claim and future real-UN-meeting reference.
+- Verified every factual line against Hiroshima and Nagasaki municipal records, current hibakusha data, UN New START and NPT records, IAEA Update 360, SIPRI Yearbook 2026, Japan MOFA, UNGA voting records and official Lucky Dragon exhibits.
+- Added a full line-by-line fact audit, point-of-order firewall, pronunciation card and exact 90-second delivery map.
+
+## 2026-08-21 — Full GSL country-by-country POI arsenal
+- Created `GSL/GSL_POI_COUNTRY_PACK.md` covering all 34 other named delegations plus Japan’s incoming-POI defence.
+- Expanded the arsenal to exactly five labeled POIs for each of the 34 other countries: 170 country-specific questions, plus conditional follow-ups and Japan counters.
+- Upgraded all 170 into long-form written POIs of 30–48 words: each preserves a sharp first-sentence trap and adds a demand for an operative commitment, responsible institution, implementation procedure, reporting interval or workable alternative.
+- Separated friendly lobs, bridge tests, accountability traps and counter-only questions so VANGUARD members are never accidentally attacked in public.
+- Added a top-12 priority queue, live speech-trigger map, full-marks POI doctrine, never-use list and source ledger.
+- Updated Japan’s plutonium defence to the current official 44.4-tonne end-2024 figure and explicitly retired the stale 45.1-tonne figure in older notes.
+
+## 2026-08-21 — MOD 1 country-by-country written POI arsenal
+- Created `mod/mod1_poi_country_pack.md` for the rephrased MOD 1 topic on transboundary contamination arising from past nuclear-testing and production legacies.
+- Built exactly five long-form written POIs for each of the 34 other named delegations: 170 questions total, plus Japan’s incoming-POI defence.
+- Restricted every question to MOD 1 scope; Palomares, reactor accidents, routine civilian releases and stockpile-count debate are deliberately excluded or quarantined.
+- Added country-specific fact locks, VANGUARD-friendly lobs, major-testing-State accountability traps, a top-10 deployment queue, never-use warnings and a 17-source ledger.
+
+## 2026-08-21 — Substantive Chit 1 online flagship PDF
+- Created `substantive_chits/SUBSTANTIVE_CHIT_1.md` and a redesigned four-page A4 PDF at `substantive_chits/SUBSTANTIVE_CHIT_1.pdf`.
+- Built the submission around a consent-based MONITOR–RESPOND–REMEDIATE mechanism, using the Marshall Islands/Lucky Dragon record, Kazakhstan testing evidence and the US production-cleanup liability.
+- Added three draft-ready UNGA recommendations, a five-actor implementation map, evidence-to-action control logic, explicit mandate safeguards, seven clickable primary/high-quality sources and precision declarations.
+- Rebuilt the PDF for visibility with embedded DejaVu fonts, larger body and source text, a dedicated implementation page, high-contrast safeguard panels, non-overlapping footer ornament and four-page navigation.
+- Added reproducible ReportLab generator `scripts/build_substantive_chit1_pdf.py`; validated four pages, searchable text, active PDF links and all load-bearing factual markers.
+- Visibility hotfix: replaced the navy-on-navy metadata-header text with an explicit embedded-font white header style; re-rendered and visually verified the Delegation, Committee and Moderated-Caucus Focus labels at high resolution.
+
+## 2026-08-21 — Substantive Chit 2 online flagship PDF
+- Created `substantive_chits/SUBSTANTIVE_CHIT_2.md` and a decorated five-page A4 PDF at `substantive_chits/SUBSTANTIVE_CHIT_2.pdf` for MOD 2 stockpile transparency.
+- Built a REPORT–PROTECT–ACCOUNT framework covering comparable force categories, three disclosure-security tiers, interactive review, a parallel route for non-NPT possessors and an Environmental Accountability Annex.
+- Added three draft-ready UNGA recommendations, category-control logic, a five-actor responsibility map, Japan’s 44.4-tonne civilian-plutonium accountability declaration, six scope safeguards and eleven clickable official/high-quality sources.
+- Reused the visibility-audited Japanese navy/crimson/gold design with embedded DejaVu fonts, white metadata headers, readable sources, five-page navigation and non-overlapping footer ornament.
+- Added reproducible generator `scripts/build_substantive_chit2_pdf.py`; validated five pages, searchable text, active links and all factual precision declarations.
+
+## 2026-08-21 — Substantive Chit 3 handwritten SHIELD package
+- Created `substantive_chits/SUBSTANTIVE_CHIT_3.md` and a decorated four-page reference PDF at `substantive_chits/SUBSTANTIVE_CHIT_3.pdf` for MOD 3 on balancing national security and environmental protection.
+- Pages 1–2 contain an exact 440-word handwritten submission; page 3 contains supporting lifecycle architecture and live-customization guidance; page 4 contains six clickable sources and precision declarations.
+- Built the NARROW SHIELD Standard: specific security harm, transboundary-harm assessment, least-restrictive disclosure, preserved emergency warning, lifecycle reporting and independent review.
+- Anchored the balance in the ICJ Nuclear Weapons Advisory Opinion, ILC/UN environmental-conflict principles, IAEA Seven Pillars/Five Principles, Early Notification Convention and UK–Norway information-barrier research.
+- Added reproducible generator `scripts/build_substantive_chit3_pdf.py`; retained the visibility-audited embedded fonts, white metadata headers, readable sources and non-overlapping decoration.
+
+## 2026-08-21 — Dual MOD 2 peak-research package
+- Created `research/MOD2A_NUCLEAR_TREATY_GAPS_DEEP_DIVE.md`: a whole-regime audit covering the NPT, safeguards, Partial Test Ban Treaty, CTBT, TPNW, New START, FMCT absence, military-waste exclusion, early notification, civil liability, NWFZ protocols and other geographic/security instruments.
+- Created `research/MOD2B_SOURCE_STATE_EVIDENCE_CONTROL_DEEP_DIVE.md`: definitions, legal base, eight evidence-control case studies, Three-Key Legacy Evidence Standard, protected classification tiers, liability-neutral cooperation, 35-country stance map, aggressive points, POIs and counter-defences.
+- Created `research/MOD2_DUAL_TOPIC_WAR_PLAN.md`: motion/voting execution, 11 distinct bloc microphone lanes, hidden Japan advantage, fallback plan, 75-second research architecture and Point-of-Order shields.
+- Locked the strategically optimal interpretations: weapons-production legacies only; successor archive custodians included without automatic liability; full nuclear-governance architecture for the treaty-gap fallback.
+- Preserved the user’s order not to draft speeches; all three files are explicitly marked research-only.
+- Marked the earlier stockpile-disclosure stance map as superseded topic research while retaining its evidence bank.
