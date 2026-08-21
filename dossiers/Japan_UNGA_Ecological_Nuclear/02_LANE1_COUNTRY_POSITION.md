@@ -79,12 +79,12 @@
 
 ## 1.6 Verification Queue (facts still to confirm — do NOT use until verified)
 
+> **Status 15 Aug 2026:** items 1–2 below are CLOSED by the verification wave (full ledger: `intel/japan/22_verification_report_2026-08-15.md`). Japan **voted YES** on the Scientific Panel resolution (**A/RES/79/238**, Dec 2024; Dr. Tomonaga appointed to the panel Jul 2025). Current flagship resolution: **A/C.1/80/L.4 "Steps to building a common roadmap…"** — FC **145-5-28** (31 Oct 2025), plenary **147-5-26** (1 Dec 2025), US abstained.
+
 | Item | Why it matters | Where to check |
 |---|---|---|
-| Japan's vote on the Dec 2024 Scientific Panel resolution (136-3-29) | If Japan voted yes, it can boast; if abstained, opponents may probe | UN Digital Library voting record A/RES/79/... (session 79) |
-| Current UNGA "United action" resolution symbol (79th session) | Cite precisely in the resolution preamble | UN Digital Library, search "United action with renewed determination" |
-| Japan's exact UN scale of assessments percentage for 2026 | Precise budget-contribution claims | UN Committee on Contributions / Fifth Committee |
-| Whether Japan attended the TPNW 3rd Meeting of States Parties (2025) | ICANW says no; verify before claiming | ICANW/UN meetings records |
+| Japan's exact UN scale of assessments percentage for 2026 | Precise budget-contribution claims | UN Committee on Contributions / Fifth Committee (safe live line: "among the largest three assessed contributors") |
+| TPNW 3rd MSP attendance | CLOSED: Japan did not attend even as observer (Ban Monitor); Nihon Hidankyo criticized the decision | ICANW/UN meetings records |
 
 ---
 
