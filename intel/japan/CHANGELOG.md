@@ -158,7 +158,8 @@
 - Added country-specific fact locks, VANGUARD-friendly lobs, major-testing-State accountability traps, a top-10 deployment queue, never-use warnings and a 17-source ledger.
 
 ## 2026-08-21 — Substantive Chit 1 online flagship PDF
-- Created `substantive_chits/SUBSTANTIVE_CHIT_1.md` and a decorated three-page A4 PDF at `substantive_chits/SUBSTANTIVE_CHIT_1.pdf`.
+- Created `substantive_chits/SUBSTANTIVE_CHIT_1.md` and a redesigned four-page A4 PDF at `substantive_chits/SUBSTANTIVE_CHIT_1.pdf`.
 - Built the submission around a consent-based MONITOR–RESPOND–REMEDIATE mechanism, using the Marshall Islands/Lucky Dragon record, Kazakhstan testing evidence and the US production-cleanup liability.
-- Added three draft-ready UNGA recommendations, explicit mandate and legal safeguards, seven clickable primary/high-quality sources and precision declarations preventing overstatement.
-- Added reproducible ReportLab generator `scripts/build_substantive_chit1_pdf.py`; validated three pages, searchable text, nine active PDF links and all load-bearing factual markers.
+- Added three draft-ready UNGA recommendations, a five-actor implementation map, evidence-to-action control logic, explicit mandate safeguards, seven clickable primary/high-quality sources and precision declarations.
+- Rebuilt the PDF for visibility with embedded DejaVu fonts, larger body and source text, a dedicated implementation page, high-contrast safeguard panels, non-overlapping footer ornament and four-page navigation.
+- Added reproducible ReportLab generator `scripts/build_substantive_chit1_pdf.py`; validated four pages, searchable text, active PDF links and all load-bearing factual markers.

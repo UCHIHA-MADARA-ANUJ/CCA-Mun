@@ -8,7 +8,8 @@ from reportlab.lib.enums import TA_CENTER, TA_JUSTIFY, TA_LEFT
 from reportlab.lib.pagesizes import A4
 from reportlab.lib.styles import ParagraphStyle, getSampleStyleSheet
 from reportlab.lib.units import mm
-from reportlab.pdfbase.pdfmetrics import stringWidth
+from reportlab.pdfbase import pdfmetrics
+from reportlab.pdfbase.ttfonts import TTFont
 from reportlab.platypus import (
     BaseDocTemplate,
     Frame,
@@ -24,7 +25,13 @@ from reportlab.platypus import (
 ROOT = Path(__file__).resolve().parents[1]
 OUTPUT = ROOT / "substantive_chits" / "SUBSTANTIVE_CHIT_1.pdf"
 
+# Embed a Unicode-capable font so bullets, dashes and typographic punctuation
+# remain visible in every PDF viewer.
+pdfmetrics.registerFont(TTFont("DejaVuSans", "/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf"))
+pdfmetrics.registerFont(TTFont("DejaVuSans-Bold", "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf"))
+
 PAGE_W, PAGE_H = A4
+TOTAL_PAGES = 4
 NAVY = colors.HexColor("#0B1F3A")
 CRIMSON = colors.HexColor("#BC002D")
 GOLD = colors.HexColor("#C6A15B")
@@ -39,7 +46,7 @@ WHITE = colors.white
 LEFT = 18 * mm
 RIGHT = 18 * mm
 TOP = 30 * mm
-BOTTOM = 18 * mm
+BOTTOM = 21 * mm
 CONTENT_W = PAGE_W - LEFT - RIGHT
 
 styles = getSampleStyleSheet()
@@ -47,9 +54,9 @@ styles = getSampleStyleSheet()
 BODY = ParagraphStyle(
     "Body",
     parent=styles["BodyText"],
-    fontName="Helvetica",
-    fontSize=9.25,
-    leading=12.2,
+    fontName="DejaVuSans",
+    fontSize=9.7,
+    leading=12.9,
     textColor=INK,
     alignment=TA_JUSTIFY,
     spaceAfter=5.5,
@@ -59,14 +66,14 @@ BODY = ParagraphStyle(
 BODY_SMALL = ParagraphStyle(
     "BodySmall",
     parent=BODY,
-    fontSize=8.5,
-    leading=11.0,
+    fontSize=8.9,
+    leading=11.5,
     spaceAfter=4,
 )
 TITLE = ParagraphStyle(
     "Title",
     parent=styles["Title"],
-    fontName="Helvetica-Bold",
+    fontName="DejaVuSans-Bold",
     fontSize=21,
     leading=23,
     textColor=NAVY,
@@ -76,7 +83,7 @@ TITLE = ParagraphStyle(
 SUBTITLE = ParagraphStyle(
     "Subtitle",
     parent=BODY,
-    fontName="Helvetica-Bold",
+    fontName="DejaVuSans-Bold",
     fontSize=10.3,
     leading=13,
     textColor=CRIMSON,
@@ -86,7 +93,7 @@ SUBTITLE = ParagraphStyle(
 KICKER = ParagraphStyle(
     "Kicker",
     parent=BODY,
-    fontName="Helvetica-Bold",
+    fontName="DejaVuSans-Bold",
     fontSize=7.5,
     leading=9,
     textColor=CRIMSON,
@@ -96,7 +103,7 @@ KICKER = ParagraphStyle(
 SECTION = ParagraphStyle(
     "Section",
     parent=BODY,
-    fontName="Helvetica-Bold",
+    fontName="DejaVuSans-Bold",
     fontSize=11.4,
     leading=13,
     textColor=NAVY,
@@ -106,7 +113,7 @@ SECTION = ParagraphStyle(
 LAYER_TITLE = ParagraphStyle(
     "LayerTitle",
     parent=BODY,
-    fontName="Helvetica-Bold",
+    fontName="DejaVuSans-Bold",
     fontSize=9.7,
     leading=11,
     textColor=WHITE,
@@ -132,23 +139,23 @@ BULLET = ParagraphStyle(
 SOURCE = ParagraphStyle(
     "Source",
     parent=BODY_SMALL,
-    fontSize=7.55,
-    leading=9.65,
+    fontSize=8.05,
+    leading=10.3,
     spaceAfter=2,
     alignment=TA_LEFT,
 )
 SOURCE_LINK = ParagraphStyle(
     "SourceLink",
     parent=SOURCE,
-    fontSize=6.8,
-    leading=8.3,
+    fontSize=7.1,
+    leading=8.8,
     textColor=colors.HexColor("#31577C"),
 )
 CENTER_SMALL = ParagraphStyle(
     "CenterSmall",
     parent=BODY_SMALL,
     alignment=TA_CENTER,
-    fontName="Helvetica-Bold",
+    fontName="DejaVuSans-Bold",
     fontSize=7.2,
     leading=8.5,
 )
@@ -162,7 +169,7 @@ SHIELD = ParagraphStyle(
 FACT_NUMBER = ParagraphStyle(
     "FactNumber",
     parent=CENTER_SMALL,
-    fontName="Helvetica-Bold",
+    fontName="DejaVuSans-Bold",
     fontSize=16,
     leading=17,
     textColor=CRIMSON,
@@ -175,7 +182,7 @@ FACT_LABEL = ParagraphStyle(
 QUOTE = ParagraphStyle(
     "Quote",
     parent=BODY,
-    fontName="Helvetica-Bold",
+    fontName="DejaVuSans-Bold",
     fontSize=11,
     leading=14,
     textColor=NAVY,
@@ -193,8 +200,8 @@ def draw_wave_motif(canvas, y, color, alpha=0.22):
         pass
     canvas.setStrokeColor(color)
     canvas.setLineWidth(0.45)
-    radius = 12 * mm
-    step = 12 * mm
+    radius = 8 * mm
+    step = 8 * mm
     x = -radius
     while x < PAGE_W + radius:
         canvas.arc(x, y - radius / 2, x + 2 * radius, y + 1.5 * radius, 0, 180)
@@ -223,9 +230,9 @@ def page_decoration(canvas, doc):
     canvas.setFillColor(CRIMSON)
     canvas.circle(PAGE_W - 22 * mm, PAGE_H - 16 * mm, 4.4 * mm, fill=1, stroke=0)
     canvas.setFillColor(WHITE)
-    canvas.setFont("Helvetica-Bold", 7.3)
+    canvas.setFont("DejaVuSans-Bold", 7.3)
     canvas.drawString(16 * mm, PAGE_H - 15.1 * mm, "DELEGATION OF JAPAN")
-    canvas.setFont("Helvetica", 6.7)
+    canvas.setFont("DejaVuSans", 6.7)
     canvas.drawString(16 * mm, PAGE_H - 19.2 * mm, "UNITED NATIONS GENERAL ASSEMBLY  |  CCA MUN '26")
 
     # Thin gold rule below masthead.
@@ -234,12 +241,12 @@ def page_decoration(canvas, doc):
     canvas.line(12 * mm, PAGE_H - 25.3 * mm, PAGE_W - 12 * mm, PAGE_H - 25.3 * mm)
 
     # Subtle wave motif and footer.
-    draw_wave_motif(canvas, 12.2 * mm, NAVY, 0.15)
+    draw_wave_motif(canvas, 9.4 * mm, NAVY, 0.11)
     canvas.setFillColor(NAVY)
-    canvas.setFont("Helvetica-Bold", 6.6)
+    canvas.setFont("DejaVuSans-Bold", 6.6)
     footer = "SUBSTANTIVE CHIT 01  |  MONITOR • RESPOND • REMEDIATE"
     canvas.drawString(16 * mm, 12.7 * mm, footer)
-    page_text = f"PAGE {page} / 3"
+    page_text = f"PAGE {page} / {TOTAL_PAGES}"
     canvas.drawRightString(PAGE_W - 16 * mm, 12.7 * mm, page_text)
     canvas.restoreState()
 
@@ -276,7 +283,7 @@ def P(text, style=BODY):
 
 
 def thesis_box(text):
-    table = Table([[P(text, ParagraphStyle("Thesis", parent=BODY, fontName="Helvetica-Bold", fontSize=10.1, leading=13, textColor=NAVY, spaceAfter=0))]], colWidths=[CONTENT_W])
+    table = Table([[P(text, ParagraphStyle("Thesis", parent=BODY, fontName="DejaVuSans-Bold", fontSize=10.1, leading=13, textColor=NAVY, spaceAfter=0))]], colWidths=[CONTENT_W])
     table.setStyle(
         TableStyle(
             [
@@ -376,7 +383,7 @@ def numbered_recommendation(number, text):
 
 
 def source_row(number, title, claim, url):
-    num = P(f"[{number}]", ParagraphStyle("SourceNum", parent=SOURCE, fontName="Helvetica-Bold", fontSize=8.2, textColor=CRIMSON))
+    num = P(f"[{number}]", ParagraphStyle("SourceNum", parent=SOURCE, fontName="DejaVuSans-Bold", fontSize=8.2, textColor=CRIMSON))
     detail = P(f"<b>{title}</b><br/>{claim}", SOURCE)
     link = P(f'<link href="{url}" color="#31577C"><u>{url}</u></link>', SOURCE_LINK)
     return [num, detail, link]
@@ -496,25 +503,107 @@ def build_story():
         )
     )
 
-    story += [P("IV  |  DRAFT-READY COMMITTEE RECOMMENDATIONS", SECTION)]
+    story += [P("EVIDENCE-TO-ACTION CONTROL LOGIC", SECTION)]
+    control_header = [
+        P("FAILURE MODE", ParagraphStyle("CtrlH1", parent=CENTER_SMALL, textColor=WHITE)),
+        P("WHAT GOES WRONG", ParagraphStyle("CtrlH2", parent=CENTER_SMALL, textColor=WHITE)),
+        P("JAPAN’S CONTROL", ParagraphStyle("CtrlH3", parent=CENTER_SMALL, textColor=WHITE)),
+    ]
+    control_rows = [
+        control_header,
+        [P("FRAGMENTED RECORDS", CARD_BODY), P("Incompatible baselines and hidden uncertainty", CARD_BODY), P("MONITOR: common categories + uncertainty labels", CARD_BODY)],
+        [P("CONTESTED PATHWAYS", CARD_BODY), P("Warnings delayed by political attribution disputes", CARD_BODY), P("RESPOND: consent-based review + notification", CARD_BODY)],
+        [P("UNMEASURED CLEANUP", CARD_BODY), P("Money announced without proof of environmental results", CARD_BODY), P("REMEDIATE: public indicators + community review", CARD_BODY)],
+    ]
+    control_table = Table(control_rows, colWidths=[CONTENT_W * 0.25, CONTENT_W * 0.36, CONTENT_W * 0.39])
+    control_table.setStyle(
+        TableStyle(
+            [
+                ("BACKGROUND", (0, 0), (-1, 0), NAVY),
+                ("ROWBACKGROUNDS", (0, 1), (-1, -1), [WHITE, MIST]),
+                ("BOX", (0, 0), (-1, -1), 0.6, colors.HexColor("#B9C4CF")),
+                ("INNERGRID", (0, 0), (-1, -1), 0.3, colors.HexColor("#D1D7DD")),
+                ("VALIGN", (0, 0), (-1, -1), "MIDDLE"),
+                ("LEFTPADDING", (0, 0), (-1, -1), 6),
+                ("RIGHTPADDING", (0, 0), (-1, -1), 6),
+                ("TOPPADDING", (0, 0), (-1, -1), 5),
+                ("BOTTOMPADDING", (0, 0), (-1, -1), 5),
+            ]
+        )
+    )
     story += [
+        control_table,
+        Spacer(1, 7),
+        thesis_box("<font color='#0B1F3A'>NO LAYER SUBSTITUTES FOR ANOTHER.</font><br/>Evidence without response does not protect neighbours; remediation without measurement cannot prove success."),
+    ]
+
+    # PAGE 3 — operative translation and implementation map.
+    story += [
+        PageBreak(),
+        P("FROM MECHANISM TO TEXT", KICKER),
+        P("IV  |  DRAFT-READY<br/>COMMITTEE RECOMMENDATIONS", TITLE),
+        P("Three recommendations the General Assembly can actually adopt", SUBTITLE),
         numbered_recommendation(
             1,
             "<b>Requests</b> the Secretary-General, in consultation with relevant organizations acting within their mandates, to develop a non-binding Nuclear Legacy Environmental Reporting Template and public repository;",
         ),
-        Spacer(1, 4),
+        Spacer(1, 6),
         numbered_recommendation(
             2,
             "<b>Invites</b> affected States, by consent, to request independent technical review and encourages source States to provide declassified test, plume, dose and production records relevant to environmental assessment;",
         ),
-        Spacer(1, 4),
+        Spacer(1, 6),
         numbered_recommendation(
             3,
             "<b>Encourages</b> voluntary technical and financial assistance for monitoring, victim support and remediation, with community participation, transparent expenditure and periodic outcome reporting.",
         ),
-        Spacer(1, 7),
-        P("SCOPE + LEGAL SAFEGUARDS", SECTION),
+        Spacer(1, 9),
+        P("V  |  IMPLEMENTATION + RESPONSIBILITY MAP", SECTION),
     ]
+
+    role_rows = [
+        [P("SECRETARY-GENERAL / UNODA", ParagraphStyle("RoleHead1", parent=CARD_BODY, fontName="DejaVuSans-Bold", textColor=NAVY)), P("Consult on the template; maintain the repository; compile a technical roster; summarize participation without grading political positions.", CARD_BODY)],
+        [P("AFFECTED TERRITORIAL STATE", ParagraphStyle("RoleHead2", parent=CARD_BODY, fontName="DejaVuSans-Bold", textColor=NAVY)), P("Controls consent for site access; requests review; nominates community representatives; approves publication of review findings.", CARD_BODY)],
+        [P("SOURCE STATE", ParagraphStyle("RoleHead3", parent=CARD_BODY, fontName="DejaVuSans-Bold", textColor=NAVY)), P("Supplies declassified records, methodology, uncertainty ranges and relevant technical experts.", CARD_BODY)],
+        [P("TECHNICAL INSTITUTIONS", ParagraphStyle("RoleHead4", parent=CARD_BODY, fontName="DejaVuSans-Bold", textColor=NAVY)), P("Contribute only within existing mandates; distinguish measurement, modelling and unresolved uncertainty.", CARD_BODY)],
+        [P("DONORS + COMMUNITIES", ParagraphStyle("RoleHead5", parent=CARD_BODY, fontName="DejaVuSans-Bold", textColor=NAVY)), P("Provide voluntary finance, laboratories, training and local knowledge without controlling scientific conclusions.", CARD_BODY)],
+    ]
+    role_table = Table(role_rows, colWidths=[50 * mm, CONTENT_W - 50 * mm])
+    role_table.setStyle(
+        TableStyle(
+            [
+                ("ROWBACKGROUNDS", (0, 0), (-1, -1), [WHITE, MIST]),
+                ("BOX", (0, 0), (-1, -1), 0.6, colors.HexColor("#BAC4CE")),
+                ("INNERGRID", (0, 0), (-1, -1), 0.3, colors.HexColor("#D1D7DD")),
+                ("VALIGN", (0, 0), (-1, -1), "TOP"),
+                ("LEFTPADDING", (0, 0), (-1, -1), 7),
+                ("RIGHTPADDING", (0, 0), (-1, -1), 7),
+                ("TOPPADDING", (0, 0), (-1, -1), 5),
+                ("BOTTOMPADDING", (0, 0), (-1, -1), 5),
+            ]
+        )
+    )
+    story += [role_table, Spacer(1, 8)]
+
+    sequence = ["COMMON TEMPLATE", "VOLUNTARY REPORT", "STATE REQUEST", "TECHNICAL REVIEW", "REMEDIATION PLAN", "PUBLIC OUTCOMES"]
+    seq_cells = []
+    for idx, label in enumerate(sequence):
+        arrow = "  →" if idx < len(sequence) - 1 else ""
+        seq_cells.append(P(label + arrow, ParagraphStyle(f"Seq{idx}", parent=CENTER_SMALL, fontSize=6.7, leading=8.1, textColor=WHITE)))
+    seq_table = Table([seq_cells], colWidths=[CONTENT_W / 6] * 6)
+    seq_table.setStyle(
+        TableStyle(
+            [
+                ("BACKGROUND", (0, 0), (-1, -1), NAVY),
+                ("BOX", (0, 0), (-1, -1), 0.6, GOLD),
+                ("INNERGRID", (0, 0), (-1, -1), 0.25, colors.HexColor("#4B6279")),
+                ("VALIGN", (0, 0), (-1, -1), "MIDDLE"),
+                ("TOPPADDING", (0, 0), (-1, -1), 7),
+                ("BOTTOMPADDING", (0, 0), (-1, -1), 7),
+            ]
+        )
+    )
+    story += [seq_table, Spacer(1, 9), P("SCOPE + LEGAL SAFEGUARDS", SECTION)]
 
     shields = [
         "NO compulsory inspections",
@@ -550,7 +639,7 @@ def build_story():
         PageBreak(),
     ]
 
-    # PAGE 3
+    # PAGE 4
     story += [
         P("EVIDENCE LEDGER", KICKER),
         P("SOURCES + PRECISION DECLARATIONS", TITLE),
@@ -633,8 +722,6 @@ def build_story():
         thesis_box(
             "<font color='#0B1F3A'>THE STANDARD JAPAN ASKS THE COMMITTEE TO ADOPT:</font><br/><font color='#BC002D'>Disclose the record. Share the warning. Measure the cleanup.</font>"
         ),
-        Spacer(1, 8),
-        P("Prepared for substantive evaluation • Delegation of Japan • CCA MUN ’26", CENTER_SMALL),
     ]
     return story
 

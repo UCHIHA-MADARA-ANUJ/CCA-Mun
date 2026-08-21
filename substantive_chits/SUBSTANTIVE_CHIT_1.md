@@ -57,11 +57,29 @@ When newly identified legacy contamination presents a plausible cross-border pat
 
 Japan proposes a voluntary technical and financial assistance window prioritizing affected States with limited laboratory and remediation capacity. Projects should be community-informed, risk-based and publicly evaluated through indicators such as access restrictions reduced, contaminated material secured, water or soil trends, health-support coverage and completion against published timelines. Assistance must not require an affected State to surrender its legal position.
 
+### Evidence-to-action control logic
+
+- **Fragmented records** produce incompatible baselines; **MONITOR** creates common categories and labels uncertainty.
+- **Contested pathways** delay warnings; **RESPOND** creates consent-based review and notification without predetermining liability.
+- **Unmeasured cleanup** turns expenditure into a substitute for outcomes; **REMEDIATE** requires published indicators and community participation.
+
+No layer substitutes for another: evidence without response does not protect neighbours, and remediation without measurement cannot prove success.
+
 ## IV. Draft-ready committee recommendations
 
 1. **Requests** the Secretary-General, in consultation with relevant international organizations acting within their mandates, to develop a non-binding Nuclear Legacy Environmental Reporting Template and public repository;
 2. **Invites** affected States, by consent, to request independent technical review and encourages source States to provide declassified test, plume, dose and production records relevant to environmental assessment;
 3. **Encourages** voluntary technical and financial assistance for monitoring, victim support and remediation, with affected-community participation, transparent expenditure and periodic outcome reporting.
+
+## V. Implementation and responsibility map
+
+- **Secretary-General / UNODA:** consult on the template, maintain the public repository, compile a technical roster and summarize participation without grading political positions.
+- **Affected territorial State:** controls consent for site access, requests review, nominates community representatives and approves publication of review findings.
+- **Source State:** supplies declassified records, methodology, uncertainty ranges and relevant technical experts.
+- **Technical institutions:** contribute only within existing mandates and clearly distinguish measurement, modelling and unresolved uncertainty.
+- **Donors and partners:** provide voluntary finance, laboratories, training and remediation expertise without controlling scientific conclusions.
+
+The sequence is practical: **common template → voluntary national report → affected-State request → consent-based technical review → remediation plan → periodic public outcomes**.
 
 ## Scope safeguards
 
