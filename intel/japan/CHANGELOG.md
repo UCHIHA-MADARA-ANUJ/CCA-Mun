@@ -211,3 +211,9 @@
 - Built the speech around MONITOR–RESPOND–REMEDIATE, a precise plausible-pathway notification trigger, notification before attribution, request-based assistance, community participation and measurable outcomes.
 - Used only the two approved evidence anchors—337 planned IMS facilities at roughly 90% operation and Japan’s existing IAEA RANET capacity-building role—while avoiding mandate fabrication.
 - Added four full-volume peaks, exact timing map, fact audit, ten Point-of-Order defences, pronunciation and ten primary/high-quality sources.
+
+## 2026-08-21 — MOD 3 country-by-country solution POIs
+- Created `mod/mod3_poi_country_pack.md` with exactly five original POIs for each of the 34 other delegations: 170 solution questions plus Japan’s incoming-POI defence.
+- Removed the repeated templated suffixes used in earlier packs; every question now has a country-specific structure, factual premise and implementation target with zero “Japan asks the delegation” phrasing inside the questions.
+- Forced distinct solution choices across notification thresholds, institutional actors, data fields, protected information, regional laboratories, RANET capabilities, financing rules, community authority, false-alert safeguards and outcome metrics.
+- Added fact locks, strategic-use guidance, priority order, live-trigger questions, never-use warnings and a 15-source ledger.
