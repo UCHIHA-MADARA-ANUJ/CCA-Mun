@@ -163,3 +163,4 @@
 - Added three draft-ready UNGA recommendations, a five-actor implementation map, evidence-to-action control logic, explicit mandate safeguards, seven clickable primary/high-quality sources and precision declarations.
 - Rebuilt the PDF for visibility with embedded DejaVu fonts, larger body and source text, a dedicated implementation page, high-contrast safeguard panels, non-overlapping footer ornament and four-page navigation.
 - Added reproducible ReportLab generator `scripts/build_substantive_chit1_pdf.py`; validated four pages, searchable text, active PDF links and all load-bearing factual markers.
+- Visibility hotfix: replaced the navy-on-navy metadata-header text with an explicit embedded-font white header style; re-rendered and visually verified the Delegation, Committee and Moderated-Caucus Focus labels at high resolution.

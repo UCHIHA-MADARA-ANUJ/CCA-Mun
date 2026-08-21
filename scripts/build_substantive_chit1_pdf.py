@@ -159,6 +159,13 @@ CENTER_SMALL = ParagraphStyle(
     fontSize=7.2,
     leading=8.5,
 )
+META_HEADER = ParagraphStyle(
+    "MetaHeader",
+    parent=CENTER_SMALL,
+    textColor=WHITE,
+    fontSize=7.2,
+    leading=8.5,
+)
 SHIELD = ParagraphStyle(
     "Shield",
     parent=CENTER_SMALL,
@@ -401,7 +408,7 @@ def build_story():
 
     meta = Table(
         [
-            [P("DELEGATION", CENTER_SMALL), P("COMMITTEE", CENTER_SMALL), P("MODERATED-CAUCUS FOCUS", CENTER_SMALL)],
+            [P("DELEGATION", META_HEADER), P("COMMITTEE", META_HEADER), P("MODERATED-CAUCUS FOCUS", META_HEADER)],
             [P("JAPAN", ParagraphStyle("MetaBig", parent=FACT_LABEL, fontSize=9.2)), P("UN GENERAL ASSEMBLY", ParagraphStyle("MetaBig2", parent=FACT_LABEL, fontSize=9.2)), P("PAST TESTING + PRODUCTION LEGACIES", ParagraphStyle("MetaBig3", parent=FACT_LABEL, fontSize=8.4))],
         ],
         colWidths=[CONTENT_W * 0.22, CONTENT_W * 0.28, CONTENT_W * 0.50],
