@@ -258,7 +258,7 @@ Japan’s intervention should answer the room’s actual error, not deliver a me
 
 ## FINAL COMMAND DECISION
 
-**Motion for Topic B.**  
-**Prepare Lane 2 + Lane 4 for Topic A fallback.**  
-**Reveal the Three-Key Standard only after the motion passes.**  
+**Motion for Topic B.**
+**Prepare Lane 2 + Lane 4 for Topic A fallback.**
+**Reveal the Three-Key Standard only after the motion passes.**
 **Do not let eleven allies deliver one speech eleven times.**

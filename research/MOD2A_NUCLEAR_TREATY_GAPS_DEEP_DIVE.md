@@ -2,9 +2,9 @@
 
 ## Delegation of Japan · CCA MUN ’26 · UNGA
 
-**Original selected topic:** “Deliberation on existing loopholes in the nuclear treaties”  
-**Speaking time:** 75 seconds  
-**Status:** Research, attack map and solution architecture only — **NO SPEECH DRAFTED**  
+**Original selected topic:** “Deliberation on existing loopholes in the nuclear treaties”
+**Speaking time:** 75 seconds
+**Status:** Research, attack map and solution architecture only — **NO SPEECH DRAFTED**
 **Research position:** Use the whole nuclear-governance regime, but do not call every deliberate scope limit a “loophole.”
 
 ---
@@ -91,7 +91,7 @@ Article IX recognizes as nuclear-weapon States only States that manufactured and
 
 Article VI requires good-faith negotiations, but the treaty contains no numerical elimination deadline, common reduction schedule or automatic consequence for stalled progress.
 
-**Safe claim:** “No treaty deadline or enforcement schedule.”  
+**Safe claim:** “No treaty deadline or enforcement schedule.”
 **Unsafe claim:** “Article VI has no legal force.”
 
 ### Gap 4: Article X withdrawal

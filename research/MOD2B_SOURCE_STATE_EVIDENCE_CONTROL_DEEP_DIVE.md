@@ -2,10 +2,10 @@
 
 ## Delegation of Japan · CCA MUN ’26 · UNGA
 
-**Bloc replacement topic:**  
+**Bloc replacement topic:**
 **“Evaluating whether source States should retain exclusive authority to classify, disclose, and assess evidence of transboundary contamination from their nuclear-testing and production legacies”**
 
-**Speaking time:** 75 seconds  
+**Speaking time:** 75 seconds
 **Status:** Research, attack map, bloc differentiation and solution architecture only — **NO SPEECH DRAFTED**
 
 ---

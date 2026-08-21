@@ -2,9 +2,9 @@
 
 ## Delegation of Japan · CCA MUN ’26 · UNGA
 
-**Research date:** 20 August 2026  
-**Status:** Previous-topic research retained for evidence only — no speech drafted  
-**Superseded topic:** “Transparency and accountability in nuclear-weapons stockpile disclosure”  
+**Research date:** 20 August 2026
+**Status:** Previous-topic research retained for evidence only — no speech drafted
+**Superseded topic:** “Transparency and accountability in nuclear-weapons stockpile disclosure”
 **Current MOD 2 research:** see `MOD2A_NUCLEAR_TREATY_GAPS_DEEP_DIVE.md`, `MOD2B_SOURCE_STATE_EVIDENCE_CONTROL_DEEP_DIVE.md`, and `MOD2_DUAL_TOPIC_WAR_PLAN.md`
 
 ---
