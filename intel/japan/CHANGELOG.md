@@ -192,3 +192,9 @@
 - Rebuilt the opening around Japan’s verified Lucky Dragon exposure, then indicted the NPT Article III/IV gap, Joint Convention Article 3(3), CTBT non-entry into force/on-site-inspection gap and TPNW source-State participation gap.
 - Added a protected connective-layer solution, four deliberate full-volume detonations, a full-force timing map, line-by-line fact audit, Point-of-Order firewall, pronunciation and seven primary/high-quality sources.
 - Kept the United States and France unnamed, protected legitimate operational information and excluded routine safeguarded civilian activity from the military-waste claim.
+
+## 2026-08-21 — Source-State evidence-control MOD speech
+- Created `mod/mod2_source_state.md`: a separate 170-word, full-force 75-second speech for the bloc’s replacement MOD on exclusive source-State authority over nuclear-legacy evidence.
+- Built the indictment around Lucky Dragon, the 456-test Kazakhstan record, archival data for retrospective dosimetry and UNGA Resolution 79/60’s “as appropriate” information-sharing language.
+- Publicly unveiled Japan’s Three-Key Standard—source record package, affected-State counter-assessment and protected independent review—while preserving consent, weapon-design secrecy and liability neutrality.
+- Added four full-volume peaks, timing map, fact audit, Point-of-Order firewall, pronunciation and six primary/high-quality sources; no United States or France accusation appears in the speech.
