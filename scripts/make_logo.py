@@ -4,12 +4,14 @@ VANGUARD bloc logo — pure-Pillow rebuild of the hand-coded vector design.
 Roster v3 (11 members, confirmed 20 Aug 2026): Japan, Canada, India, Kazakhstan,
 Barbados, Philippines, Iran, Egypt, Switzerland, South Africa, Mexico.
   Japan (top, larger) · rest clockwise at 32.73° spacing · ring radius 430
-Output: assets/vanguard_logo_final.png"""
+Output: assets/vanguard_logo_final.png
+"""
 import math
 from PIL import Image, ImageDraw, ImageFont
 
 S = 2.0  # supersample (svg 1200 -> 2400 px)
 W, H = int(1200 * S), int(1200 * S)
+
 NAVY = (11, 30, 58)        # #0B1E3A
 GOLD = (201, 162, 39)      # #C9A227
 GLOBE = (232, 238, 247)    # #E8EEF7
@@ -29,14 +31,11 @@ CX, CY = s(600), s(600)
 d.ellipse([CX - s(560), CY - s(560), CX + s(560), CY + s(560)], fill=NAVY)
 d.ellipse([CX - s(560), CY - s(560), CX + s(560), CY + s(560)],
           outline=GOLD, width=max(1, int(s(6))))
-=======
 # inner navy disc + gold trim
->>>>>>> 1c79f21891be7c5397724507400d7c22beef5a93
 d.ellipse([CX - s(330), CY - s(330), CX + s(330), CY + s(330)], fill=NAVY)
 d.ellipse([CX - s(330), CY - s(330), CX + s(330), CY + s(330)],
           outline=GOLD, width=max(1, int(s(4))))
 
-<<<<<<< HEAD
 # ---- badge machinery ----
 def badge(cx, cy, r, draw_fn):
     rad = int(s(r))
@@ -51,7 +50,8 @@ def badge(cx, cy, r, draw_fn):
 def bar(ld, r, color, x0, y0, x1, y1):
     ld.rectangle([x0, y0, x1, y1], fill=color)
 
-# ---- flags ----def japan(ld, r):
+# ---- flags ----
+def japan(ld, r):
     ld.ellipse([0, 0, 2 * r - 1, 2 * r - 1], fill=WHITE)
     cr = r * 0.58
     ld.ellipse([r - cr, r - cr, r + cr, r + cr], fill=(188, 0, 45))
@@ -62,12 +62,14 @@ def canada(ld, r):
     red = (213, 43, 30)
     bar(ld, r, red, 0, 0, third, w)
     bar(ld, r, WHITE, third, 0, 2 * third, w)
-    bar(ld, r, red, 2 * third, 0, w, w)    ld.polygon([(r, r * 0.28), (r + r * 0.24, r * 0.52), (r + r * 0.12, r * 0.58),
+    bar(ld, r, red, 2 * third, 0, w, w)
+    ld.polygon([(r, r * 0.28), (r + r * 0.24, r * 0.52), (r + r * 0.12, r * 0.58),
                 (r + r * 0.20, r * 0.78), (r + r * 0.05, r * 0.68),
                 (r + r * 0.02, r * 0.95), (r - r * 0.02, r * 0.95),
                 (r - r * 0.05, r * 0.68), (r - r * 0.20, r * 0.78),
                 (r - r * 0.12, r * 0.58), (r - r * 0.24, r * 0.52)],
                fill=red)
+
 def india(ld, r):
     w = 2 * r
     hh = w / 3
@@ -82,6 +84,7 @@ def kazakhstan(ld, r):
     bar(ld, r, (0, 175, 202), 0, 0, w, w)  # #00AFCA
     sun = r * 0.34
     ld.ellipse([r - sun, r - sun, r + sun, r + sun], fill=(254, 196, 11))  # #FEC40B
+
 def barbados(ld, r):
     w = 2 * r
     third = w / 3
@@ -90,9 +93,6 @@ def barbados(ld, r):
     bar(ld, r, blue, 0, 0, third, w)
     bar(ld, r, yellow, third, 0, 2 * third, w)
     bar(ld, r, blue, 2 * third, 0, w, w)
-=======
-    # trident
->>>>>>> 1c79f21891be7c5397724507400d7c22beef5a93
     black = (0, 0, 0)
     shaft_w = max(2, int(r * 0.09))
     ld.rectangle([r - shaft_w / 2, r * 0.30, r + shaft_w / 2, r * 1.85], fill=black)
@@ -101,24 +101,27 @@ def barbados(ld, r):
     ld.rectangle([r - r * 0.55, r * 0.06, r - r * 0.55 + prong_w, r * 0.28], fill=black)
     ld.rectangle([r - prong_w / 2, r * 0.02, r + prong_w / 2, r * 0.28], fill=black)
     ld.rectangle([r + r * 0.55 - prong_w, r * 0.06, r + r * 0.55, r * 0.28], fill=black)
-<<<<<<< HEAD
+
 def philippines(ld, r):
     w = 2 * r
     bar(ld, r, (0, 56, 168), 0, 0, w, r)
     bar(ld, r, (206, 17, 38), 0, r, w, w)
     ld.polygon([(0, 0), (0, w), (w * 0.62, r)], fill=WHITE)
+
 def iran(ld, r):
     w = 2 * r
     hh = w / 3
     bar(ld, r, (35, 159, 64), 0, 0, w, hh)
     bar(ld, r, WHITE, 0, hh, w, 2 * hh)
     bar(ld, r, (218, 0, 0), 0, 2 * hh, w, w)
+
 def egypt(ld, r):
     w = 2 * r
     hh = w / 3
     bar(ld, r, (206, 17, 38), 0, 0, w, hh)
     bar(ld, r, WHITE, 0, hh, w, 2 * hh)
     bar(ld, r, (0, 0, 0), 0, 2 * hh, w, w)
+
 def switzerland(ld, r):
     w = 2 * r
     bar(ld, r, (213, 43, 30), 0, 0, w, w)
@@ -126,6 +129,7 @@ def switzerland(ld, r):
     th = max(2, int(r * 0.12))
     bar(ld, r, WHITE, r - cw / 2, r - th / 2, r + cw / 2, r + th / 2)
     bar(ld, r, WHITE, r - th / 2, r - cw / 2, r + th / 2, r + cw / 2)
+
 def southafrica(ld, r):
     w = 2 * r
     bar(ld, r, (224, 60, 49), 0, 0, w, r)
@@ -133,6 +137,7 @@ def southafrica(ld, r):
     ld.polygon([(0, 0), (0, w), (w * 0.78, r)], fill=(0, 0, 0))
     ld.polygon([(0, r * 0.25), (0, r * 1.75), (w * 0.95, r)], fill=(255, 182, 18))
     bar(ld, r, (0, 122, 77), 0, r * 0.40, w, r * 1.60)
+
 def mexico(ld, r):
     w = 2 * r
     third = w / 3
@@ -164,6 +169,7 @@ for name, ang, fn, rad in members:
     cx = 600 + RING * math.sin(a)
     cy = 600 - RING * math.cos(a)
     badge(cx, cy, rad, fn)
+
 # ---- globe ----
 GCX, GCY = s(600), s(580)
 GR = s(170)
@@ -180,6 +186,7 @@ od.ellipse([GCX - s(215), GCY - s(78), GCX + s(215), GCY + s(78)], outline=GREEN
 orbit = orbit.rotate(-18, center=(GCX, GCY), resample=Image.BICUBIC)
 img = Image.alpha_composite(img.convert("RGBA"), orbit).convert("RGB")
 d = ImageDraw.Draw(img)
+
 leaf = Image.new("RGBA", (W, H), (0, 0, 0, 0))
 ld = ImageDraw.Draw(leaf)
 lcx, lcy = s(800), s(578)
@@ -189,7 +196,8 @@ img = Image.alpha_composite(img.convert("RGBA"), leaf).convert("RGB")
 d = ImageDraw.Draw(img)
 
 # ---- wordmark ----
-font = ImageFont.truetype("/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf", int(s(62)))word = "VANGUARD"
+font = ImageFont.truetype("/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf", int(s(62)))
+word = "VANGUARD"
 spacing = s(10)
 widths = [d.textlength(ch, font=font) for ch in word]
 total = sum(widths) + spacing * (len(word) - 1)
