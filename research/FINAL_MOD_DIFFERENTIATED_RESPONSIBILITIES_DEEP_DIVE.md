@@ -6,7 +6,7 @@
 **“Determining differentiated responsibilities of nuclear-armed States, extended-deterrence beneficiaries, and non-nuclear disarmament advocates for monitoring, victim assistance, and remediation of transboundary radiological harm, without prejudging legal liability”**
 
 **Speaking time:** 75 seconds
-**Status:** Research, bloc differentiation, attack-defence and solution architecture only — **NO SPEECH DRAFTED**
+**Status:** Final research, bloc differentiation, attack-defence and solution architecture. The canonical 75-second speech is now in [`mod/final_differentiated_responsibility.md`](../mod/final_differentiated_responsibility.md).
 
 ---
 
