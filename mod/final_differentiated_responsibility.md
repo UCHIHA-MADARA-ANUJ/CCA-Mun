@@ -6,7 +6,7 @@
 
 **Speaking time:** 75 seconds
 
-**Speech length:** 188 words — calibrated for a fast, controlled 75-second delivery
+**Speech length:** 188 words — calibrated for a fast, controlled 75-second delivery averaging approximately 150 words per minute
 
 **Status:** Final named-target, maximum-aggression, fact-audited version · 22 August 2026
 
@@ -63,14 +63,15 @@ I yield.
 | Time | Section | Delivery |
 |---:|---|---|
 | 0–9 s | Owner / beneficiary / advocate | Immediate prosecutorial rhythm; strike “gets responsibility” |
-| 9–19 s | Japan self-inoculation | Controlled authority; do not sound defensive |
-| 19–34 s | SOURCE–BENEFIT–CAPACITY | Each heading is a separate blow; keep the duty list fast |
-| 34–48 s | Norway | Build from NATO’s own wording; first full-volume peak on “outsource” |
-| 48–55 s | Austria | Slow down; place a hard beat after “implementation” |
-| 55–61 s | Israel | Controlled first sentence, full force on “emergency warning” |
-| 61–66 s | Legal firewall | Fast and clipped; all three safeguards must remain audible |
-| 66–70 s | Registry and outcomes | Precise, solution-focused delivery |
-| 70–75 s | Primary source burden + verdict | Maximum final surge; quiet “I yield” immediately |
+| 9–18 s | Japan self-inoculation | Controlled authority; do not sound defensive |
+| 18–30 s | SOURCE–BENEFIT–CAPACITY | Fastest section; each heading remains a separate blow |
+| 30–40 s | Norway | Build from NATO’s own wording; first full-volume peak on “outsource” |
+| 40–46 s | Austria | Slow down; place a hard beat after “implementation” |
+| 46–52 s | Israel | Controlled first sentence, full force on “emergency warning” |
+| 52–56 s | Legal firewall | Fast and clipped; all three safeguards must remain audible |
+| 56–60 s | Registry and outcomes | Precise, solution-focused delivery |
+| 60–66 s | Primary source burden | Climb through “responsibility to act” |
+| 66–75 s | Final verdict + yield | Slow the final command; quiet “I yield” immediately |
 
 ### Projection doctrine
 
