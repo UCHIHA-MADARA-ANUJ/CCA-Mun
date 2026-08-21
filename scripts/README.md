@@ -3,7 +3,11 @@
 | script | what it makes | how to run |
 |---|---|---|
 | `make_logo.py` | `assets/vanguard_logo_final.png` (roster v2: Barbados in, Kazakhstan out) | needs Pillow |
+<<<<<<< HEAD
 | `build_dr_pdf.py` | `drafts/VANGUARD_DR1.2.pdf` — decorated DR (border, logo, sponsors/signatories, stripped custody tags) | needs reportlab |
+=======
+| `build_dr_pdf.py` | `drafts/VANGUARD_DR1.1.pdf` — decorated DR (border, logo, sponsors/signatories, stripped custody tags) | needs reportlab |
+>>>>>>> 1c79f21891be7c5397724507400d7c22beef5a93
 
 Regeneration (sandbox: system pip is PEP-668-locked, so use a venv):
 
@@ -15,7 +19,11 @@ cd <repo>
 /tmp/pdfenv/bin/python scripts/build_dr_pdf.py
 ```
 
+<<<<<<< HEAD
 The DR PDF always re-reads `drafts/VANGUARD_DR1.2.md`, so editing the MD
+=======
+The DR PDF always re-reads `drafts/VANGUARD_DR1.1.md`, so editing the MD
+>>>>>>> 1c79f21891be7c5397724507400d7c22beef5a93
 (adding clauses, changing sponsors) and re-running the script keeps the PDF in sync.
 Custody tags `[MX anchor]`, `**[JAPAN — UMBRELLA]**` etc. are stripped automatically
 for the circulation version.

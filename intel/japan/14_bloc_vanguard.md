@@ -1,5 +1,9 @@
 # 14 — BLOC ARCHIVE: "VANGUARD — Voluntary Alliance for Nuclear Oversight, Global Accountability, and Remediation Directives"
+<<<<<<< HEAD
 **Status:** 💣 LIVE OPERATIONS — 11 members confirmed (20 Aug 2026): Japan, India, Mexico, Canada, Iran, Switzerland, Egypt, Philippines, Barbados, South Africa, Kazakhstan. Cap 13 — one slot left. Norway = day-of contributor. See CHANGELOG 2026-08-20.
+=======
+**Status:** 💣 LIVE OPERATIONS — bloc formation in progress (user-confirmed core: India, Philippines, Mexico, Canada + Japan)
+>>>>>>> 1c79f21891be7c5397724507400d7c22beef5a93
 **Compiled:** 12 Aug 2026 | **Evidence doctrine:** FACT / INFERENCE / HYPOTHESIS / UNKNOWN labels on everything
 
 ---

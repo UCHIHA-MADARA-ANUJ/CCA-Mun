@@ -1,5 +1,9 @@
 # IRAN — CLAUSE PACKET v1 (Japan-drafted)
+<<<<<<< HEAD
 **Status:** DRAFTED BY JAPAN — Iran delegate inactive (no clauses received). Ready to slot into DR1.2 now; Iran sign-off only needed for sponsor-list confirmation if/when they surface.
+=======
+**Status:** DRAFTED BY JAPAN — Iran delegate inactive (no clauses received). Ready to slot into DR1.1 now; Iran sign-off only needed for sponsor-list confirmation if/when they surface.
+>>>>>>> 1c79f21891be7c5397724507400d7c22beef5a93
 **Lane:** CAGED — clause-level contributor only. Never a face, never co-branded, never a spokesperson.
 **Doctrine:** UNGA-safe verbs only (calls upon / encourages / invites / reaffirms). Zero liability. Zero mandates. Zero naming of any State. Existing mechanisms only.
 **Lineage:** IAEA General Conference GC(XXIX)/RES/444 (1985) + GC(XXXIV)/RES/533 (1990) — the Agency's own consensus language on protection of peaceful nuclear facilities. Verified verbatim in the IAEA Director General's official statement on the situation in Iran (iaea.org, June 2025).
