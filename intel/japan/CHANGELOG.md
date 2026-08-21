@@ -145,7 +145,7 @@
 
 ## 2026-08-21 — Full GSL country-by-country POI arsenal
 - Created `GSL/GSL_POI_COUNTRY_PACK.md` covering all 34 other named delegations plus Japan’s incoming-POI defence.
-- Built one primary POI, one backup, the strategic purpose and a fact-lock for every country on the supplied 35-portfolio roster.
+- Expanded the arsenal to exactly five labeled POIs for each of the 34 other countries: 170 country-specific questions, plus conditional follow-ups and Japan counters.
 - Separated friendly lobs, bridge tests, accountability traps and counter-only questions so VANGUARD members are never accidentally attacked in public.
 - Added a top-12 priority queue, live speech-trigger map, full-marks POI doctrine, never-use list and source ledger.
 - Updated Japan’s plutonium defence to the current official 44.4-tonne end-2024 figure and explicitly retired the stale 45.1-tonne figure in older notes.
