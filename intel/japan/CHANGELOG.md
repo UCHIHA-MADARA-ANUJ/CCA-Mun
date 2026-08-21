@@ -171,3 +171,10 @@
 - Added three draft-ready UNGA recommendations, category-control logic, a five-actor responsibility map, Japan’s 44.4-tonne civilian-plutonium accountability declaration, six scope safeguards and eleven clickable official/high-quality sources.
 - Reused the visibility-audited Japanese navy/crimson/gold design with embedded DejaVu fonts, white metadata headers, readable sources, five-page navigation and non-overlapping footer ornament.
 - Added reproducible generator `scripts/build_substantive_chit2_pdf.py`; validated five pages, searchable text, active links and all factual precision declarations.
+
+## 2026-08-21 — Substantive Chit 3 handwritten SHIELD package
+- Created `substantive_chits/SUBSTANTIVE_CHIT_3.md` and a decorated four-page reference PDF at `substantive_chits/SUBSTANTIVE_CHIT_3.pdf` for MOD 3 on balancing national security and environmental protection.
+- Pages 1–2 contain an exact 440-word handwritten submission; page 3 contains supporting lifecycle architecture and live-customization guidance; page 4 contains six clickable sources and precision declarations.
+- Built the NARROW SHIELD Standard: specific security harm, transboundary-harm assessment, least-restrictive disclosure, preserved emergency warning, lifecycle reporting and independent review.
+- Anchored the balance in the ICJ Nuclear Weapons Advisory Opinion, ILC/UN environmental-conflict principles, IAEA Seven Pillars/Five Principles, Early Notification Convention and UK–Norway information-barrier research.
+- Added reproducible generator `scripts/build_substantive_chit3_pdf.py`; retained the visibility-audited embedded fonts, white metadata headers, readable sources and non-overlapping decoration.
