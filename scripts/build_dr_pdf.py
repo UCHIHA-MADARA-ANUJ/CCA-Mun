@@ -1,10 +1,6 @@
 #!/usr/bin/env python3
 """
-<<<<<<< HEAD
 Build the VANGUARD Draft Resolution 1.2 PDF — "the best PDF ever".
-=======
-Build the VANGUARD Draft Resolution 1.1 PDF — "the best PDF ever".
->>>>>>> 1c79f21891be7c5397724507400d7c22beef5a93
 - A4, navy+gold UN-style double border on every page
 - Embedded VANGUARD bloc logo (roster v2: Barbados in)
 - Masthead: distr. block, DRAFT RESOLUTION 1.1, committee + agenda,
@@ -15,11 +11,7 @@ Build the VANGUARD Draft Resolution 1.1 PDF — "the best PDF ever".
 - Footer + continuation header + light gold VANGUARD watermark
 
 Usage: python3 scripts/build_dr_pdf.py
-<<<<<<< HEAD
 Output: drafts/VANGUARD_DR1.2.pdf
-=======
-Output: drafts/VANGUARD_DR1.1.pdf
->>>>>>> 1c79f21891be7c5397724507400d7c22beef5a93
 """
 import html as _html
 import os
@@ -36,13 +28,8 @@ from reportlab.platypus import (
 )
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-<<<<<<< HEAD
 DR_PATH = os.path.join(ROOT, "drafts", "VANGUARD_DR1.2.md")
 OUT_PATH = os.path.join(ROOT, "drafts", "VANGUARD_DR1.2.pdf")
-=======
-DR_PATH = os.path.join(ROOT, "drafts", "VANGUARD_DR1.1.md")
-OUT_PATH = os.path.join(ROOT, "drafts", "VANGUARD_DR1.1.pdf")
->>>>>>> 1c79f21891be7c5397724507400d7c22beef5a93
 LOGO_PATH = os.path.join(ROOT, "assets", "vanguard_logo_final.png")
 FONT_DIR = "/usr/share/fonts/truetype/dejavu"
 
@@ -160,11 +147,7 @@ def draw_page(canvas, doc):
         canvas.setFillColor(NAVY)
         canvas.drawCentredString(
             W / 2, H - 58,
-<<<<<<< HEAD
             "DRAFT RESOLUTION 1.2 — \u201cGlobal Framework for Nuclear-Ecological "
-=======
-            "DRAFT RESOLUTION 1.1 — \u201cGlobal Framework for Nuclear-Ecological "
->>>>>>> 1c79f21891be7c5397724507400d7c22beef5a93
             "Monitoring, Response and Remediation\u201d")
         canvas.setStrokeColor(GOLD)
         canvas.setLineWidth(0.7)
@@ -186,11 +169,7 @@ def draw_page(canvas, doc):
     canvas.setFillColor(NAVY)
     canvas.setFont("Sans", 7)
     canvas.drawString(48, 42, "CCA MUN \u201926 \u00b7 UNGA \u2014 Delegation of Japan \u00b7 VANGUARD Bloc")
-<<<<<<< HEAD
     canvas.drawRightString(W - 48, 42, "Draft Resolution 1.2 \u2014 Page %d" % pn)
-=======
-    canvas.drawRightString(W - 48, 42, "Draft Resolution 1.1 \u2014 Page %d" % pn)
->>>>>>> 1c79f21891be7c5397724507400d7c22beef5a93
     canvas.restoreState()
 
 
@@ -200,11 +179,7 @@ story = []
 # distr row
 distr = Table(
     [[Paragraph("Distr.: LIMITED", st_mast_small),
-<<<<<<< HEAD
       Paragraph("A/UNGA/2026/DR1.2 &nbsp;\u00b7&nbsp; 20 August 2026", st_mast_small)]],
-=======
-      Paragraph("A/UNGA/2026/DR1.1 &nbsp;\u00b7&nbsp; 20 August 2026", st_mast_small)]],
->>>>>>> 1c79f21891be7c5397724507400d7c22beef5a93
     colWidths=[CW / 2, CW / 2])
 distr.setStyle(TableStyle([
     ("LEFTPADDING", (0, 0), (0, 0), 0),
@@ -217,11 +192,7 @@ story.append(distr)
 story.append(Spacer(1, 6))
 story.append(Image(LOGO_PATH, width=116, height=116, hAlign="CENTER"))
 story.append(Spacer(1, 6))
-<<<<<<< HEAD
 story.append(Paragraph("DRAFT RESOLUTION 1.2", st_title))
-=======
-story.append(Paragraph("DRAFT RESOLUTION 1.1", st_title))
->>>>>>> 1c79f21891be7c5397724507400d7c22beef5a93
 story.append(HRFlowable(width=220, thickness=1.4, color=GOLD, hAlign="CENTER",
                         spaceBefore=3, spaceAfter=5))
 story.append(Paragraph("Submitted by the Delegation of Japan &nbsp;\u00b7&nbsp; on behalf of the "
@@ -248,15 +219,9 @@ story.append(Spacer(1, 7))
 
 # sponsors box
 sponsors = Table(
-<<<<<<< HEAD
     [[Paragraph("<b>SPONSORS (11)</b> \u2014 the VANGUARD Bloc", st_sponsor_lab)],
      [Paragraph("JAPAN \u00b7 INDIA \u00b7 MEXICO \u00b7 CANADA \u00b7 IRAN \u00b7 SWITZERLAND \u00b7 "
                 "EGYPT \u00b7 PHILIPPINES \u00b7 BARBADOS \u00b7 SOUTH AFRICA \u00b7 KAZAKHSTAN", st_sponsor_names)],
-=======
-    [[Paragraph("<b>SPONSORS (10)</b> \u2014 the VANGUARD Bloc", st_sponsor_lab)],
-     [Paragraph("JAPAN \u00b7 INDIA \u00b7 MEXICO \u00b7 CANADA \u00b7 IRAN \u00b7 SWITZERLAND \u00b7 "
-                "EGYPT \u00b7 PHILIPPINES \u00b7 BARBADOS \u00b7 SOUTH AFRICA", st_sponsor_names)],
->>>>>>> 1c79f21891be7c5397724507400d7c22beef5a93
      [Paragraph("VANGUARD \u2014 Voluntary Alliance for Nuclear Oversight, Global "
                 "Accountability and Remediation Directives", st_sponsor_note)]],
     colWidths=[CW])
@@ -309,11 +274,7 @@ for label, body in ops:
 story.append(Spacer(1, 12))
 story.append(HRFlowable(width="100%", thickness=1.0, color=GOLD))
 story.append(Spacer(1, 8))
-<<<<<<< HEAD
 story.append(Paragraph("\u2014&nbsp; END OF DRAFT RESOLUTION 1.2 &nbsp;\u2014", st_end))
-=======
-story.append(Paragraph("\u2014&nbsp; END OF DRAFT RESOLUTION 1.1 &nbsp;\u2014", st_end))
->>>>>>> 1c79f21891be7c5397724507400d7c22beef5a93
 story.append(Spacer(1, 4))
 story.append(Paragraph("Submitted by the Delegation of Japan on behalf of the VANGUARD Bloc "
                        "\u00b7 CCA MUN \u201926 \u00b7 21\u201322 August 2026", st_sub))
@@ -322,11 +283,7 @@ story.append(Paragraph("Submitted by the Delegation of Japan on behalf of the VA
 doc = SimpleDocTemplate(
     OUT_PATH, pagesize=A4,
     leftMargin=56, rightMargin=56, topMargin=80, bottomMargin=68,
-<<<<<<< HEAD
     title="Draft Resolution 1.2 — Global Framework for Nuclear-Ecological Monitoring, "
-=======
-    title="Draft Resolution 1.1 — Global Framework for Nuclear-Ecological Monitoring, "
->>>>>>> 1c79f21891be7c5397724507400d7c22beef5a93
           "Response and Remediation (VANGUARD Bloc)",
     author="Delegation of Japan — CCA MUN '26 (UNGA)",
     subject="UNGA — Assessing the ecological threats of nuclear proliferation on global boundaries",

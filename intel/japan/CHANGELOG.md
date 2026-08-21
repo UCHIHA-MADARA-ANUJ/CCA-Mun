@@ -255,7 +255,6 @@ pip works inside a venv (`/tmp/pdfenv` has reportlab 5.0.1, Pillow 12.3.0, pymup
 - Credits: resolutions → DR PP3; CANWFZ → DR OP9B
 - Merges: fund (INLRF, "without prejudging legal liability" verbatim) → OP9; CTEAF consent wording → OP9A; benchmarks → OP2; Sept-meeting local-level line → OP12
 - Awaiting: user sends DM to KZ; DR1.2 integration on sign-off
-<<<<<<< HEAD
 
 ## 2026-08-20 — DR1.2 (major): KAZAKHSTAN INTEGRATED + EGYPT #1 RESTORED + JAPAN'S CLAUSES UPGRADED
 
@@ -278,5 +277,3 @@ pip works inside a venv (`/tmp/pdfenv` has reportlab 5.0.1, Pillow 12.3.0, pymup
 - **Logo:** 11 badges (Japan top, ring at 32.73°, Kazakhstan + Barbados both in), 2400px.
 - **PDF:** regenerated via scripts (sponsors box now 11); custody tags stripped; validated 0 leaks.
 - Old files removed: drafts/VANGUARD_DR1.1.md + .pdf (history retains them).
-=======
->>>>>>> 1c79f21891be7c5397724507400d7c22beef5a93
